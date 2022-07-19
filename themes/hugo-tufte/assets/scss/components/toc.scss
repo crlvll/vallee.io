@@ -24,6 +24,7 @@ details summary.year {
     font-size: 1.5rem;
     margin-bottom: -1.5rem;
     padding-left: 0;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
 .toc {
@@ -44,4 +45,9 @@ details summary.year {
 .toc li {
     line-height: 0.5rem;
     margin: 1rem;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1rem;
+}
+.toc li>a {
+    text-decoration: none;
 }
