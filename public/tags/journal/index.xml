@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>journal on Dans les marges</title>
+    <link>/tags/journal/</link>
+    <description>Recent content in journal on Dans les marges</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Sat, 17 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/journal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La loi de Goodhart</title>
+      <link>/articles/la-loi-de-goodhart/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/la-loi-de-goodhart/</guid>
+      <description>J&amp;rsquo;ai pris l&amp;rsquo;habitude de compter le nombre de mots (ou de signes, selon qu&amp;rsquo;on mesure à la française ou à l&amp;rsquo;anglo-saxonne) lors de mes sessions d&amp;rsquo;écriture. Cela me permet de marquer mes progrès et d&amp;rsquo;avoir une trace de ce que je fais, le but étant de conserver une certaine inertie, une lancée qui me permet d&amp;rsquo;aller au bout de mon manuscrit.
+À un moment, c&amp;rsquo;était même devenu une obsession : j&amp;rsquo;avais toute une série de scripts pour compter ces mots dans mes documents Google Docs.</description>
+    </item>
+    
+  </channel>
+</rss>

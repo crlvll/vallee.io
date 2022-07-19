@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div id="layout" class="pure-g">
+  <article class="pure-u-1">
+    {{ partial "brand.html" . }}
+    {{ range first 1 .Site.RegularPages }}
+  {{ partial "content.header.html" . }}
+  {{ .Content }}
+{{ end  }}
+<p style="text-align: center;color: lightgrey";>⦿&nbsp;⦿&nbsp;⦿</p>
+<section id="old-posts">
+<h2 style="padding-top: 2rem;">Anciens articles</h2>
+<ul>
+  {{ range .Site.RegularPages }}
+    {{ if not .Params.notfrontpage }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  {{ end  }}
+</ul>
+</section>
+    {{ partial "footer.html" . }}
+  </article>
+</div>
+{{ end }}

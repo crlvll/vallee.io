@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 328 254" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g transform="matrix(1,0,0,1,112,49.008)">
+        <path d="M0,-11.903C58.641,-11.903 106.895,36.351 106.895,94.992C106.895,153.633 58.641,201.887 0,201.887C-49.701,201.887 -93.162,167.225 -104.217,118.769L0,94.992L0,-11.903Z" style="fill:rgb(236,236,255);fill-rule:nonzero;"/>
+        <path d="M-104.217,118.769C-105.997,110.969 -106.895,102.993 -106.895,94.992C-106.895,36.351 -58.641,-11.903 -0,-11.903L0,94.992L-104.217,118.769Z" style="fill:rgb(255,255,222);fill-rule:nonzero;"/>
+        <g transform="matrix(1,0,0,1,41.7856,33.326)">
+            <text x="-16.012px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;">71%</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-41.7856,-33.326)">
+            <text x="-16.012px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;">29%</text>
+        </g>
+        <g transform="matrix(1,0,0,1,0,-20.5706)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;">Fiction vs Non-ﬁction</text>
+        </g>
+        <g transform="matrix(1,0,0,1,124.808,-12.7119)">
+            <rect x="0" y="94.992" width="10.401" height="10.401" style="fill:rgb(236,236,255);stroke:rgb(236,236,255);stroke-width:1px;"/>
+            <g transform="matrix(1,0,0,1,12.7119,103.081)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;">Non-ﬁction</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,124.808,0)">
+            <rect x="0" y="94.992" width="10.401" height="10.401" style="fill:rgb(255,255,222);stroke:rgb(255,255,222);stroke-width:1px;"/>
+            <g transform="matrix(1,0,0,1,12.7119,103.081)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;">Fiction</text>
+            </g>
+        </g>
+    </g>
+</svg>
