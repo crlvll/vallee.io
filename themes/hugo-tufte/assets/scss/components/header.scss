@@ -4,8 +4,11 @@ header.brand {
 
 /* Main brand title */
 header.brand h1 {
+    display: inline-block; float: left;
     margin: 0;
-    font-weight: 400;
+    max-width: 15%;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
     color: #333;
 }
 header.brand>a {

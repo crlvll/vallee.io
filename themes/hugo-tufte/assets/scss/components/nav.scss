@@ -1,20 +1,26 @@
-
+nav.menu {
+    display: block;
+    margin: 0 0 0 15rem;
+}
 nav.menu ul {
     list-style: none;
-    display: block;
+    display: inline-block;
     text-align:left;
     margin-top: 0.75rem;
     padding: 0;
-    max-width: 45rem;
+    max-width: 10rem;
     /* Width is the same as tufte.css body */
     font-size: 0.9rem;
     width: 87.5%;
 }
 
 nav.menu li {
-    display: inline-block;
+    /*display: inline-block;*/
     margin-right: 1rem;
-    font-family: sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1rem;
 }
 
 nav.menu li a {
@@ -24,7 +30,7 @@ nav.menu li a {
     letter-spacing: 0.05em;
     text-transform: uppercase;
 }
-header {opacity: 0.42;
+header {opacity: 0.3;
     transition: opacity .5s}
 header:hover {opacity:1;}
 nav.menu li a:hover,
@@ -32,3 +38,9 @@ nav.menu li a:active,
 nav.menu li a:focus {
     background: inherit;
     color: #333;}
+
+@media screen and (max-width: 760px) {
+    nav.menu ul {
+    max-width: 5rem;
+}
+}

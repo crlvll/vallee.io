@@ -38,8 +38,8 @@ code {
 .marginnote {
     margin-right: -55%;
     width: 45%;
-    font-family: sans-serif;
-    font-size: 1rem;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.9rem;
 }
 
 
@@ -55,7 +55,7 @@ h1.content-title a:link,
 h1.content-title a:visited {
     background: transparent;
     text-decoration: none;
-    color: inherit;
+    color: #ff0000;
 }
 h1.content-title a:hover,
 h1.content-title a:focus {

@@ -6,9 +6,9 @@
 @charset "UTF-8";
 
 
-/* Import Tinos for arveed.com */
+/* Import Tinos and Source Serif Pro for arveed.com */
 
-@import url('https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&family=Source+Serif+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 /* Tufte CSS styles */
 html {
     font-size: 15px;
@@ -19,7 +19,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     padding-left: 12.5%;
-    font-family: 'Tinos', serif;
+    font-family: 'Source Serif Pro', serif;
     background-color: #ffffff;
     color: #333;
     max-width: 1400px;
@@ -57,6 +57,7 @@ p.subtitle {
     margin-top: 0rem;
     margin-bottom: 1rem;
     font-size: 1.8rem;
+    font-weight: 400;
     display: block;
     line-height: 1;
 }
@@ -168,7 +169,7 @@ figcaption {
     margin-top: 0;
     margin-bottom: 0;
     font-size: 1.1rem;
-    font-family: sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     color: #555;
     line-height: 1.6;
     vertical-align: baseline;
@@ -310,7 +311,7 @@ div.table-wrapper {
 }
 
 .sans {
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+    font-family: 'Source Sans Pro', Calibri, sans-serif;
     letter-spacing: 0.03em;
 }
 

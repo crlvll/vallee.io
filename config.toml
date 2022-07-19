@@ -41,36 +41,36 @@ katex = true
 # -----------------------------------------------------------------------
 # Navigation menu 
 # -----------------------------------------------------------------------
-[[menu.nav]]
-  name = "Accueil"
-  pre = "<i class='fas fa-home la-lg'></i>"
-  weight = -110 
-  identifier = "home"
-  url = "/"
-[[menu.nav]]
-  name = "Now"
-  pre = "<i class='fas fa-tags fa-lg'></i> "
-  weight = -90 
-  identifier = "categories"
-  url = "/now"
+#[[menu.nav]]
+#  name = "Accueil"
+#  pre = "<i class='fas fa-home la-lg'></i>"
+#  weight = -110 
+#  identifier = "home"
+#  url = "/"
+#[[menu.nav]]
+#  name = "Now"
+#  pre = "<i class='fas fa-tags fa-lg'></i> "
+#  weight = -90 
+#  identifier = "categories"
+#  url = "/now"
 [[menu.nav]]
   name = "À propos"
-  pre = "<i class='fas fa-info-circle  fa-lg'></i> "
+  pre = ""
   weight = -80 
   identifier = "a-propos"
   url = "/a-propos"
 [[menu.nav]]
   name = "Mes Livres"
-  pre = "<i class='fab fa-github fa-lg'></i> "
+  pre = ""
   weight = -70 
   identifier = "livres"
   url = "https://www.cyrilvallee.com"
-[[menu.nav]]
-  name = "Archives"
-  pre = "<i class='fas fa-book fa-lg'></i> "
-  weight = -60 
-  identifier = "Les Archives"
-  url = "/articles"
+#[[menu.nav]]
+#  name = "Archives"
+#  pre = ""
+#  weight = -60 
+#  identifier = "Les Archives"
+#  url = "/articles"
 
 # -----------------------------------------------------------------------
 # FOOTER MENU

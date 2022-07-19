@@ -3,7 +3,14 @@
     {{ range .Site.Menus.nav  }}
         <li><a href="{{ .URL }}">{{ .Name }}</a></li>
     {{ end }}
-    {{ if isset .Site.Params "twitter" }}
+    
+    </ul>
+    <ul>
+        <li><a href="/now">now</a></li>
+        <li><a href="/articles">les archives</a></li>
+    </ul>
+    <ul>
+        {{ if isset .Site.Params "twitter" }}
       <li><a href="https://twitter.com/{{.Site.Params.twitter}}"><i class='fab fa-twitter fa-lg'></i></a></li>
       {{ end }}
       {{ if isset .Site.Params "instagram" }}
