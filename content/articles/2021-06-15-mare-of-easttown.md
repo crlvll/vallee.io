@@ -10,7 +10,7 @@ mermaid = false
 categories = ["inspiration"]
 draft = false
 slug = "mare-of-easttown"
-
+summary = "Avis à chaud après le visionnage de la mini-série. Qu'est-ce qui m'a fait autant l'apprécier ?"
 +++
 
 Wow. Je suis complètement retourné. Quel show, mais quel show&nbsp;!

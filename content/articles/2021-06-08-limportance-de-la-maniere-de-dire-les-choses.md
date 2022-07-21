@@ -10,7 +10,7 @@ mermaid = false
 categories = ["matiereapenser","sciences-humaines"]
 draft = false
 slug = "limportance-de-la-maniere-de-dire-les-choses"
-
+summary = "Note rapide sur l'affichage d'une certaine confiance en soi dans la communication."
 +++
 
 Dans Le Cygne Noir, Nassim Taleb écrit que les êtres humains croient à tout ce qu’on leur raconte, tant que c’est dit avec assurance. Nous sommes entraînés à détecter la moindre faille dans la confiance que l’on affiche, ce qui sème le doute dans notre esprit avant même qu’on l’ait exprimé soi-même. 

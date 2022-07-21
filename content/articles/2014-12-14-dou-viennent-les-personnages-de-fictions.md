@@ -10,7 +10,9 @@ toc = false
 mermaid = false
 categories = ["ecriture"]
 draft = false
-
+thumbnail = "https://live.staticflickr.com/65535/51998049053_8fac137690_w_d.jpg"
+popular = true
+summary = "Pourquoi on s'attache à des personnes dont nous savons qu'elles ne sont pas réelles ?"
 +++
 
 Un concept intéressant développé par l&rsquo;auteur Cory Doctorow lors du podcast _Writing Excuses_.  

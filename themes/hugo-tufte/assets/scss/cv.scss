@@ -88,6 +88,38 @@ blockquote { font-size: 1.2rem; }
 blockquote footer { font-size: 1.1rem; }
 figcaption { font-size: 0.8rem;
              line-height: 1.6; }
+
+.min {
+    width: 87.5%;
+    max-width: 39rem;
+    margin: 0 0 0 3rem;
+    opacity: 0.3;
+}
+
+.nopoints {
+    list-style-type: none;
+    padding-bottom: 1rem;
+}
+.excerpts {
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    margin-top: -1.7rem;
+}
+.formhome {
+    display: block;
+    max-width: 45rem;
+}
+.frontthumbnail {
+    float: left;
+    margin: 0 1rem 0 -3rem;
+    border-radius: 5px;
+    border: 1px solid #efefef;
+    background-color: #efefef !important;
+    height: 6.6666667rem;
+    min-width: 10rem;
+
+}
+
 //.sidenote, .marginnote { font-size: 0.8rem;
 //                         line-height: 1.3; }
 

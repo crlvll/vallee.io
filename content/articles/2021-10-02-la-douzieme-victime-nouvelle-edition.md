@@ -4,6 +4,8 @@ date: 2021-10-02T18:35:46+01:00
 draft: false
 slug: "la-douzieme-victime-nouvelle-edition"
 meta: true
+summary: "La maison d'édition Heartless doit fermer ses portes. Quelle seconde vie pour mon thriller ?"
+popular: false
 ---
 
 

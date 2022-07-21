@@ -1,17 +1,19 @@
-+++
-author = ""
-date = "2017-02-14T10:48:06"
-meta = true
-math = false
-title = "Les règles de Heinlein"
-subtitle = ""
-toc = false
-mermaid = false
-categories = ["ecriture"]
-draft = false
-slug = "les-regles-de-heinlein"
-
-+++
+---
+author : ""
+date : "2017-02-14T10:48:06"
+meta : true
+math : false
+title : "Les règles de Heinlein"
+subtitle : ""
+toc : false
+mermaid : false
+categories : ["ecriture"]
+draft : false
+slug : "les-regles-de-heinlein"
+popular : true
+summary : "Les règles de Heinlein sont presque impossibles à suivre. Vraiment ?"
+thumbnail: "/images/heinlein.jpg"
+---
 
 
 Je connaissais déjà les règles d’écritures de Heinlein, pour être tombé dessus à l’époque où je passais plus de temps à chercher des articles sur l’écriture qu’à écrire — indice : mettez-vous tout de suite à l’écriture, plutôt que de procrastiner{{< sidenote >}}Bien sûr, j'ai beaucoup de mal à suivre mon propre conseil. On dirait que le cerveau est programmé pour cela: procrastiner.{{< /sidenote >}}. Ce que je croyais avoir compris à propos de ces règles était loin de leur signification réelle.  
@@ -28,8 +30,8 @@ En fait, comme beaucoup de ce qui parait simple, ces règles sont complexes et p
   attr="Image Wikimedia"
   attrlink="https://en.wikipedia.org/wiki/Robert_A._Heinlein#/media/File:Robert_A_Heinlein_5311_(filtered).jpg"
   alt="Heinlein, c. 1953."
-  link=""
- >}}
+  link="" >}}
+ 
 Je vais vous renvoyer vers l’article de [Wikipedia][1] à son sujet, mais résumons en disant simplement qu’il était un auteur américain de science-fiction quatre fois primé au [Hugo][2].  
 
 ## Les règles

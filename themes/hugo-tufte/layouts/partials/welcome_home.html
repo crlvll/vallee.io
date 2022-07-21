@@ -1,0 +1,39 @@
+<p>
+      Hello ! <b>Arveed point com</b> est un blog de <b>Cyril Vallée.</b> (Moi, donc.)
+</p>
+<p>
+      Je suis <a href="https://www.cyrilvallee.com">romancier</a> et <a href="https://www.h-fr.ch/nos-formations/centre-de-formation-des-soins">technopédagogue</a>.
+      Je suis l'auteur de romans dans différents genres comme:
+      <ul>
+        <li class="nopoints"><a href="https://www.cyrilvallee.com/timeskippers/">Timeskippers</a>, Livre I</li>
+        <li class="nopoints"><a href="https://www.cyrilvallee.com/totem-un-thriller/">Totem: un thriller</a></li>
+        <li class="nopoints"><a href="https://www.cyrilvallee.com/le-reflet-des-etoiles/">Le Reflet des Etoiles</a></li>
+        <li class="nopoints"><a href="https://www.cyrilvallee.com/teddy-bear/">Teddy Bear</a></li>
+      </ul>
+</p>
+<p>
+      Si vous êtes intéressé à en savoir un peu plus, le plus simple est de vous abonner à la <a href="https://www.cyrilvallee.com/">newsletter</a> de mon site d'auteur. En prime, vous aurez droit à des histoires gratuites (qui n'aime pas les cadeaux ?)
+</p>  
+<p>
+      Vous pouvez rejoindre la mailing-list directement depuis ici:
+      {{ partial "formulaire.html"}}
+</p>  
+<hr class="min">
+<h2>
+      Articles et essais populaires
+</h2>
+<ul>
+{{ range .Site.RegularPages }}
+    {{ if not .Params.notfrontpage }}
+      {{ if .Params.popular }}
+            <li class="nopoints">
+              <a href="{{ .RelPermalink }}" style="text-decoration: none;">
+              {{ if .Params.thumbnail }}
+                <img class="frontthumbnail" src="{{ .Params.thumbnail }}" alt="">
+              {{ end }}
+              <span><h4>{{ .Title }}</h4><div class="excerpts">{{ .Summary }}</div></span></a></li>      
+      {{ end }}
+    {{ end }}
+  {{ end  }}
+</ul>
+<hr class="min">

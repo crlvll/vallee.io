@@ -5,7 +5,9 @@ draft: false
 meta: true
 subtitle: "La réédition de mon thriller mérite une nouvelle couverture."
 slug: "decouvrez-la-couverture-de-totem"
-
+summary: "La ré-édition de mon thriller est l'occasion rêvée d'un nouveau visuel et d'une nouvelle couverture."
+thumbnail: "/articles/img/TOTEMcover.jpg"
+popular: false
 ---
 
 
