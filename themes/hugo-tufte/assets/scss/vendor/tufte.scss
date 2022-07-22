@@ -53,7 +53,8 @@ h3 {
 }
 
 p.subtitle {
-    font-style: italic;
+    font-style: normal;
+    letter-spacing: -1px;
     margin-top: 0rem;
     margin-bottom: 1rem;
     font-size: 1.8rem;
@@ -92,6 +93,7 @@ p {
     margin-bottom: 1.4rem;
     padding-right: 0;
     vertical-align: baseline;
+    letter-spacing: -0.5px;
 }
 
 /* Chapter Epigraphs */
