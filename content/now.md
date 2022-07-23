@@ -21,8 +21,4 @@ Mon autre profession de romancier occupe le reste de mon temps libre. Je suis en
 Plus d'informations sur [mon site d'auteur](https://www.cyrilvallee.com). 
 
 ## Lectures
-- [How Emotions are Made ](https://amzn.to/3IVvkK8) de Lisa Feldman Barrett
-- [The Daily Laws](https://amzn.to/3ATG210) de Robert Greene
-- [Le Pouvoir Réthorique](https://amzn.to/3GgyjLy) de Clement Viktorovitch 
-
-Quoi qu’il arrive, comme le [dit si bien Neil Gaiman](https://jamesclear.com/great-speeches/make-good-art-by-neil-gaiman) : “Make Good Art”.
+- [The Terminal List](https://amzn.to/3onTvsz) de Jack Carr
