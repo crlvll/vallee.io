@@ -3,7 +3,6 @@ title = "Now"
 hasMath = false 
 subtitle = "Dernière édition: février 2022"
 notfrontpage = true
-Test
 +++
 
 Ceci est une page now{{< sidenote >}}Sur une idée de [Derek Sivers](https://sive.rs/nowff), une page _now_ concentre en un seul endroit — cette page —  les réponses aux questions souvent posées : qu'est-ce que je fais en ce moment, sur quoi je me concentre, qu'est-ce qui attire mon attention, ou pas.{{< /sidenote >}}, et si vous maintenez un site, vous devriez en créer une !
