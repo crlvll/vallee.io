@@ -3,13 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/articles/</loc>
-    <lastmod>2021-06-08T17:18:21+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2021-06-08T17:18:21+00:00</lastmod>
+    <lastmod>2022-02-26T21:10:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2021-06-08T17:18:21+00:00</lastmod>
+    <lastmod>2022-02-26T21:10:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2022-02-26T21:10:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/essai/</loc>
+    <lastmod>2022-02-26T21:10:00+00:00</lastmod>
+  </url><url>
+    <loc>/articles/les-robots-font-ils-peur/</loc>
+    <lastmod>2022-02-26T21:10:00+00:00</lastmod>
+  </url><url>
+    <loc>/articles/decouvrez-la-couverture-de-totem/</loc>
+    <lastmod>2021-10-14T18:35:06+01:00</lastmod>
+  </url><url>
+    <loc>/articles/la-douzieme-victime-nouvelle-edition/</loc>
+    <lastmod>2021-10-02T18:35:46+01:00</lastmod>
+  </url><url>
+    <loc>/categories/inspiration/</loc>
+    <lastmod>2021-06-15T21:10:00+00:00</lastmod>
+  </url><url>
+    <loc>/articles/mare-of-easttown/</loc>
+    <lastmod>2021-06-15T21:10:00+00:00</lastmod>
+  </url><url>
+    <loc>/articles/limportance-de-la-maniere-de-dire-les-choses/</loc>
+    <lastmod>2021-06-08T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/matiereapenser/</loc>
+    <lastmod>2021-06-08T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/sciences-humaines/</loc>
+    <lastmod>2021-06-08T19:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/ecriture/</loc>
     <lastmod>2021-06-08T17:18:21+00:00</lastmod>
@@ -29,20 +56,29 @@
     <loc>/categories/blog/</loc>
     <lastmod>2019-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/journal/</loc>
-    <lastmod>2019-08-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/articles/la-loi-de-goodhart/</loc>
     <lastmod>2019-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/notes/</loc>
-    <lastmod>2019-08-17T00:00:00+00:00</lastmod>
+    <loc>/articles/ne-soyez-pas-un-chimpanze-conformiste/</loc>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2019-08-17T00:00:00+00:00</lastmod>
+    <loc>/articles/le-faux-raisonnement-de-planification/</loc>
+    <lastmod>2019-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/articles/perseverer-et-resister/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/articles/la-creation-des-habitudes/</loc>
     <lastmod>2019-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/notes/</loc>
+    <lastmod>2019-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2019-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/articles/capables-du-pire-comme-du-meilleur/</loc>
+    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/articles/pour-vaincre-la-resistance-en-prendre-conscience/</loc>
     <lastmod>2019-07-16T00:00:00+00:00</lastmod>
@@ -62,6 +98,12 @@
     <loc>/articles/les-regles-de-heinlein/</loc>
     <lastmod>2017-02-14T10:48:06+00:00</lastmod>
   </url><url>
+    <loc>/articles/techniques-decriture-construction-dun-recit-ouvrages-de-reference/</loc>
+    <lastmod>2015-11-25T18:00:01+00:00</lastmod>
+  </url><url>
+    <loc>/articles/comment-voler-du-temps-pour-ecrire/</loc>
+    <lastmod>2015-07-31T12:21:15+00:00</lastmod>
+  </url><url>
     <loc>/articles/dou-viennent-les-personnages-de-fictions/</loc>
     <lastmod>2014-12-14T19:03:06+00:00</lastmod>
   </url><url>
@@ -74,6 +116,9 @@
     <loc>/articles/une-facon-de-faire-les-revisions-dans-scrivener/</loc>
     <lastmod>2014-01-18T20:41:06+00:00</lastmod>
   </url><url>
+    <loc>/articles/ecrire-travailler-sur-la-structure/</loc>
+    <lastmod>2013-12-23T13:30:39+00:00</lastmod>
+  </url><url>
     <loc>/articles/comment-cory-doctorow-fait-il-pour-tre-aussi-productif/</loc>
     <lastmod>2013-05-25T16:53:56+00:00</lastmod>
   </url><url>
@@ -83,12 +128,12 @@
     <loc>/articles/scrivener-adapter-comme-un-environnement-minimaliste/</loc>
     <lastmod>2013-03-21T23:15:28+00:00</lastmod>
   </url><url>
+    <loc>/a-propos/</loc>
+  </url><url>
     <loc>/mes-livres/</loc>
   </url><url>
     <loc>/now/</loc>
   </url><url>
     <loc>/series/</loc>
-  </url><url>
-    <loc>/a-propos/</loc>
   </url>
 </urlset>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>essai on Arveed</title>
+    <link>/categories/essai/</link>
+    <description>Recent content in essai on Arveed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Sat, 26 Feb 2022 21:10:00 +0000</lastBuildDate><atom:link href="/categories/essai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Robots</title>
+      <link>/articles/les-robots-font-ils-peur/</link>
+      <pubDate>Sat, 26 Feb 2022 21:10:00 +0000</pubDate>
+      
+      <guid>/articles/les-robots-font-ils-peur/</guid>
+      <description>La démo de Boston Dynamics me pose question. Doit-on avoir peur des robots ?</description>
+    </item>
+    
+  </channel>
+</rss>

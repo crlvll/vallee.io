@@ -143,9 +143,30 @@ h1 .code, h2 .code, h3 .code { font-size: 0.80em; }
 }
 
 .copyright p {
-    line-height: 1.4rem;
+    line-height: 1rem;
 }
 
 .previous-post, .next-post {
     font-size: 1.5rem;
+}
+
+/* https://css-tricks.com/full-width-containers-limited-width-parents/#no-calc-needed */
+/* Full alignment */
+.alignfull {
+  width: 97.5vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin: 32px -56vw;
+  padding-left: 1%;
+  padding-right: 1%; 
+}
+
+/* Wide alignment */
+.alignwide {
+  width: 63.36vw;
+  position: unset;
+  left: 50%;
+  right: 50%;
+  margin: 32px -5vw;
 }

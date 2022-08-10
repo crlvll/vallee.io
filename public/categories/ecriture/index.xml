@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ecriture on Dans les marges</title>
+    <title>ecriture on Arveed</title>
     <link>/categories/ecriture/</link>
-    <description>Recent content in ecriture on Dans les marges</description>
+    <description>Recent content in ecriture on Arveed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Tue, 08 Jun 2021 17:18:21 +0000</lastBuildDate><atom:link href="/categories/ecriture/index.xml" rel="self" type="application/rss+xml" />
@@ -34,7 +34,27 @@ Hier, mon application de podcast préférée1 a fait remonter dans ma liste un �
       <pubDate>Tue, 14 Feb 2017 10:48:06 +0000</pubDate>
       
       <guid>/articles/les-regles-de-heinlein/</guid>
-      <description>Je connaissais déjà les règles d’écritures de Heinlein, pour être tombé dessus à l’époque où je passais plus de temps à chercher des articles sur l’écriture qu’à écrire — indice : mettez-vous tout de suite à l’écriture, plutôt que de procrastiner Bien sûr, j&amp;rsquo;ai beaucoup de mal à suivre mon propre conseil. On dirait que le cerveau est programmé pour cela: procrastiner. . Ce que je croyais avoir compris à propos de ces règles était loin de leur signification réelle.</description>
+      <description>Les règles de Heinlein sont presque impossibles à suivre. Vraiment ?</description>
+    </item>
+    
+    <item>
+      <title>Techniques d’écriture, construction d’un récit, ouvrages de référence</title>
+      <link>/articles/techniques-decriture-construction-dun-recit-ouvrages-de-reference/</link>
+      <pubDate>Wed, 25 Nov 2015 18:00:01 +0000</pubDate>
+      
+      <guid>/articles/techniques-decriture-construction-dun-recit-ouvrages-de-reference/</guid>
+      <description>Il y a quelque temps, je tombais sur un article qui faisait la comparaison entre écrivains et artistes.
+L’idée était de penser que l’écrivain était différent de l’artiste au moins en ce sens que le premier commence par essayer de créer un produit fini sans avoir d’abord travaillé chaque qualité individuelle nécessaire à la création du produit final (l’Histoire).
+Un dessinateur va par exemple s’entraîner sur les parties spécifiques, comme les ombres, ou le trait, sans avoir besoin de créer une œuvre à part entière.</description>
+    </item>
+    
+    <item>
+      <title>Comment voler du temps pour écrire ?</title>
+      <link>/articles/comment-voler-du-temps-pour-ecrire/</link>
+      <pubDate>Fri, 31 Jul 2015 12:21:15 +0000</pubDate>
+      
+      <guid>/articles/comment-voler-du-temps-pour-ecrire/</guid>
+      <description>Il y a trois ans, j’avais une superbe idée pour un thriller technologique. Je ne savais pas comment m’y prendre, et jamais je n’avais attaqué un aussi gros projet d’écriture. J’imaginais qu’il me faudrait six à huit mois pour finir le livre. Deux ans plus tard, je publiais Ximera La publication, avec la découverte du monde Kindle, des ebooks, de la confection d’une couverture, Createspace et j’en passe mérite un article à part entière.</description>
     </item>
     
     <item>
@@ -43,9 +63,7 @@ Hier, mon application de podcast préférée1 a fait remonter dans ma liste un �
       <pubDate>Sun, 14 Dec 2014 19:03:06 +0000</pubDate>
       
       <guid>/articles/dou-viennent-les-personnages-de-fictions/</guid>
-      <description>Un concept intéressant développé par l’auteur Cory Doctorow lors du podcast Writing Excuses.
-Article originellement paru sur OLSF.
-Ces idées sont une transcription maladroite de celles de Cory Doctorow, qui était l’invité du célèbre podcast Writing Excuses. Au passage, ce podcast mérite votre attention si vous vous débrouillez en anglais. Il regorge d’expériences et d’idées, et reste assez court à écouter (c’est l’un des concepts : il dure moins de quinze minutes).</description>
+      <description>Pourquoi on s&amp;rsquo;attache à des personnes dont nous savons qu&amp;rsquo;elles ne sont pas réelles ?</description>
     </item>
     
     <item>
@@ -66,6 +84,16 @@ Découvrez dans ce court article pourquoi, en sept points fondamentaux.
       
       <guid>/articles/une-facon-de-faire-les-revisions-dans-scrivener/</guid>
       <description>L’idée du premier jet est de ne pas se laisser tenter et de corriger au fur et à mesure que vous racontez votre histoire, mais bien de littéralement « cracher » l’histoire telle qu’elle vous vient, et ceci le plus vite possible. De cette manière, je rentre dans « la zone », et tout ce que je fais, c’est raconter l’histoire, sans m’interrompre sans cesse sur la qualité de ce que j’écris.</description>
+    </item>
+    
+    <item>
+      <title>Ecrire: travailler sur la structure</title>
+      <link>/articles/ecrire-travailler-sur-la-structure/</link>
+      <pubDate>Mon, 23 Dec 2013 13:30:39 +0000</pubDate>
+      
+      <guid>/articles/ecrire-travailler-sur-la-structure/</guid>
+      <description>D’après ce que j’ai pu constater, on peut dire qu’il y a deux types d’auteurs : ceux qui ne peuvent commencer à écrire sans avoir une idée précise et un plan de ce qu’ils vont écrire, et ceux qui partent sur une idée, et se laissent « porter par l’histoire ou les personnages ».
+Si vous avez parcouru un peu le site, vous aurez compris que je fais partie des premiers.</description>
     </item>
     
     <item>
