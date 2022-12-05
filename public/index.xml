@@ -307,6 +307,15 @@ Longtemps professionnel de l’urgence, il a rencontré l’écriture au travers
     </item>
     
     <item>
+      <title>Les Archives</title>
+      <link>/articles/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/archive/</guid>
+      <description>This page contains an archive of all posts.</description>
+    </item>
+    
+    <item>
       <title>Mes Livres</title>
       <link>/mes-livres/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

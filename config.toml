@@ -72,7 +72,7 @@ katex = true
 #  pre = ""
 #  weight = -60 
 #  identifier = "Les Archives"
-#  url = "/articles"
+#  url = "/articles/archive/"
 
 # -----------------------------------------------------------------------
 # FOOTER MENU
