@@ -2,7 +2,9 @@
 # themesDir = "../../"
 
 theme = "hugo-tufte"
-languageCode = "fr"
+languageCode = "fr-FR"
+defaultContentLanguage = "fr"
+defaultContentLang = "fr"
 # The url of your website
 baseurl = ""
 title = "Arveed"
@@ -29,7 +31,7 @@ katex = true
   # reddit = "Slashformotion"
   # stackoverflow = "16609732/slashformotion"
   instagram = "_cyrilvallee_"
-  # mastodon = "instance.url/@username"
+  mastodon = "tooting.ch/@arveed"
   # orcid = "0000-0003-0634-3275"
   # google_scholar = "jm5QaHkAAAAJ"
 

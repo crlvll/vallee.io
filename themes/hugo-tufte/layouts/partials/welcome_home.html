@@ -2,22 +2,12 @@
       Hello ! <b>Arveed point com</b> est un blog de <b>Cyril Vallée.</b> (Moi, donc.)
 </p>
 <p>
-      Je suis <a href="https://www.cyrilvallee.com">romancier</a> et <a href="https://www.h-fr.ch/nos-formations/centre-de-formation-des-soins">technopédagogue</a>.
-      Je suis l'auteur de romans dans différents genres comme:
-      <div class="alignwide" >
-            <a href="https://www.cyrilvallee.com/timeskippers/"><img class="image_frontpage" style="padding-left: 1%" src="https://www.cyrilvallee.com/images/timeskippers1-cover.jpg" width="22%" alt=""></a>
-            <a href="https://www.cyrilvallee.com/totem-un-thriller/"><img class="image_frontpage" style="padding-left: 1%" src="https://www.cyrilvallee.com/images/totem-cover.jpg" width="22%" alt=""></a>
-            <a href="https://www.cyrilvallee.com/le-reflet-des-etoiles/"><img class="image_frontpage" style="padding-left: 1%" src="https://www.cyrilvallee.com/images/lrde-cover.jpg" width="22%" alt=""></a>
-            <a href="https://www.cyrilvallee.com/teddy-bear/"><img class="image_frontpage" style="padding-left: 1%" src="https://www.cyrilvallee.com/images/tb-cover.jpg" width="22%" alt=""></a>
-      </div>
+      Je suis <a href="https://www.cyrilvallee.com">romancier</a> et <a href="https://www.h-fr.ch/nos-formations/centre-de-formation-des-soins">technopédagogue</a>.<br>
+      Je suis l'auteur de romans de genres : <a href="https://www.cyrilvallee.com/totem-un-thriller/">thrillers</a>, <a href="https://www.cyrilvallee.com/le-reflet-des-etoiles/">science-fiction</a> et <a href="https://www.cyrilvallee.com/timeskippers/">fantastique</a>.
 </p>
 <p>
-      Si vous êtes intéressé à en savoir un peu plus, le plus simple est de vous abonner à la <a href="https://www.cyrilvallee.com/">newsletter</a> de mon site d'auteur. En prime, vous aurez droit à des histoires gratuites (qui n'aime pas les cadeaux ?)
-</p>  
-<p>
-      Vous pouvez rejoindre la mailing-list directement depuis ici:
-      {{ partial "formulaire.html"}}
-</p>  
+      Si vous voulez en savoir plus, visitez mon <a href="https://www.cyrilvallee.com/">site officiel</a>. Vous y trouverez aussi un lien pour vous abonner à ma newsletter. En prime, vous aurez droit à des histoires gratuites (qui n'aime pas les cadeaux ?)
+</p>   
 <hr class="min">
 <h2>
       Articles et essais populaires
@@ -31,7 +21,7 @@
               {{ if .Params.thumbnail }}
                 <img class="frontthumbnail" src="{{ .Params.thumbnail }}" alt="">
               {{ end }}
-              <span><h4>{{ .Title }}</h4><div class="excerpts">{{ .Summary }}</div></span></a></li>      
+              <span><h4>{{ .Title }}</h4></a></span><div class="excerpts">{{ .Summary }}</div></span></li>      
       {{ end }}
     {{ end }}
   {{ end  }}

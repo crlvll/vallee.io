@@ -1,7 +1,9 @@
-html, button, input, select, textarea, p, nav, section, article, header, footer, .pure-g [class *= "pure-u"] {
+html, button, input, select, textarea, p, nav, section, article, header, .pure-g [class *= "pure-u"] {
     font-family: 'Source Serif Pro', serif;
 }
-
+footer, footer.copyright p {
+    font-family: sans-serif;
+}
 a>img {
     text-decoration: none;
 }
@@ -45,6 +47,9 @@ h3 { font-style: normal;
      margin-top: 2rem;
      margin-bottom: 0;
      line-height: 1; }
+h4 {
+    font-family: sans-serif;
+}
 
 p.subtitle { font-size: 1.54284rem;
              line-height: 1; }
@@ -70,7 +75,7 @@ font-weight: bold;
 }
 p, ol, ul { font-size: 1.333333rem; 
     line-height: 1.8rem;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 p { 
@@ -144,10 +149,11 @@ h1 .code, h2 .code, h3 .code { font-size: 0.80em; }
 
 .copyright p {
     line-height: 1rem;
+    padding-top: 1rem;
 }
 
 .previous-post, .next-post {
-    font-size: 1.5rem;
+    font-size: 1.1rem;
 }
 
 /* https://css-tricks.com/full-width-containers-limited-width-parents/#no-calc-needed */

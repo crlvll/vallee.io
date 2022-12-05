@@ -5,7 +5,7 @@
     <link>/</link>
     <description>Recent content on Arveed</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language>
+    <language>fr-FR</language>
     <lastBuildDate>Sat, 26 Feb 2022 21:10:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Robots</title>
@@ -69,7 +69,7 @@ Il suivait une unique règle : quelque chose devait se passer sur chaque carte,
       
       <guid>/articles/lectures-2020/</guid>
       <description>La liste de ce que j’ai lu pour l’année 2020 porte le compte à 35. C’est plus que l’an dernier (28), mais loin de l’objectif que je m’étais fixé de un livre par semaine.
- !function(){&amp;ldquo;use strict&amp;rdquo;;window.addEventListener(&amp;ldquo;message&amp;rdquo;,(function(e){if(void 0!==e.data[&amp;ldquo;datawrapper-height&amp;rdquo;]){var t=document.querySelectorAll(&amp;ldquo;iframe&amp;rdquo;);for(var a in e.data[&amp;ldquo;datawrapper-height&amp;rdquo;])for(var r=0;r&amp;lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&amp;ldquo;datawrapper-height&amp;rdquo;][a]+&amp;ldquo;px&amp;rdquo;}}}))}();   La répartition ebook/livre papier est de 11/24, moins que ce que j’imaginais. D’une manière générale, je tire une leçon à ce sujet: j’ai maintenant tendance à lire la fiction sur la liseuse, et les autres livres « non-fiction » en version brochée, car la prise de note dans les marges est bien plus aisée —oui, je fais partie de ces gens qui font vivre leurs livres, les annotant, cornant les pages, dialoguant avec l’auteur.</description>
+La répartition ebook/livre papier est de 11/24, moins que ce que j’imaginais. D’une manière générale, je tire une leçon à ce sujet: j’ai maintenant tendance à lire la fiction sur la liseuse, et les autres livres « non-fiction » en version brochée, car la prise de note dans les marges est bien plus aisée —oui, je fais partie de ces gens qui font vivre leurs livres, les annotant, cornant les pages, dialoguant avec l’auteur.</description>
     </item>
     
     <item>
@@ -78,7 +78,7 @@ Il suivait une unique règle : quelque chose devait se passer sur chaque carte,
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/articles/lecture-the-war-of-art-steven-pressfield/</guid>
-      <description>⊕   ISBN: 1936891026 Lu le: 30 août 2017 Combien je le recommande: 9/10  C&amp;rsquo;est la définition de ce qui m&amp;rsquo;empêche d&amp;rsquo;avancer dans mon travail créatif. Pressfield définit la Résistance, une entité qui s&amp;rsquo;insinue partout dans nos vies et nous empêche de faire ce que nous devons vraiment faire.
+      <description>⊕ ISBN: 1936891026 Lu le: 30 août 2017 Combien je le recommande: 9/10 C&amp;rsquo;est la définition de ce qui m&amp;rsquo;empêche d&amp;rsquo;avancer dans mon travail créatif. Pressfield définit la Résistance, une entité qui s&amp;rsquo;insinue partout dans nos vies et nous empêche de faire ce que nous devons vraiment faire.
 Ce livre à vraiment résonné chez moi. À relire régulièrement.
 Peu de notes, car tout est bon.
 Mes notes : The awakening artist must be ruthless, not only with herself but with others.</description>
@@ -111,7 +111,7 @@ Les êtres humains sont similaires. Dans notre for intérieur, il existe une pre
       
       <guid>/articles/le-faux-raisonnement-de-planification/</guid>
       <description>Les gens sous-estiment si souvent le temps qu&amp;rsquo;il faut pour accomplir les tâches que les psychologues ont trouvé un nom pour cela : l&amp;rsquo;erreur de planification (the planning fallacy).
- Nicholas Epley, Mindwise : How We Understand What Others Think, Believe, Feel and Want.     Je suis bien obligé de reconnaître le problème, trainant depuis plus d&amp;rsquo;un an sur le manuscrit de Timeskippers.</description>
+Nicholas Epley, Mindwise : How We Understand What Others Think, Believe, Feel and Want. Je suis bien obligé de reconnaître le problème, trainant depuis plus d&amp;rsquo;un an sur le manuscrit de Timeskippers.</description>
     </item>
     
     <item>
@@ -121,8 +121,8 @@ Les êtres humains sont similaires. Dans notre for intérieur, il existe une pre
       
       <guid>/articles/perseverer-et-resister/</guid>
       <description>Je relis mes notes de L’obstacle est le chemin de Ryan Holiday, où il écrit :
- « La persévérance et la persistance sont des atouts incroyables. Au bout d’un moment, après avoir tenté toutes les options traditionnelles, on se retrouve à essayer quelque chose d’inédit. »
-  En persistant dans un défi qu’on s’est lancé, on épuise toutes les solutions qui mènent à l’échec, jusqu’à découvrir une solution innovante qui mène au succès.</description>
+« La persévérance et la persistance sont des atouts incroyables. Au bout d’un moment, après avoir tenté toutes les options traditionnelles, on se retrouve à essayer quelque chose d’inédit. »
+En persistant dans un défi qu’on s’est lancé, on épuise toutes les solutions qui mènent à l’échec, jusqu’à découvrir une solution innovante qui mène au succès.</description>
     </item>
     
     <item>
@@ -163,8 +163,7 @@ Hier, mon application de podcast préférée1 a fait remonter dans ma liste un �
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/articles/lecture-turning-pro-de-steven-pressfield/</guid>
-      <description>La trilogie de Pressfield  © Stuart Mc Millen   
-C&amp;rsquo;est la suite logique de The War of Art du même auteur. Ce petit livre décrit le moment où l&amp;rsquo;on décide de vaincre ce que Pressfield nomme la Resistance, et qui nous empêche de faire ce que l&amp;rsquo;on doit faire. Devenir pro, c&amp;rsquo;est une lutte de tous les jours, une révélation qu&amp;rsquo;on a et qui va nous permettre de finir ce qu&amp;rsquo;on commence (comme un livre, par exemple, mais cela peut s&amp;rsquo;appliquer à tous les domaines de la création.</description>
+      <description>La trilogie de Pressfield © Stuart Mc Millen C&amp;rsquo;est la suite logique de The War of Art du même auteur. Ce petit livre décrit le moment où l&amp;rsquo;on décide de vaincre ce que Pressfield nomme la Resistance, et qui nous empêche de faire ce que l&amp;rsquo;on doit faire. Devenir pro, c&amp;rsquo;est une lutte de tous les jours, une révélation qu&amp;rsquo;on a et qui va nous permettre de finir ce qu&amp;rsquo;on commence (comme un livre, par exemple, mais cela peut s&amp;rsquo;appliquer à tous les domaines de la création.</description>
     </item>
     
     <item>
@@ -303,7 +302,7 @@ Organiser et réorganiser mes textes, lister et stocker des idées, conserver me
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/a-propos/</guid>
-      <description>Voici ce que dit la bio de mon site d&amp;rsquo;auteur: ⊕  Romans parus à ce jour  En savoir plus sur mon site d&amp;#39;auteur.    Cyril est né en 1973. Il vit en Suisse avec sa famille.
+      <description>Voici ce que dit la bio de mon site d&amp;rsquo;auteur: ⊕ Romans parus à ce jour En savoir plus sur mon site d&amp;#39;auteur. Cyril est né en 1973. Il vit en Suisse avec sa famille.
 Longtemps professionnel de l’urgence, il a rencontré l’écriture au travers du développement d’un scénario, coaché par Jean-Marie Roth. Ce fut une révélation, devenue une passion depuis plus de vingt ans : raconter des histoires au travers de ses écrits.</description>
     </item>
     
@@ -315,7 +314,7 @@ Longtemps professionnel de l’urgence, il a rencontré l’écriture au travers
       <guid>/mes-livres/</guid>
       <description>Hello, I&amp;rsquo;m an example site that uses the Hugo Tufte theme.
 Here is a bullet list:
- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu felis bibendum ut tristique et. Volutpat odio facilisis mauris sit amet massa. Sed id semper risus in hendrerit gravida rutrum.  Risus pretium quam vulputate dignissim suspendisse in est ante. Bibendum neque egestas congue quisque egestas diam in arcu.</description>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu felis bibendum ut tristique et. Volutpat odio facilisis mauris sit amet massa. Sed id semper risus in hendrerit gravida rutrum. Risus pretium quam vulputate dignissim suspendisse in est ante. Bibendum neque egestas congue quisque egestas diam in arcu.</description>
     </item>
     
     <item>
