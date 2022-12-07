@@ -27,31 +27,19 @@ Après un premier thriller et un passage du côté de la science-fiction, il tra
 Pour en savoir plus et découvrir le développement de la série, rendez-vous sur www.cyrilvallee.com{{< /epigraph >}}
 
 ## Plus de détail
-Je suis né dans la région lyonnaise, en France, plus précisément à Saint-Priest, et vit maintenant en Suisse. 
- 
-J'ai passé la majorité de ma vie professionnelle dans les soins et les soins d'urgence. {{< figure
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Saint_Priest_-_Ch%C3%A2teau.jpg/640px-Saint_Priest_-_Ch%C3%A2teau.jpg"
-  type="margin"
-  label="mn-napoleonic-wars"
-  title="Le Chateau de Saint-Priest"
-  caption="Illustration du Château de Saint-Priest par Joannès Devret (1892)."
-  attr="Wikipedia"
-  attrlink="https://fr.wikipedia.org/wiki/Saint-Priest#/media/Fichier:Saint_Priest_-_Ch%C3%A2teau.jpg"
-  alt="Château de Saint-Priest"
-  link=""
- >}}  
+J'ai passé la majorité de ma vie professionnelle dans les soins et les soins d'urgence. 
 
 Mon parcours rapide peut se résumer ainsi : infirmier → infimier-anesthésiste → infirmier-chef → enseignant.  
 Je suis actuellement technopédagogue dans un [centre de formation des soins](https://www.h-fr.ch/nos-formations/centre-de-formation-des-soins), une école où nous formons les futurs infirmiers spécialisés en soins d'urgence, d'anesthésie et soins intensifs. En 2022, nous ouvrons aussi une filière de formation pour les infirmier-ères de salle de réveil.  
 
-Mon autre activité professionnelle est donc _romancier_. J'écris des romans de fiction dans différents genres littéraires, avec une certaine prédilection pour le thriller, la science-fiction et le fantastique.  
+Mon autre activité professionnelle est _romancier_. J'écris des romans dans différents genres littéraires, avec une nette prédilection pour le thriller, la science-fiction et le fantastique.  
 
 Internet a été fait dans l'idée de connecter les gens. Si ce que vous trouvez sur _Arveed_ vous interpelle ou résonne avec vos idées, contactez-moi par [eMail](mailto:salut@cyrilvallee.com){{< sidenote >}}Pour m'écrire en respectant notre vie privée, cryptez votre message en utilisant [ma clé publique PGP](https://cyrilvallee.com/cyrilvallee.asc) (apprenez à le faire [ici](https://ssd.eff.org/fr/module-categories/guides-sur-les-outils)).   
 **Emprunte**:  
-FC69 1D01 BE58 94E1 AB37  01A2 C1D6 07CF 2BFB B004{{< /sidenote >}}. Vous pouvez aussi me trouver sur [Twitter](https://www.twitter.com/_cyrilvallee_) ou [Instagram](https://www.instagram.com/_cyrilvallee_). J'ai un compte d'auteur Facebook, mais ce n'est vraiment pas ma came (il est rarement mis à jour et sert principalement à lire des groupes spécifiques).
+FC69 1D01 BE58 94E1 AB37  01A2 C1D6 07CF 2BFB B004{{< /sidenote >}}. Vous pouvez aussi me trouver sur [Mastodon](https://tooting.ch/@arveed) ou [Instagram](https://www.instagram.com/_cyrilvallee_). J'ai un compte d'auteur Facebook, mais ce n'est vraiment pas ma came (il est rarement mis à jour et me sert principalement à lire des groupes spécifiques).
 
 ## À propos de ce site web
-J'ai maintenu un blog personnel sous une forme ou une autre depuis [2004](https://web.archive.org/web/20040212073601/http://www.treize.org/). _Arveed_ est la dernière mouture. Il est possible que j'importe de temps à autres de vieux articles.  
+J'ai maintenu un blog personnel sous une forme ou une autre depuis [2004](https://web.archive.org/web/20040212073601/http://www.treize.org/). _Arveed_ est la dernière mouture. Il est possible que j'importe de temps à autres de vieux articles ressortis de mes archives.  
 Le site actuel est une collection de pensées qui couvrent mes points d'intérêts pour l'[#écriture](../categories/ecriture), la [#photographie](../categories/photographie), les [#outils](../categories/outils) et la [#science](../categories/science), les [#sciences humaines](../categories/sciences-humaines), mes [#lectures](../categories/lectures) et quelques mises à jour [#perso](../categories/perso)nnelles.  
 
 Il est construit avec:
@@ -111,7 +99,7 @@ Dès 1994, j'installais une première version de Linux.
 ### Les outils actuels
 Je travaille sous Mac OS X sur un Macbook Air M1.  
 Côté code, je reste très basique en utilisant iTerm, zsh, oh-my-zsh, vim, et Sublime Text. J'apprends encore le Python et travaille un Apple script occasionnel.  
-J'ai aussi une machine Linux sous Manjaro pour d'autres projets et le maintien de mes connaissances du monde Linux, ainsi qu'un Raspberry Pi comme 
+J'ai aussi une machine Linux sous Manjaro pour d'autres projets et le maintien de mes connaissances du monde Linux (Linux est mon premier *amour* avec une première installation en 1994), ainsi qu'un Raspberry Pi comme 
 _air gapped machine_.  
 
 ## Mes outils pour écrire
