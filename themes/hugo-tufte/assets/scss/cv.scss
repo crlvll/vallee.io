@@ -89,7 +89,11 @@ p {
 }
 
 
-blockquote { font-size: 1.2rem; }
+blockquote { font-size: 1.2rem; 
+    font-style: italic;
+    border-left: 2px solid #ccc;
+    padding-left: 2rem;
+}
 blockquote footer { font-size: 1.1rem; }
 figcaption { font-size: 0.8rem;
              line-height: 1.6; }
