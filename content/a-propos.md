@@ -1,9 +1,17 @@
 +++
-title = "À propos de l'auteur"
+title = "À propos"
 hasMath = false 
 notfrontpage = true
 toc = true
 +++
+## Hello,
+**Arveed point com** est un blog de **Cyril Vallée.** (Moi, donc.)
+Je suis <a href="https://www.cyrilvallee.com">romancier</a> et <a href="https://www.h-fr.ch/nos-formations/centre-de-formation-des-soins">technopédagogue</a>.<br>
+      Je suis auteur de *littérature de genres*&nbsp;: <a href="https://www.cyrilvallee.com/totem-un-thriller/">thrillers</a>, <a href="https://www.cyrilvallee.com/le-reflet-des-etoiles/">science-fiction</a> et <a href="https://www.cyrilvallee.com/timeskippers/">fantastique</a>.  
+Si vous voulez en savoir plus, visitez mon <a href="https://www.cyrilvallee.com/">site officiel</a>. Vous y trouverez aussi un lien pour vous abonner à ma newsletter. En prime, vous aurez droit à des histoires gratuites (qui n'aime pas les cadeaux ?)
+<hr class="min">
+
+## Courte bio
 
 Voici ce que dit la bio de mon site d'auteur:  {{< figure
   src="/images/cyrilvallee_covers.png"

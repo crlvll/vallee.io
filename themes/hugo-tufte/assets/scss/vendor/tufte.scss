@@ -6,9 +6,6 @@
 @charset "UTF-8";
 
 
-/* Import Tinos and Source Serif Pro for arveed.com */
-
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&family=Source+Serif+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 /* Tufte CSS styles */
 html {
     font-size: 15px;
@@ -19,7 +16,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     padding-left: 12.5%;
-    font-family: 'Source Serif Pro', serif;
+    font-family: Georgia, times new roman, Times, serif;
     background-color: #ffffff;
     color: #333;
     max-width: 1400px;
@@ -171,7 +168,7 @@ figcaption {
     margin-top: 0;
     margin-bottom: 0;
     font-size: 1.1rem;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: "Atkinson", Arial, sans-serif;
     color: #555;
     line-height: 1.6;
     vertical-align: baseline;
@@ -316,7 +313,7 @@ div.table-wrapper {
 }
 
 .sans {
-    font-family: 'Source Sans Pro', Calibri, sans-serif;
+    font-family: "Atkinson", "Arial", Calibri, sans-serif;
     letter-spacing: 0.03em;
 }
 

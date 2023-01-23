@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div id="layout" class="pure-g">
+  <article class="pure-u-1">
+    {{ partial "brand.html" . }}
+    {{ partial "welcome_home.html" . }}
+
+<!--<p style="text-align: center;color: lightgrey";>⦿&nbsp;⦿&nbsp;⦿</p>-->
+<section id="old-posts">
+<h2 style="">Articles récents</h2>
+<ul>
+  {{ range first 5 .Site.RegularPages }}
+    {{ if not .Params.notfrontpage }}
+      <li class="nopoints">
+        <a href="{{ .RelPermalink }}" style="text-decoration: none;"><h4>{{ .Title }}<span style="min-width:5rem;margin-left:1rem;font-weight:300;font-size: 1rem;text-transform: uppercase; text-color: #646f82;">—&nbsp;{{ time.Format "2 Jan 06" .Date }}</span></h4></a><div class="excerpts">{{ .Summary }}</div></li>
+        
+    {{ end }}
+  {{ end  }}
+</ul>
+</section>
+    {{ partial "footer.html" . }}
+  </article>
+</div>
+{{ end }}

@@ -1,7 +1,7 @@
 +++
 title = "Now"
 hasMath = false 
-subtitle = "Dernière édition: février 2022"
+subtitle = "Dernière édition: janvier 2023"
 notfrontpage = true
 +++
 
@@ -17,4 +17,4 @@ Du coup, je lorgne du côté de Framework et Tuxedo... Pour le premier trimestre
 
 
 ## Lectures
-Pour cette fin d'année: *Chokepoint Capitalism* par Cory Doctorow/Rebacca Gibbins et *Discipline is Destiny* par Ryan Holiday.
+*Périphériques*, de William Gibson.

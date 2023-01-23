@@ -21,6 +21,7 @@
         {{ if not .Params.hidereadtime }}
          <i class="fa fa-clock"></i>
           &nbsp;{{ .ReadingTime }} min. de lecture
+          <span style="min-width:5rem;margin-left:1rem;font-weight:300;font-size: 1rem;text-transform: uppercase; text-color: #646f82;"><br>—&nbsp;{{ time.Format "2 January 06" .Date }}</span>
         {{ end }}
     
         {{ if .Params.categories }}
