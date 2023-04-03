@@ -7,7 +7,7 @@ subtitle: "Prendre le temps de s'aérer la tête et profiter d'une nouvelle vill
 thumbnail: ""
 toc: false
 mermaid: false
-draft: 
+draft: true
 slug: "dijon"
 summary: "." 
 popular: false
