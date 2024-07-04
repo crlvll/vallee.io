@@ -8,6 +8,8 @@ slug: "decouvrez-la-couverture-de-totem"
 summary: "La ré-édition de mon thriller est l'occasion rêvée d'un nouveau visuel et d'une nouvelle couverture."
 thumbnail: "/articles/img/TOTEMcover.jpg"
 popular: false
+categories: "blog"
+tags: "promo"
 ---
 
 
@@ -33,5 +35,3 @@ Alors, sans plus attendre, voici, sous vos yeux (espérons) ébahis, la nouvelle
 Yeah !
 
 Je suis très content de cette couverture, et sur les premiers tests que j’ai faits elle a l’air de séduire mes lectrices et lecteurs. Nous verrons très vite ce qu’elle donne dans le grand bain, dès le 18 octobre, date de la publication de cette nouvelle édition !
-
-{{< pswp-init >}}

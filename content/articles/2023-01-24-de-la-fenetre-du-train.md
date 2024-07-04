@@ -11,6 +11,7 @@ draft: false
 slug: "breve-01"
 summary: "Le coucher de soleil au-dessus de la campagne fribourgeoise, vu depuis la fenêtre d'un train." 
 popular: false
+categories: "blog"
 --- 
 
 {{< figure

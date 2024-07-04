@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boite À Outils on Arveed.com</title>
+    <link>//localhost:1313/tags/boite-%C3%A0-outils/</link>
+    <description>Recent content in Boite À Outils on Arveed.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Fri, 20 Jan 2023 23:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/boite-%C3%A0-outils/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scrivener minimaliste</title>
+      <link>//localhost:1313/articles/scrivener-minimaliste/</link>
+      <pubDate>Fri, 20 Jan 2023 23:00:00 +0000</pubDate>
+      <guid>//localhost:1313/articles/scrivener-minimaliste/</guid>
+      <description>Quelques réglages pour faire de Scrivener un environnement d&amp;rsquo;écriture minimaliste.</description>
+    </item>
+  </channel>
+</rss>

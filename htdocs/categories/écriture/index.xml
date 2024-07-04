@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Écriture on Arveed.com</title>
+    <link>/categories/%C3%A9criture/</link>
+    <description>Recent content in Écriture on Arveed.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Wed, 14 Feb 2024 17:00:57 +0000</lastBuildDate>
+    <atom:link href="/categories/%C3%A9criture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trouver le temps d&#39;écrire</title>
+      <link>/articles/trouver-le-temps-decrire/</link>
+      <pubDate>Wed, 14 Feb 2024 17:00:57 +0000</pubDate>
+      <guid>/articles/trouver-le-temps-decrire/</guid>
+      <description>En 2011, j’avais une superbe idée pour un thriller technologique. Je ne savais pas comment m’y prendre, et jamais je n’avais attaqué un aussi gros projet d’écriture. J’imaginais qu’il me faudrait six à huit mois pour finir le livre. Trois ans plus tard, je publiais ce qui allait devenir mon premier roman : Totem.&#xA;Après des débuts intéressants (« Wow ! D’autres personnes que la famille et les amis sont intéressés !</description>
+    </item>
+    <item>
+      <title>J&#39;écris quand même.</title>
+      <link>/articles/j-ecris-quand-meme/</link>
+      <pubDate>Wed, 31 Jan 2024 17:14:54 +0000</pubDate>
+      <guid>/articles/j-ecris-quand-meme/</guid>
+      <description>Ecrire, c&amp;rsquo;est dur. Surtout quand on a l&amp;rsquo;impression que ce que l&amp;rsquo;on produit n&amp;rsquo;est pas bon.&#xA;Mais ce jugement de valeur a-t-il un réel fondement ?</description>
+    </item>
+    <item>
+      <title>La collision des idées</title>
+      <link>/articles/la-collision-des-idees/</link>
+      <pubDate>Sat, 27 Jan 2024 18:00:40 +0000</pubDate>
+      <guid>/articles/la-collision-des-idees/</guid>
+      <description>« Mais d&amp;rsquo;où viennet toutes vos idées ? » Cette question et ces variantes est l&amp;rsquo;une de celle qui revient le plus souvent lors des rencontres avec mes lecteurs.&#xA;Et c&amp;rsquo;est une bonne question.</description>
+    </item>
+    <item>
+      <title>Comment Cory Doctorow fait-il pour être aussi productif ?</title>
+      <link>/articles/comment-cory-doctorow-fait-il-pour-etre-aussi-productif/</link>
+      <pubDate>Sat, 25 May 2013 18:00:00 +0000</pubDate>
+      <guid>/articles/comment-cory-doctorow-fait-il-pour-etre-aussi-productif/</guid>
+      <description>Dans le podcast New Disruptors (2013), l&amp;rsquo;auteur Cory Doctorow explique comment il arrive à produire autant de textes.</description>
+    </item>
+  </channel>
+</rss>

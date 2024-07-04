@@ -7,10 +7,11 @@ title = "Mare of Easttown"
 subtitle = ""
 toc = false
 mermaid = false
-categories = ["inspiration"]
+categories = ["blog"]
 draft = false
 slug = "mare-of-easttown"
 summary = "Avis à chaud après le visionnage de la mini-série. Qu'est-ce qui m'a fait autant l'apprécier ?"
+tags = ["série", "inspiration"]
 +++
 
 Wow. Je suis complètement retourné. Quel show, mais quel show&nbsp;!

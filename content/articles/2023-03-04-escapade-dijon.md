@@ -11,6 +11,7 @@ draft: true
 slug: "dijon"
 summary: "." 
 popular: false
+categories: "blog"
 --- 
 
 IMAGE

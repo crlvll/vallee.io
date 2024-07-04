@@ -7,16 +7,17 @@ title : "Les règles de Heinlein"
 subtitle : ""
 toc : false
 mermaid : false
-categories : ["ecriture"]
+categories : ["blog"]
 draft : false
 slug : "les-regles-de-heinlein"
 popular : true
 summary : "Les règles de Heinlein sont presque impossibles à suivre. Vraiment ?"
 thumbnail: "/images/heinlein.jpg"
+tags: "écrire, outils, inspiration"
 ---
 
 
-Je connaissais déjà les règles d’écritures de Heinlein, pour être tombé dessus à l’époque où je passais plus de temps à chercher des articles sur l’écriture qu’à écrire — indice : mettez-vous tout de suite à l’écriture, plutôt que de procrastiner{{< sidenote >}}Bien sûr, j'ai beaucoup de mal à suivre mon propre conseil. On dirait que le cerveau est programmé pour cela: procrastiner.{{< /sidenote >}}. Ce que je croyais avoir compris à propos de ces règles était loin de leur signification réelle.  
+Je connaissais déjà les règles d’écritures de Heinlein, pour être tombé dessus à l’époque où je passais plus de temps à chercher des articles sur l’écriture qu’à écrire — indice : mettez-vous tout de suite à l’écriture, plutôt que de procrastinerxs. Ce que je croyais avoir compris à propos de ces règles était loin de leur signification réelle.  
 En fait, comme beaucoup de ce qui parait simple, ces règles sont complexes et presque impossibles à suivre.  
 
 ## Qui est Robert A. Heinlein ?

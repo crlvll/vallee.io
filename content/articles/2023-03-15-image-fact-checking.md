@@ -11,6 +11,7 @@ draft: true
 slug: "image-fact-checking"
 summary: "." 
 popular: false
+categories: "blog"
 --- 
 source : le fil twitter de (trouvé sur Mastodon) et insérer le lien internet archive aussi.
 

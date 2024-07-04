@@ -7,7 +7,7 @@ title = "L’importance de la manière de dire les choses"
 subtitle = ""
 toc = false
 mermaid = false
-categories = ["matiereapenser","sciences-humaines"]
+categories = ["blog"]
 draft = false
 slug = "limportance-de-la-maniere-de-dire-les-choses"
 summary = "Note rapide sur l'affichage d'une certaine confiance en soi dans la communication."
@@ -17,8 +17,7 @@ Dans Le Cygne Noir, Nassim Taleb écrit que les êtres humains croient à tout c
 
 L’important n’est pas ce que l’on dit, mais la manière dont on le dit.
 
-{{< epigraph pre="" cite="" link='' >}}
-  Face aux autres, il faut cultiver la litote (dire moins pour laisser entendre davantage) et afficher en permanence un calme olympien.
-{{< /epigraph >}} 
+
+>  Face aux autres, il faut cultiver la litote (dire moins pour laisser entendre davantage) et afficher en permanence un calme olympien.
 
 L’auteur note également qu’il est bien plus facile d’exprimer la confiance en soi en étant excessivement poli et amical.

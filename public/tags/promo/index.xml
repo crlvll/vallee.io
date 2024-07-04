@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Promo on Arveed.com</title>
+    <link>//localhost:1313/tags/promo/</link>
+    <description>Recent content in Promo on Arveed.com</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sun, 24 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/promo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ma présence au festival Alterficions les 18 et 19 novembre 2023</title>
+      <link>//localhost:1313/articles/alterfictions-2023/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/articles/alterfictions-2023/</guid>
+      <description>Vous pourrez venir me rencontrer dans ce superbe lieu qu’est le château d’Yverdon, avec des dizaines d’autres écrivains et notamment les auteurs du GAHELIG.&#xA;J’ai hâte d’y être et de rencontrer les lecteurs et auteurs qui seront de la partie. Le concept est novateur et intéressant ; il devrait favoriser le partage et l’interaction avec les visiteurs. Je ne sais pas encore les détails et horaires de présence pour les dédicaces, que je publierais ici même dès que possible.</description>
+    </item>
+    <item>
+      <title>Decouvrez La Couverture De Totem</title>
+      <link>//localhost:1313/articles/decouvrez-la-couverture-de-totem/</link>
+      <pubDate>Thu, 14 Oct 2021 18:35:06 +0100</pubDate>
+      <guid>//localhost:1313/articles/decouvrez-la-couverture-de-totem/</guid>
+      <description>La ré-édition de mon thriller est l&amp;rsquo;occasion rêvée d&amp;rsquo;un nouveau visuel et d&amp;rsquo;une nouvelle couverture.</description>
+    </item>
+    <item>
+      <title>La Douzieme Victime Nouvelle Edition</title>
+      <link>//localhost:1313/articles/la-douzieme-victime-nouvelle-edition/</link>
+      <pubDate>Sat, 02 Oct 2021 18:35:46 +0100</pubDate>
+      <guid>//localhost:1313/articles/la-douzieme-victime-nouvelle-edition/</guid>
+      <description>La maison d&amp;rsquo;édition Heartless doit fermer ses portes. Quelle seconde vie pour mon thriller ?</description>
+    </item>
+  </channel>
+</rss>

@@ -3,7 +3,7 @@
     {{ range .Site.Menus.nav  }}
         <li><a href="{{ .URL }}">{{ .Name }}</a></li>
     {{ end }}
-        <li><a href="/now">now</a></li>
+        
         <li><a href="/articles/archive/">les archives</a></li>
         {{ if isset .Site.Params "mastodon" }}
       <li><a href="https://{{.Site.Params.mastodon}}"><i class='fab fa-mastodon fa-lg'></i></a></li>

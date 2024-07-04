@@ -7,7 +7,7 @@ title = "Scrivener: adapter comme un environnement minimaliste"
 subtitle = ""
 toc = false
 mermaid = false
-categories = ["ecriture", "outils"]
+categories = ["blog"]
 draft = false
 slug = "scrivener-adapter-comme-un-environnement-minimaliste"
 

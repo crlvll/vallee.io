@@ -5,7 +5,7 @@ draft: false
 meta: true
 slug: "pour-vaincre-la-resistance-en-prendre-conscience"
 categories:
-    - ecriture
+    - blog
 ---
 
 Depuis quelque temps, je lutte pour progresser dans mes projets, notamment d’écriture. J’ai beau me mettre devant l’écran, je trouve toujours _autre chose_ à faire que terminer ces projets en cours.  

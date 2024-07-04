@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Créativité on Arveed.com</title>
+    <link>//localhost:1313/tags/cr%C3%A9ativit%C3%A9/</link>
+    <description>Recent content in Créativité on Arveed.com</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sat, 27 Jan 2024 18:00:40 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/cr%C3%A9ativit%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La collision des idées</title>
+      <link>//localhost:1313/articles/la-collision-des-idees/</link>
+      <pubDate>Sat, 27 Jan 2024 18:00:40 +0000</pubDate>
+      <guid>//localhost:1313/articles/la-collision-des-idees/</guid>
+      <description>« Mais d&amp;rsquo;où viennet toutes vos idées ? » Cette question et ces variantes est l&amp;rsquo;une de celle qui revient le plus souvent lors des rencontres avec mes lecteurs.&#xA;Et c&amp;rsquo;est une bonne question.</description>
+    </item>
+  </channel>
+</rss>

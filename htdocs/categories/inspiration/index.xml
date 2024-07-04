@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inspiration on Arveed.com</title>
+    <link>/categories/inspiration/</link>
+    <description>Recent content in Inspiration on Arveed.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 15 Jun 2021 21:10:00 +0000</lastBuildDate>
+    <atom:link href="/categories/inspiration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mare of Easttown</title>
+      <link>/articles/mare-of-easttown/</link>
+      <pubDate>Tue, 15 Jun 2021 21:10:00 +0000</pubDate>
+      <guid>/articles/mare-of-easttown/</guid>
+      <description>Avis à chaud après le visionnage de la mini-série. Qu&amp;rsquo;est-ce qui m&amp;rsquo;a fait autant l&amp;rsquo;apprécier ?</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vie D&#39;auteur on Arveed.com</title>
+    <link>//localhost:1313/tags/vie-dauteur/</link>
+    <description>Recent content in Vie D&#39;auteur on Arveed.com</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Mon, 27 Nov 2023 16:20:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/vie-dauteur/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Retour sur le festival Alterfictions</title>
+      <link>//localhost:1313/articles/retour-sur-le-festival-alterfictions/</link>
+      <pubDate>Mon, 27 Nov 2023 16:20:00 +0000</pubDate>
+      <guid>//localhost:1313/articles/retour-sur-le-festival-alterfictions/</guid>
+      <description>Le festival littéraire Alterfictions a eu lieu les 18 et 19 novembre 2023 dans sa première édition, dans le château d’Yverdon, en Suisse. J’ai eu la chance d’y participer et je dois bien dire que j’ai vraiment passé un superbe week-end.&#xA;Le concept, novateur Casser les codes, c’était le but de ce festival d’un autre genre (vanne intentionnelle). Il s’agissait pour une fois de disposer l’ensemble des livres proposés par les 77 auteurs sur des tables regroupant différents genres.</description>
+    </item>
+  </channel>
+</rss>

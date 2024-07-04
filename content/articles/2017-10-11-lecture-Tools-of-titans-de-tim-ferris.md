@@ -10,6 +10,7 @@ mermaid = false
 categories = ["lectures"]
 slug = "lecture-Tools-of-titans-de-tim-ferris"
 draft = false
+tags = ["livres", "non-fiction"]
 
 +++
 

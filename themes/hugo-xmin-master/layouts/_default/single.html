@@ -1,0 +1,15 @@
+{{ partial "header.html" . }}
+<div class="article-meta">
+<h1><span class="title">{{ .Title | markdownify }}</span></h1>
+{{ with .Params.author }}<h2 class="author">{{ . }}</h2>{{ end }}
+{{ if (gt .Params.date 0) }}<h2 class="date">{{ .Date.Format "2.01.2006" }}</h2>{{ end }}
+</div>
+
+<main>
+{{ .Content }}
+</main>
+_______________ <br>
+<p style="font-size: small;">Permalink: <a href="{{ .RelPermalink }}">https://arveed.com{{ .RelPermalink }}</a></p>
+
+
+{{ partial "footer.html" . }}

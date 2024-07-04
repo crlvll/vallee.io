@@ -7,7 +7,7 @@ title = "Techniques d’écriture, construction d’un récit, ouvrages de réf�
 subtitle = ""
 toc = false
 mermaid = false
-categories = ["ecriture"]
+categories = ["blog"]
 draft = false
 slug = "techniques-decriture-construction-dun-recit-ouvrages-de-reference"
 
@@ -25,7 +25,7 @@ C’est un petit peu comme si vous demandiez à un artiste de dessiner votre por
 
 Cette idée, peut-être très anglo-saxonne, est celle que le métier d’écrivain nécessite plusieurs savoir-faire, et que chacun de ces savoir-faire peu se travailler individuellement, au plus grand bénéfice de l’écrivain, qui ajoute de plus en plus d’outils à sa boite au fur et à mesure qu’il « s’entraîne ». Au fond, on ne devrait pas imaginer s’asseoir pour écrire une Histoire sans penser au fait que les dialogues, les problèmes de point de vue, la voix choisie, les descriptions ou la structure du récit sont des domaines qu’il est nécessaire de maîtriser, car ils doivent s’effacer au profit de l’Histoire, justement.
 
-Au-delà des exercices (certains auteurs connus utilisent leur blog pour vous en proposer ; ce n’est pas très difficile à trouver avec un bon moteur de recherche{{< sidenote >}}Evitez les bulles, utilisez <a href="https://duckduckgo.com" target="_blank">Duckduckgo</a>. My two cents.{{< /sidenote >}}), la structure de nos récits est quelque chose qui m’intéresse particulièrement.
+Au-delà des exercices (certains auteurs connus utilisent leur blog pour vous en proposer ; ce n’est pas très difficile à trouver avec un bon moteur de recherche, la structure de nos récits est quelque chose qui m’intéresse particulièrement.
 
 Il m’est impossible, de toute façon, d’attaquer un roman, une nouvelle ou un truc intermédiaire sans avoir un solide _outline_. Du coup, pour savoir ce qui fonctionne ou pas, ce que les autres font, et comment faire, j’ai, au fil des ans, accumulé quelques bons ouvrages sur le sujet (mais pas que) dont je vous propose la liste.
 

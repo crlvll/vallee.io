@@ -1,0 +1,32 @@
+{{ partial "header.html" . }}
+<div class="article-meta">
+<h1><span class="title">{{ .Title | markdownify }}</span></h1>
+{{ with .Params.author }}<h2 class="author">{{ . }}</h2>{{ end }}
+{{ if (gt .Params.date 0) }}<h2 class="date">{{ .Date.Format "2.01.2006" }}</h2>{{ end }}
+</div>
+<h1>{{ .Page.Params.titre }} – {{ .Page.Params.auteur }}</h1>
+
+<main>
+	<div style="float: left; max-width: 30%; margin-right: 1em;">
+		<img src="{{ .Page.Params.couverture }}" width=99% />
+	</div>
+	<h2 style="font-family: sans-serif;">Détails:</h2>
+	<ul style="list-style-type: none; font-family: sans-serif;">
+		<li>ISBN: {{ .Page.Params.isbn }}</li>
+		<li>Date de publication: {{ .Page.Params.date_pub }}</li>
+		<li>Éditeur: {{ .Page.Params.editeur }}</li>
+		<li>–</li>
+		<li> </li>
+		<li>Date de lecture: {{ .Page.Params.date_lecture }}</li>
+		<li>Combien je le recommande: {{ .Page.Params.note }}</li>
+		<li> </li>
+		<li> </li>
+	</ul>
+
+{{ .Content }}
+</main>
+_______________ <br>
+<p style="font-size: small;">Permalink: <a href="{{ .RelPermalink }}">https://arveed.com{{ .RelPermalink }}</a></p>
+
+
+{{ partial "footer.html" . }}

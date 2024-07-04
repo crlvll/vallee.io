@@ -7,7 +7,7 @@ title = "7 points-clés où Scrivener m’aide à écrire mes fictions"
 subtitle = ""
 toc = false
 mermaid = false
-categories = ["ecriture", "outils"]
+categories = ["blog"]
 draft = false
 
 

@@ -9,6 +9,7 @@ toc = false
 mermaid = false
 slug = "lecture-aventures-au-coeur-de-la-memoire-joshua-foer"
 categories = ["lectures"]
+tags = ["livres", "non-fiction"]
 draft = false
 image_path ="https://i.pinimg.com/originals/7f/42/25/7f4225d8c367fdd77d9bf524a54dd6ca.jpg"
 isbn = "2221109805"
@@ -55,11 +56,11 @@ L'amnésique rétrograde ne peut plus récupérer une grande partie de ses ancie
 
 ### Citation:
 
-{{< epigraph pre="Dunbar, le pilote du roman" cite="Catch 22 de Joeseph Heller" >}}
-  "Puisque le temps passe plus vite quand on s'amuse, le plus sûr moyen de ralentir le cours de l'existence est de s'ennuyer au maximum."  
-{{< /epigraph >}} 
 
-{{< newthought >}}Dans la monotonie, le temps{{< /newthought >}} s'effondre sur lui-même ; dans la diversité, il se déploie. Voilà pourquoi il est important de changer régulièrement d'activité, d'éviter la routine, […] d'avoir des tas d'expériences nouvelles susceptibles de s'ancrer dans la mémoire.  
+>  "Puisque le temps passe plus vite quand on s'amuse, le plus sûr moyen de ralentir le cours de l'existence est de s'ennuyer au maximum."  
+>— Dunbar, le pilote du roman Catch 22 de Joeseph Heller
+
+Dans la monotonie, le temps s'effondre sur lui-même ; dans la diversité, il se déploie. Voilà pourquoi il est important de changer régulièrement d'activité, d'éviter la routine, […] d'avoir des tas d'expériences nouvelles susceptibles de s'ancrer dans la mémoire.  
 La création de nouveaux souvenirs étire le temps psychologique et allonge éa perception que nous avons de la vie.  
 
 La vie semble s'accélérer, à mesure que nous vieillissons, parce qu'elle devient de moins en moins mémorable.  

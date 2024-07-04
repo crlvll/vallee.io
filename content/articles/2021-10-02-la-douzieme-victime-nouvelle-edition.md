@@ -6,6 +6,8 @@ slug: "la-douzieme-victime-nouvelle-edition"
 meta: true
 summary: "La maison d'édition Heartless doit fermer ses portes. Quelle seconde vie pour mon thriller ?"
 popular: false
+categories: "blog"
+tags: "promo"
 ---
 
 

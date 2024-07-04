@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Auteur on Arveed.com</title>
+    <link>//localhost:1313/tags/auteur/</link>
+    <description>Recent content in Auteur on Arveed.com</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Thu, 21 Dec 2023 14:40:50 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/auteur/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>D&#39;où viennent les personnages de fiction ?</title>
+      <link>//localhost:1313/articles/dou-viennent-les-personnages-de-fiction/</link>
+      <pubDate>Thu, 21 Dec 2023 14:40:50 +0000</pubDate>
+      <guid>//localhost:1313/articles/dou-viennent-les-personnages-de-fiction/</guid>
+      <description>Ces idées sont une transcription maladroite de celles de Cory Doctorow, invité du célèbre podcast Writing Excuses. Au passage, ce podcast mérite votre attention si vous vous débrouillez en anglais. Il regorge d’expériences et d’idées, est d&amp;rsquo;un format court (c’est l’un des concepts : il dure moins de quinze minutes), et il est très instructif.&#xA;La question de base que s’est posée Cory Doctorow est plus précisément : pourquoi éprouvons-nous des sentiments pour les personnages de fiction ?</description>
+    </item>
+  </channel>
+</rss>

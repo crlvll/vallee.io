@@ -10,6 +10,7 @@ mermaid = false
 categories = ["lectures"]
 slug = "lecture-the-war-of-art-steven-pressfield"
 draft = false
+tags = ["livres", "non-fiction"]
 +++
 
 {{< figure

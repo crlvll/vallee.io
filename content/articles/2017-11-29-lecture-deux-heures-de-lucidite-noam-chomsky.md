@@ -9,6 +9,7 @@ toc = false
 mermaid = false
 slug = "lecture-deux-heures-de-lucidite-noam-chomsky"
 categories = ["lectures"]
+tags = ["livres", "non-fiction"]
 draft = false
 
 +++

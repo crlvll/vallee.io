@@ -9,6 +9,7 @@ toc = false
 slug = "lecture-Turning-pro-de-steven-pressfield"
 mermaid = false
 categories = ["lectures"]
+tags = ["livres", "non-fiction"]
 draft = false
 image_path ="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339000038i/14912777._UY630_SR1200,630_.jpg"
 isbn = "1936891034"

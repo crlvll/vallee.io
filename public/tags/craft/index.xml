@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Craft on Arveed.com</title>
+    <link>//localhost:1313/tags/craft/</link>
+    <description>Recent content in Craft on Arveed.com</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sun, 24 Dec 2023 16:36:29 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/craft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Structurer son récit : the foolscap method</title>
+      <link>//localhost:1313/articles/structurer-son-recit-the-foolscap-method/</link>
+      <pubDate>Sun, 24 Dec 2023 16:36:29 +0000</pubDate>
+      <guid>//localhost:1313/articles/structurer-son-recit-the-foolscap-method/</guid>
+      <description>J&amp;rsquo;imagine que tous les écrivains ont une boite à outils qui leur est personnelle. Comme moi, ils la constituent en voyant ce que font les autres et comment ils travaillent, en prenant des &amp;ldquo;morceaux de méthode&amp;rdquo; chez l&amp;rsquo;un rabouté avec un autre morceau chez l&amp;rsquo;autre, et surtout en se confrontant à la réalité, devant son propre clavier.&#xA;J&amp;rsquo;ai découvert aussi que j&amp;rsquo;étais dans la catégorie plotter, de ceux qui ont besoin d&amp;rsquo;une structure – dans mon cas, détaillée – pour commencer à écrire.</description>
+    </item>
+  </channel>
+</rss>

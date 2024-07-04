@@ -1,0 +1,41 @@
+{{ partial "header.html" . }}
+
+{{if not .IsHome }}
+<h1>{{ .Title | markdownify }}</h1>
+{{ end }}
+Cette page est une liste de lecture. J'essaie d'y consigner tout ce que je lis, à des fins personnelles. Parfois, je me retourne pour faire un bilan annuel (par exemple en <a href="articles/lectures-2020/">2020</a>).<br>
+Vous pouvez en savoir plus dans cet article: <a href="">Mon carnet de lecture m'appartient</a>.
+<br><br>
+J'ai commencé à tenir une liste depuis 2013, et les livres sont reportés ici. Bien sûr, j'ai beaucoup lu <i>avant</i> 2013, mais, si j'ai la liste, je n'ai pas conservé la date exacte de leur lecture et j'ai décidé de ne pas les lister ici. <br>
+Vous pouvez cliquer sur le titre pour voir plus de détails, un peu comme une fiche de lecture, parfois avec mes propres notes de lectures. Tous les liens ne sont pas renseignés, mais je travaille à mettre à jour toute la liste. Repassez de temps en temps. <br><br>
+La "note" de chaque ouvrage est en fait une recommandation – elle représente à quel point j'en recommande la lecture.
+
+<div class="book" style="font-weight: normal;border-bottom: 1px solid darkgrey;margin: 20px 0 10px 0;">
+  <div>Titre</div>
+  <div>Auteur</div>
+  <div>Lu le          </div>
+  <div>Recommandation</div>
+</div>
+  {{ $pages := .Pages }}
+  {{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
+  {{ range .Pages.ByDate.Reverse }}
+
+  <div class="book">
+    <div>
+      <a href="{{ .RelPermalink }}">{{ .Params.titre | markdownify }}</a>
+    </div>
+    <div>
+      {{ .Params.auteur }}
+    </div>
+    <time>
+      {{ .Params.date_lecture }}
+    </time>
+    <div style="text-align: right;">
+      {{ .Params.note }}
+    </div>
+  </div>
+
+  {{ end }}
+
+
+{{ partial "footer.html" . }}

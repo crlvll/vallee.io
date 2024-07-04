@@ -7,7 +7,7 @@ title = "Une façon de faire les révisions dans Scrivener"
 slug = "une-facon-de-faire-les-revisions-dans-scrivener"
 toc = false
 mermaid = false
-categories = ["ecriture", "outils"]
+categories = ["blog"]
 draft = false
 
 +++

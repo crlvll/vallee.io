@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Livre on Arveed.com</title>
+    <link>/categories/livre/</link>
+    <description>Recent content in Livre on Arveed.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Wed, 07 Feb 2024 17:50:03 +0000</lastBuildDate>
+    <atom:link href="/categories/livre/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Si vous ne lisez que quelques livres en 2024, lisez ceux-là.</title>
+      <link>/articles/si-vous-ne-lisez-que-quelques-livres-en-2024-lisez-ceux-la/</link>
+      <pubDate>Wed, 07 Feb 2024 17:50:03 +0000</pubDate>
+      <guid>/articles/si-vous-ne-lisez-que-quelques-livres-en-2024-lisez-ceux-la/</guid>
+      <description>Quelques livres que je recommande pour 2024, fiction et non fiction.</description>
+    </item>
+  </channel>
+</rss>

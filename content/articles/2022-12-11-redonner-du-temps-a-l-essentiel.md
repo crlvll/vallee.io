@@ -11,6 +11,8 @@ draft: false
 slug: "essentiel"
 summary: "Le sentiment d'être submergé par l'ampleur de la tâche peut être jugulé en se recentrant sur l'essentiel."
 popular: false
+categories: "blog"
+tags: "santé mentale, écrire"
 --- 
 
 Ces derniers temps, lorsque j’ouvre mon ordinateur, je me sens dépassé, confronté au problème de mon rapport au temps : j’ai tellement à faire, et si peu de temps ! Il en ressort un stress qui n’est vraiment pas nécessaire et même, dans mon cas, délétère d’un point de vue créatif.  

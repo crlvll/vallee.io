@@ -8,12 +8,12 @@ title = "Comment voler du temps pour écrire ?"
 subtitle = ""
 toc = false
 mermaid = false
-categories = ["ecriture"]
+categories = ["blog"]
 draft = false
 
 +++
 
-Il y a trois ans, j’avais une superbe idée pour un thriller technologique. Je ne savais pas comment m’y prendre, et jamais je n’avais attaqué un aussi gros projet d’écriture. J’imaginais qu’il me faudrait six à huit mois pour finir le livre. Deux ans plus tard, je publiais Ximera{{< sidenote >}}La publication, avec la découverte du monde Kindle, des ebooks, de la confection d’une couverture, Createspace et j’en passe mérite un article à part entière. {{< /sidenote >}}. 
+Il y a trois ans, j’avais une superbe idée pour un thriller technologique. Je ne savais pas comment m’y prendre, et jamais je n’avais attaqué un aussi gros projet d’écriture. J’imaginais qu’il me faudrait six à huit mois pour finir le livre. Deux ans plus tard, je publiais Ximera. 
   
 Après des débuts intéressants (« Wow ! D’autres que la famille et les amis sont intéressés ! Wow ! Des commentaires ! Wow, des _bons_ commentaires !! ») et la satisfaction d’avoir enfin mon premier roman dans les mains, j’ai rapidement compris que je voulais continuer, c’est-à-dire écrire et publier le plus d’histoires possible, parce que j’adorais « ça » (dans son ensemble).
   
@@ -29,7 +29,7 @@ Il existe différentes _méthodes_ pour augmenter sa visibilité (voir [le derni
 
 Me v’là beau.
   
-Non, parce que la grosse majorité des écrivants{{< sidenote >}}Terme orignellement de Martin Winckler, que je trouve particulièrement adapté (même si je l’ai déjà écrit sur ce site). {{< /sidenote >}} ne peut pas vivre exclusivement de leur écriture et a un travail — les anglophones, avec ce sens de l’efficacité linguistique, utilisent le mot _dayjob_. Je fais bien entendu partie de la grosse majorité (qui a dit « pour une fois » ?)
+Non, parce que la grosse majorité des écrivants ne peut pas vivre exclusivement de leur écriture et a un travail — les anglophones, avec ce sens de l’efficacité linguistique, utilisent le mot _dayjob_. Je fais bien entendu partie de la grosse majorité (qui a dit « pour une fois » ?)
   
 Vous me voyez venir avec mes gros sabots qui laissent des traces dans le beurre. Je n’ai moi-même personnellement pas réussi à écrire mon premier roman en moins de deux ans, et il faudrait que je trouve du temps, encore plus de temps, pour écrire plus, pour toucher plus de lecteurs.
   

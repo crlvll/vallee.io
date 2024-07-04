@@ -8,7 +8,7 @@ title = "Ecrire: travailler sur la structure"
 subtitle = ""
 toc = false
 mermaid = false
-categories = ["ecriture"]
+categories = ["blog"]
 draft = false
 
 +++
@@ -20,7 +20,7 @@ Si vous avez parcouru un peu le site, vous aurez compris que je fais partie des 
 
 Que vous apparteniez à la première catégorie (comme moi) ou à celle des _aventuriers_, le problème reste le même : pour créer un texte attractif, il faudra **le structurer**.
   
-La seule différence, c’est que l’auteur « aventurier{{< sidenote >}}J’ai essayé, croyez-moi, de me lancer dans un texte avec seulement une vague idée de là où toute l’histoire devait me mener : je n’ai tout simplement pas terminé mon histoire. Les gens qui arrivent à travailler comme cela sont pour moi des « aventuriers ».{{< /sidenote >}} » va _faire son travail sur la structure lors de la première révision_, pour recoller les morceaux et les bouts d’histoires et leur donner un peu plus de cohérence, là où _l’outliner_ aura fait ce travail _avant_ l’écriture.
+La seule différence, c’est que l’auteur « aventurier[^1] » va _faire son travail sur la structure lors de la première révision_, pour recoller les morceaux et les bouts d’histoires et leur donner un peu plus de cohérence, là où _l’outliner_ aura fait ce travail _avant_ l’écriture.
   
 Mais **toute histoire a besoin d’une structure soignée** pour fonctionner.
 
@@ -30,7 +30,7 @@ C’est bien joli, mais comment s’y prendre ? Y a-t-il quelque chose qui fon
   
 J’ai envie de parler d’une façon de faire que j’utilise depuis quelque temps et qui peut s’adapter à toute histoire, à tout récit. Plus complète que la structure archiconnue en trois actes, elle m’apparait aussi plus logique et facilement adaptable. Je m’en sers partout, et même pour l’écriture de certains articles sur OLSF.
 
-En 2005, j’ai eu la chance d’assister à un stage sur l’écriture de scénario, donné par [Jean-Marie Roth][amazon]. C’est d’ailleurs probablement ce qui m’a relancé dans l’écriture proprement dite, après une (longue) période sans écrire de fiction, et plutôt tournée vers la formation à ce qui allait devenir mon _day job_{{< sidenote >}}Je suis [infirmier-anesthésiste][wikipedia] (entre autres), ce qui fait que je me réveille (presque) tous les jours pour endormir les autres. Paradoxe assumé.{{< /sidenote >}}. Ce fut une des premières fois où je touchais du doigt une méthode pour structurer un récit de manière à donner de l’envie et du plaisir au lecteur/futur spectateur.
+En 2005, j’ai eu la chance d’assister à un stage sur l’écriture de scénario, donné par [Jean-Marie Roth][amazon]. C’est d’ailleurs probablement ce qui m’a relancé dans l’écriture proprement dite, après une (longue) période sans écrire de fiction, et plutôt tournée vers la formation à ce qui allait devenir mon _day job_. Ce fut une des premières fois où je touchais du doigt une méthode pour structurer un récit de manière à donner de l’envie et du plaisir au lecteur/futur spectateur.
   
 On y abordait les notions de climax, de profondeur des personnages, de _timeline_, et quelques trucs et astuces pour les rebondissements dans l’histoire à raconter.
 
@@ -120,3 +120,5 @@ C&rsquo;est très souvent mon point de départ à tout développement d&rsquo;hi
 [wikipedia]: https://fr.wikipedia.org/wiki/Infirmier_anesth%C3%A9siste
   
 [thedanwells]: http://www.thedanwells.com/
+
+[^1]: J’ai essayé, croyez-moi, de me lancer dans un texte avec seulement une vague idée de là où toute l’histoire devait me mener : je n’ai tout simplement pas terminé mon histoire. Les gens qui arrivent à travailler comme cela sont pour moi des « aventuriers ».

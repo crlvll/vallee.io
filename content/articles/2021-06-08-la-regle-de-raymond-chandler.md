@@ -8,9 +8,9 @@ title = "La règle de Raymond Chandler"
 subtitle = ""
 toc = false
 mermaid = false
-categories = ["ecriture"]
+categories = ["blog"]
 draft = false
-
+tags = ["écrire", "inspiration", "productivité"]
 
 +++
 

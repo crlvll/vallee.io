@@ -7,7 +7,7 @@ title = "Scrivener: organiser la structure de ses textes"
 subtitle = ""
 toc = false
 mermaid = false
-categories = ["ecriture", "outils"]
+categories = ["blog"]
 draft = false
 slug = "scrivener-organiser-la-structure-de-ses-textes"
 

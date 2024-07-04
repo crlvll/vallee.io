@@ -1,83 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Arveed</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on Arveed</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Categories on Arveed.com</title>
+    <link>//localhost:1313/categories/</link>
+    <description>Recent content in Categories on Arveed.com</description>
+    <generator>Hugo</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 26 Feb 2022 21:10:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 May 2024 15:15:20 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>essai</title>
-      <link>/categories/essai/</link>
-      <pubDate>Sat, 26 Feb 2022 21:10:00 +0000</pubDate>
-      
-      <guid>/categories/essai/</guid>
+      <title>Blog</title>
+      <link>//localhost:1313/categories/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/blog/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>inspiration</title>
-      <link>/categories/inspiration/</link>
-      <pubDate>Tue, 15 Jun 2021 21:10:00 +0000</pubDate>
-      
-      <guid>/categories/inspiration/</guid>
+      <title>Essai</title>
+      <link>//localhost:1313/categories/essai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/essai/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>matiereapenser</title>
-      <link>/categories/matiereapenser/</link>
-      <pubDate>Tue, 08 Jun 2021 19:00:00 +0000</pubDate>
-      
-      <guid>/categories/matiereapenser/</guid>
+      <title>Podcast</title>
+      <link>//localhost:1313/categories/podcast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/podcast/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>sciences-humaines</title>
-      <link>/categories/sciences-humaines/</link>
-      <pubDate>Tue, 08 Jun 2021 19:00:00 +0000</pubDate>
-      
-      <guid>/categories/sciences-humaines/</guid>
+      <title>Danslesmarges</title>
+      <link>//localhost:1313/categories/danslesmarges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/danslesmarges/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ecriture</title>
-      <link>/categories/ecriture/</link>
-      <pubDate>Tue, 08 Jun 2021 17:18:21 +0000</pubDate>
-      
-      <guid>/categories/ecriture/</guid>
+      <title>Lectures</title>
+      <link>//localhost:1313/categories/lectures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/lectures/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>lectures</title>
-      <link>/categories/lectures/</link>
-      <pubDate>Sun, 27 Dec 2020 13:56:01 -0800</pubDate>
-      
-      <guid>/categories/lectures/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>blog</title>
-      <link>/categories/blog/</link>
-      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>outils</title>
-      <link>/categories/outils/</link>
-      <pubDate>Wed, 09 Apr 2014 19:25:53 +0000</pubDate>
-      
-      <guid>/categories/outils/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

@@ -1,0 +1,43 @@
+baseurl: "/"
+languageCode: "fr-FR"
+title: "Arveed.com"
+theme: "hugo-xmin-master"
+defaultContentLanguage : "fr"
+defaultContentLang : "fr"
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+footnotereturnlinkcontents: "↩"
+
+permalinks:
+  note: "/note/:year/:month/:day/:slug/"
+  post: "/post/:year/:month/:day/:slug/"
+
+menu:
+  main:
+    - name: Home
+      url: ""
+      weight: 1
+    - name: À propos
+      url: "/a-propos/"
+      weight: 3
+    - name: Mes livres
+      url: "https://cyrilvallee.com/livres/"
+      weight: 2
+    - name: Lectures
+      url: "/lectures/"
+    - name: RSS
+      url: "index.xml"
+
+params:
+  description: "Arveed est un blog de l'écrivain Cyril Vallée | Arveed is a blog of writer Cyril Vallée"
+  footer: "Arveed - {Year} | [Github](https://github.com/crlvll) | [Mastodon](https://tooting.ch/@arveed) | [Bluesky](https://bsky.app/profile/arveed.bsky.social)"
+
+taxonomies:
+  category: categories
+  tag: tags
+  
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true

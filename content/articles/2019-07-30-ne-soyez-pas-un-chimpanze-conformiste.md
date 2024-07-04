@@ -3,7 +3,7 @@ title = "Ne soyez pas un chimpanzé conformiste"
 date = "2019-07-30"
 description = "Une force intérieure nous pousse à nous conformer aux normes du groupe. Pour notre plus grand bien ?"
 categories = [
-    "matiereapenser"]
+    "blog"]
 meta = true
 slug = "ne-soyez-pas-un-chimpanze-conformiste"
 +++
