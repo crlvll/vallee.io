@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arveed.com</title>
+    <title>Arveed</title>
     <link>//localhost:1313/</link>
-    <description>Recent content on Arveed.com</description>
+    <description>Recent content on Arveed</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
     <lastBuildDate>Tue, 21 May 2024 15:15:20 +0000</lastBuildDate>
@@ -2092,7 +2092,7 @@
       <link>//localhost:1313/a-propos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/a-propos/</guid>
-      <description>Hello, Arveed point com est un blog de Cyril Vallée. (Moi, donc.) Je suis romancier et technopédagogue.&#xA;Je suis auteur de littérature de genres : thrillers, science-fiction et fantastique.&#xA;Si vous voulez en savoir plus, visitez mon site officiel. Vous y trouverez aussi un lien pour vous abonner à ma newsletter. En prime, vous aurez droit à des histoires gratuites (qui n&amp;rsquo;aime pas les cadeaux ?)&#xA;Ce site est un miroir, plus simple, généré statiquement et que j’espère pérenne, de mon site officiel cyrilvallee.</description>
+      <description>Hello, Arveed est un blog de Cyril Vallée. (Moi, donc.) Je suis romancier et technopédagogue.&#xA;Je suis auteur de littérature de genres : thrillers, science-fiction et fantastique.&#xA;Si vous voulez en savoir plus, visitez mon site officiel. Vous y trouverez aussi un lien pour vous abonner à ma newsletter. En prime, vous aurez droit à des histoires gratuites (qui n&amp;rsquo;aime pas les cadeaux ?)&#xA;Ce site est un miroir, plus simple, généré statiquement et que j’espère pérenne, de mon site officiel cyrilvallee.</description>
     </item>
   </channel>
 </rss>

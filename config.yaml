@@ -1,9 +1,9 @@
 baseurl: "/"
 languageCode: "fr-FR"
-title: "Arveed.com"
+title: "Arveed"
 theme: "hugo-xmin-master"
-defaultContentLanguage : "fr"
-defaultContentLang : "fr"
+defaultContentLanguage: "fr"
+defaultContentLang: "fr"
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 footnotereturnlinkcontents: "↩"
 
@@ -34,7 +34,7 @@ params:
 taxonomies:
   category: categories
   tag: tags
-  
+
 markup:
   highlight:
     codeFences: false

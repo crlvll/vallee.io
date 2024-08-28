@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Craft on Arveed.com</title>
+    <title>Craft on Arveed</title>
     <link>//localhost:1313/tags/craft/</link>
-    <description>Recent content in Craft on Arveed.com</description>
+    <description>Recent content in Craft on Arveed</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
     <lastBuildDate>Sun, 24 Dec 2023 16:36:29 +0000</lastBuildDate>

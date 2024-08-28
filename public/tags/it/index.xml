@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>It on Arveed.com</title>
+    <title>It on Arveed</title>
     <link>//localhost:1313/tags/it/</link>
-    <description>Recent content in It on Arveed.com</description>
+    <description>Recent content in It on Arveed</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
     <lastBuildDate>Mon, 01 Apr 2024 15:00:19 +0000</lastBuildDate>

@@ -1,9 +1,10 @@
 Sous le pseudo _Arveed_ se cache Cyril Vallée, écrivain franco-suisse de thrillers et (accidentellement) de science-fiction et fantastique.
-J'écris des articles sur la créativité, l'écriture et plus généralement tout ce qui pique mon intérêt ; je suis un grand curieux. Je publie une newsletter, [Dans les marges](https://cyrilvallee.com/dlm/?ref=arveed.com), un aperçu des coulisses de mon processus créatif.
+J'écris des articles sur la créativité, l'écriture et plus généralement tout ce qui pique mon intérêt ; je suis un grand curieux. Je publie une newsletter, [Dans les marges](https://cyrilvallee.com/dlm/?ref=vallee.io), un aperçu des coulisses de mon processus créatif.
 
 Je produis le podcast [Duo de plumes](https://duodeplumes.com/) avec ma complice l'écrivaine [Catherine Rolland](https://catherine-rolland.com/?ref=arveed.com).
 
-Mon dernier livre est [Timeskippers — Livre I](https://www.cyrilvallee.com/timeskippers/), l'histoire d'un jeune homme qui crée des bulles temporelles à volonté.
+Mon dernier livre est [Timeskippers — Livre II](https://www.cyrilvallee.com/timeskippers/), l'histoire d'un jeune homme qui crée des bulles temporelles à volonté.
+
 <ul style="text-align: center; padding: 10px 40px; list-style-type: none; display: flex; margin: 0 5em;align-items: center;
   justify-content: center; /* Centre horizontalement */
   align-items: center; /* Centre verticalement */">

@@ -13,8 +13,8 @@ La "note" de chaque ouvrage est en fait une recommandation – elle représente
 <div class="book" style="font-weight: normal;border-bottom: 1px solid darkgrey;margin: 20px 0 10px 0;">
   <div>Titre</div>
   <div>Auteur</div>
-  <div>Lu le          </div>
-  <div>Recommandation</div>
+  <div>Lu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+  <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Note</div>
 </div>
   {{ $pages := .Pages }}
   {{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
@@ -27,7 +27,7 @@ La "note" de chaque ouvrage est en fait une recommandation – elle représente
     <div>
       {{ .Params.auteur }}
     </div>
-    <time>
+    <time style="min-width: 100px;">
       {{ .Params.date_lecture }}
     </time>
     <div style="text-align: right;">

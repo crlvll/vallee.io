@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Non-Fiction on Arveed.com</title>
+    <title>Non-Fiction on Arveed</title>
     <link>//localhost:1313/tags/non-fiction/</link>
-    <description>Recent content in Non-Fiction on Arveed.com</description>
+    <description>Recent content in Non-Fiction on Arveed</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
     <lastBuildDate>Wed, 07 Feb 2024 17:50:03 +0000</lastBuildDate>

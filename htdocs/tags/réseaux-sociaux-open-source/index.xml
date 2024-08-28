@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Réseaux Sociaux, Open-Source on Arveed.com</title>
+    <link>/tags/r%C3%A9seaux-sociaux-open-source/</link>
+    <description>Recent content in Réseaux Sociaux, Open-Source on Arveed.com</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/r%C3%A9seaux-sociaux-open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migration sur Mastodon, un sentiment de liberté.</title>
+      <link>/articles/mastodon/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/articles/mastodon/</guid>
+      <description>Mon premier contact avec Mastodon était en 2017. Mais je n&amp;rsquo;avais pas vraiment compris l&amp;rsquo;intérêt ni le concept idéologique sous-jacent.</description>
+    </item>
+  </channel>
+</rss>

@@ -2,4 +2,3 @@
 title: Lectures
 layout: readinglist
 ---
-
