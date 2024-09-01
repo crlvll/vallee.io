@@ -1,0 +1,251 @@
+body {
+  max-width: 38em;
+  margin: auto;
+  padding: 1em;
+  line-height: 30px;
+  font-size: 20px;
+}
+
+.menu {
+  padding: 0;
+}
+
+.menu li {
+  display: inline-block;
+}
+
+.article-meta,
+.menu a {
+  text-decoration: none;
+  padding: 5px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-family: sans-serif;
+  font-size: 0.7em;
+}
+
+.menu,
+.article-meta,
+footer {
+  text-align: center;
+}
+
+.title {
+  font-size: 1.1em;
+}
+
+nav {
+  border-top: 1px solid #cccccc;
+  border-bottom: 1px solid #cccccc;
+}
+
+footer {
+  font-family: sans-serif;
+  font-size: 0.7em;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+hr {
+  color: #fefefe;
+  width: 65%;
+}
+
+.footnotes {
+  font-size: 0.8em;
+}
+
+pre {
+  border: 1px solid #ddd;
+  box-shadow: 5px 5px 5px #eee;
+  padding: 1em;
+  overflow-x: auto;
+}
+
+code {
+  background: #f9f9f9;
+}
+
+pre code {
+  background: none;
+}
+
+/* misc elements  */
+
+img,
+iframe,
+video {
+  max-width: 100%;
+}
+
+main {
+  hyphens: auto;
+}
+
+blockquote {
+  background: transparent;
+  border-left: 5px solid #ccc;
+  padding: 3px 1em 3px;
+}
+
+a {
+  text-decoration: none;
+  color: #406caf;
+}
+
+table {
+  margin: auto;
+  border-top: 1px solid #666;
+  border-bottom: 1px solid #666;
+}
+
+table thead th {
+  border-bottom: 1px solid #ddd;
+}
+
+th,
+td {
+  padding: 5px;
+}
+
+thead,
+tfoot,
+tr:nth-child(even) {
+  background: #eee;
+}
+
+#arveedcom {
+  text-align: center;
+}
+
+#identite {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* Centre horizontalement */
+  align-items: center;
+  /* Centre verticalement */
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+}
+
+.brand svg {
+  width: 69px;
+  /* ou une autre taille selon vos besoins */
+  height: auto;
+}
+
+.brand h1 {
+  margin-left: 20px;
+  /* Espacement entre le logo et le titre */
+  font-size: 2.4em;
+  /* Taille du texte */
+  font-family: Georgia, Times, serif;
+  font-weight: 900;
+}
+
+.toot-blockquote {
+  line-height: 1.35em;
+  font-family: sans-serif;
+  font-size: 0.85em;
+  border: 2px solid;
+  border-radius: 12px;
+  background: transparent;
+  width: 75%;
+  margin: 1.5rem auto;
+  padding: 1rem;
+}
+
+.toot-header {
+  display: flex;
+}
+
+.toot-header .toot-profile {
+  flex-shrink: 0;
+  margin-bottom: 1em;
+  margin-right: 0.5em;
+}
+
+.toot-blockquote a {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+  text-decoration: none;
+  border: none !important;
+}
+
+.toot-header .toot-author-name {
+  font-weight: 700;
+  font-size: var(--text-base);
+  color: var(--black);
+  line-height: 1.375;
+}
+
+.toot-header .toot-author-handle {
+  color: darkgrey;
+  font-weight: 400;
+  font-size: small;
+  line-height: 1;
+}
+
+.toot-header .toot-profile img {
+  border-radius: 9999px;
+  width: 48px;
+  height: auto;
+}
+
+.toot-blockquote p {
+  color: var(--default);
+  margin-top: 0;
+  margin-bottom: 1em;
+  line-height: 1.35em;
+}
+
+.toot-footer {
+  color: grey;
+  font-size: 0.8em;
+  font-weight: 500;
+  align-items: center;
+  margin-top: 1rem;
+  display: flex;
+}
+
+.legal {
+  font-size: x-small;
+}
+
+.book {
+  display: grid;
+  grid-column-gap: 5px;
+  grid-row-gap: 5px;
+  grid-template-columns: 1fr 0.75fr min-content 70px;
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 16px;
+}
+
+.book > div {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.book a,
+.book a:visited {
+  font-weight: 500;
+}
+.book a:hover {
+  text-decoration: underline;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: rgb(40, 44, 53, 1);
+    color: rgb(226, 226, 226, 1);
+  }
+}
+

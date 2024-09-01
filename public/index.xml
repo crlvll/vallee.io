@@ -6,8 +6,15 @@
     <description>Recent content on Arveed</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 21 May 2024 15:15:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyrili Vallée</title>
+      <link>//localhost:1313/ls/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/ls/</guid>
+      <description>Cyril Vallée est un écrivain franco-suisse de thrillers et accidentellement de SF et fantastique.</description>
+    </item>
     <item>
       <title>Fact-checker les images sur les réseaux sociaux - quelques outils.</title>
       <link>//localhost:1313/articles/fact-checking/</link>

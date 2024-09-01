@@ -1,0 +1,627 @@
+/*
+* littlelink.io
+* Skeleton V2.0.4
+* Copyright 2014, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 12/29/2014
+*/
+
+/*
+* Built using on:
+* Skeleton V2.0.4
+* Copyright 2014, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 12/29/2014
+*/
+
+
+/* Table of contents
+––––––––––––––––––––––––––––––––––––––––––––––––––
+
+- Rounded user avatars
+- Social icons
+- Buttons
+- Brand Styles
+
+*/
+
+
+/* Rounded avatars
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+/* Disable this if you don't want rounded avatars for users */
+.rounded-avatar {
+  border-radius: 50%;
+}
+
+/* Social icon
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.social-icon {
+  font-size: 32px;
+  padding: 10px;
+}
+.social-icon-div {
+  padding-bottom: 30px;
+}
+
+/* Buttons
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.button,
+button {
+  display: inline-block;
+  text-decoration: none;
+  height: 100%;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 18px;
+  width: 300px;
+  font-weight: 700;
+  line-height: 20px;
+  padding: 14px 12px 12px 12px;
+  letter-spacing: 0.1px;
+  white-space: wrap;
+  outline: none;
+  border-radius: 8px;
+  cursor: pointer;
+ }
+button:hover,
+.button:focus {
+  color: #333;
+  border-color: #888;
+  outline: 0; 
+}
+.button.button-primary {
+  color: #FFF;
+  filter: brightness(90%) }
+.button.button-primary:hover,
+.button.button-primary:focus {
+  color: #FFF;
+  filter: brightness(90%) }
+
+
+/* Brand Icons
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.icon {
+  padding: 0px 8px 3.5px 0px;
+  vertical-align: middle;
+  width: 20px;
+  height: 20px;
+}
+
+
+/* Brand Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+/* Added custom link button*/
+.button.button-custom {
+  color: #FFFFFF;
+  background-color: #FFFFFF;
+  background-image: linear-gradient(
+    -135deg,
+    #0f0c29,
+    #302b63,
+    #24243e
+  );
+}
+.button.button-custom:hover,
+.button.button-custom:focus {
+  filter: brightness(90%);
+}
+
+/* Default (this is great for your own brand color!) */
+.button.button-default {
+  color: #FFFFFF;
+  background-color: #306db4;
+}
+.button.button-default:hover,
+.button.button-default:focus {
+  filter: brightness(90%);
+}
+
+/* properties */
+/* LinkStack */
+@property --rotate {
+        syntax: "<angle>";
+        initial-value: 0deg;
+        inherits: false;
+    }
+
+.button.button-fancy {
+  --rotate: -10deg;
+  --red: red;
+  color: #FFFFFF;
+  background-image: linear-gradient(
+    20deg,
+    #F70FFF,
+    #896FF0,
+    #12D6DF
+  );
+/*  background: blue;
+
+  &:before {
+      background: conic-gradient(from -90deg, transparent 0%, white 5%, transparent 10%);
+      position: absolute;
+      inset: 0;
+      animation: rotate 2s linear infinite;
+        }
+ /* &:after {
+      content: "";
+      background-image: linear-gradient(
+      20deg,
+      #F70FFF,
+      #896FF0,
+      #12D6DF
+      );
+      position: absolute;
+      inset: 2px;
+      border-radius: 10px;
+        }*/
+}
+.button.button-littlelink-custom:hover,
+.button.button-littlelink-custom:focus {
+  filter: brightness(90%);
+}
+@keyframes rotate {
+        to {
+            --rotate: 360deg;
+        }
+}
+
+/* Website */
+.button.button-website {
+  color: #ffffff;
+  background-color: #000000;
+}
+
+/* Custom Website */
+.button.button-custom_website {
+  color: #ffffff;
+  background-color: #000000;
+}
+
+.button.button-web:hover,
+.button.button-web:focus {
+  filter: brightness(90%);
+}
+
+/* ALL-INKL */
+.button.button-all-inkl {
+  color: #000000;
+  background-color: #FFFFFF;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+}
+.button.button-all-inkl:hover,
+.button.button-all-inkl:focus {
+  filter: brightness(90%);
+}
+
+/* Amazon */
+.button.button-amazon {
+  color: #ffffff;
+  background-color: #000000;
+}
+.button.button-amazon:hover,
+.button.button-amazon:focus {
+  filter: brightness(90%);
+}
+
+/* Apple Books */
+.button.button-apple-books {
+  color: #FFFFFF;
+  background-image: linear-gradient(
+    -45deg,
+    #fa753b,
+    #feb033
+  );
+
+
+}
+.button.button-apple-books:hover,
+.button.button-apple-books:focus {
+  filter: brightness(90%);
+}
+
+/* Apple Music */
+.button.button-apple-music {
+  color: #FFFFFF;
+  background-image: linear-gradient(
+    to bottom,
+    #fb5c74,
+    #fa263e
+  );
+}
+.button.button-apple-music:hover,
+.button.button-apple-music:focus {
+  filter: brightness(90%);
+}
+
+/* Apple Podcasts */
+.button.button-apple-podcasts {
+  color: #FFFFFF;
+  background-image: linear-gradient(
+    to bottom,
+    #d36dfb,
+    #842cc2
+  );
+}
+.button.button-apple-music:hover,
+.button.button-apple-music:focus {
+  filter: brightness(90%);
+}
+
+/* Bluesky */
+.button.button-bluesky {
+  color: #000000;
+  background-color: #F3F9FF;
+  border: 1px solid #212121;
+}
+.button.button-bluesky:hover,
+.button.button-bluesky:focus {
+  filter: brightness(90%);
+}
+
+/* Buy Me a Coffee */
+.button.button-coffee {
+  color: #100a26;
+  background-color: #ffdd00;
+}
+.button.button-coffee:hover,
+.button.button-coffee:focus {
+  filter: brightness(90%);
+}
+
+
+
+
+/* Cryptpad */
+.button.button-cryptpad {
+  color: #FFFFFF;
+  background-color: #0087ff;
+}
+.button.button-cryptpad:hover,
+.button.button-cryptpad:focus {
+  filter: brightness(90%);
+}
+
+/* DEV */
+.button.button-dev-to {
+  color: #000000;
+  background-color: #f5f5f5;
+}
+.button.button-dev-to:hover,
+.button.button-dev-to:focus {
+  filter: brightness(90%);
+}
+
+
+
+/* Facebook */
+.button.button-facebook {
+  color: #FFFFFF;
+  background-color: #1877f2;
+}
+.button.button-facebook:hover,
+.button.button-facebook:focus {
+  filter: brightness(90%);
+}
+
+/* Facebook Messenger */
+.button.button-messenger {
+  color: #FFFFFF;
+  background-image: linear-gradient(
+    25deg,
+    #0099FF,
+    #5F5DFF,
+    #A033FF,
+    #C740CC,
+    #FF5280,
+    #FF7061
+  );
+}
+.button.button-messenger:hover,
+.button.button-messenger:focus {
+  filter: brightness(90%);
+}
+
+
+/* Flickr */
+.button.button-flickr {
+  color: #ffffff;
+  background-color: #000000;
+}
+.button.button-flickr:hover,
+.button.button-flickr:focus {
+  filter: brightness(90%);
+}
+
+
+
+/* Github */
+.button.button-github {
+  color: #FFFFFF;
+  background-color: #000000;
+}
+.button.button-github:hover,
+.button.button-github:focus {
+  filter: brightness(90%);
+}
+
+/* Gitlab */
+.button.button-gitlab {
+  color: #ffffff;
+  background-color: #6151b2;
+}
+.button.button-gitlab:hover,
+.button.button-gitlab:focus {
+  filter: brightness(90%);
+}
+
+/* Goodreads */
+.button.button-goodreads {
+  color: #333333;
+  background-color: #F3F1E6;
+}
+.button.button-goodreads:hover,
+.button.button-goodreads:focus {
+  filter: brightness(90%);
+}
+
+
+/* Humble Bundle */
+.button.button-humble-bundle {
+  color: #FFFFFF;
+  background-color: #cb272c;
+}
+.button.button-humble-bundle:hover,
+.button.button-humble-bundle:focus {
+  filter: brightness(90%);
+}
+
+/* Instagram */
+.button.button-instagram {
+  color: #FFFFFF;
+  background-image: linear-gradient(
+    -135deg,
+    #1400c8,
+    #b900b4,
+    #f50000
+  );
+}
+.button.button-instagram:hover,
+.button.button-instagram:focus {
+  filter: brightness(90%);
+}
+
+
+
+/* kickstarter */
+.button.button-kickstarter {
+  color: #ffffff;
+  background-color: #05ce78;
+}
+.button.button-kickstarter:hover,
+.button.button-kickstarter:focus {
+  filter: brightness(90%);
+}
+
+
+/* Ko-fi */
+.button.button-ko-fi {
+  color: #FFFFFF;
+  background-color: #13C3FF;
+}
+.button.button-ko-fi:hover,
+.button.button-ko-fi:focus {
+  filter: brightness(90%);
+}
+
+
+
+/* Liberapay */
+.button.button-liberapay {
+  color: #000000;
+  background-color: #f6c915;
+}
+.button.button-liberapay:hover,
+.button.button-liberapay:focus {
+  filter: brightness(90%);
+}
+
+
+/* Matrix */
+.button.button-matrix {
+  color: #000000;
+  background-color: #FFFFFF;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+}
+.button.button-matrix:hover,
+.button.button-matrix:focus {
+  filter: brightness(90%);
+}
+
+/* Mastodon */
+.button.button-mastodon {
+  color: #ffffff;
+  background-image: linear-gradient(to bottom, #6364FF, #563ACC);
+}
+.button.button-mastodon:hover,
+.button.button-mastodon:focus {
+  filter: brightness(90%);
+}
+
+/* Medium */
+.button.button-medium {
+  color: #FFFFFF;
+  background-color: #000000;
+}
+.button.button-medium:hover,
+.button.button-medium:focus {
+  filter: brightness(90%);
+}
+
+/* Patreon */
+.button.button-patreon {
+  color: #ffffff;
+  background-color: #ff424d;
+}
+.button.button-patreon:hover,
+.button.button-patreon:focus {
+  filter: brightness(90%);
+}
+
+/* PayPal */
+.button.button-paypal {
+  color: #ffffff;
+  background-color: #003087;
+}
+.button.button-paypal:hover,
+.button.button-paypal:focus {
+  filter: brightness(90%);
+}
+
+/* Peertube */
+.button.button-peertube {
+  color: #000000;
+  background-color: #c25912;
+}
+.button.button-peertube:hover,
+.button.button-peertube:focus {
+  filter: brightness(90%);
+}
+
+
+
+/* Pinterest */
+.button.button-pinterest {
+  color: #000000;
+  background-color: #FFE2EB;
+}
+.button.button-pinterest:hover,
+.button.button-pinterest:focus {
+  filter: brightness(90%);
+}
+
+/* Pixelfed */
+.button.button-pixelfed {
+  color: #FFFFFF;
+  background-image: linear-gradient(
+    200deg,
+    #FFA10A,
+    #0DE552,
+    #00C2F8,
+    #D332AC,
+    #F32848
+  );
+}
+.button.button-pixelfed:hover,
+.button.button-pixelfed:focus {
+  filter: brightness(90%);
+}
+
+
+
+/* Session */
+.button.button-session {
+  color: #000000;
+  background-color: #00f782;
+}
+.button.button-session:hover,
+.button.button-session:focus {
+  filter: brightness(90%);
+}
+
+
+/* SoundCloud */
+.button.button-soundcloud {
+  color: #FFFFFF;
+  background-color: #ff5500;
+}
+.button.button-soundcloud:hover,
+.button.button-soundcloud:focus {
+  filter: brightness(90%);
+}
+
+/* Spotify */
+.button.button-spotify {
+  color: #FFFFFF;
+  background-color: #000000;
+}
+.button.button-spotify:hover,
+.button.button-spotify:focus {
+  filter: brightness(90%);
+}
+
+
+/* Threema */
+.button.button-threema {
+  color: #FFFFFF;
+  background-color: #323232;
+}
+.button.button-threema:hover,
+.button.button-threema:focus {
+  filter: brightness(90%);
+}
+
+
+/* TikTok */
+.button.button-tiktok {
+  color: #FFFFFF;
+  background-color: #000000;
+}
+
+
+/* Twitch */
+.button.button-twitch {
+  color: #FFFFFF;
+  background-color: #9146ff;
+}
+.button.button-twitch:hover,
+.button.button-twitch:focus {
+  filter: brightness(90%);
+}
+
+/* Twitter */
+.button.button-twitter {
+  color: #FFFFFF;
+  background-color: #1DA1F2;
+}
+.button.button-twitter:hover,
+.button.button-twitter:focus {
+  filter: brightness(90%);
+}
+
+
+/* Wordpress */
+.button.button-wordpress {
+  color: #FFFFFF;
+  background-color: #21759b;
+}
+.button.button-wordpress:hover,
+.button.button-wordpress:focus {
+  filter: brightness(90%);
+}
+
+
+
+/* YouTube V2 */
+.button.button-youtube {
+  color: #FFFFFF;
+  background-color:  #FF0000;
+}
+.button.button-youtube:hover,
+.button.button-youtube:focus {
+  filter: brightness(90%);
+}
+
+
