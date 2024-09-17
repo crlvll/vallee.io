@@ -1,5 +1,6 @@
 +++
 slug = "7-points-cles-ou-scrivener-maide-a-ecrire-mes-fictions"
+genre = "blog"
 date = "2014-04-09T19:25:53+00:00"
 meta = true
 math = false

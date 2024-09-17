@@ -1,15 +1,20 @@
-{{ partial "header.html" . }}
+{{ partial "header-single.html" . }}
 <div class="article-meta">
+	{{ with .Params.genre }}<div class="genre">{{ . }}</div>{{ end }}
+	
 <h1><span class="title">{{ .Title | markdownify }}</span></h1>
 {{ with .Params.author }}<h2 class="author">{{ . }}</h2>{{ end }}
-{{ if (gt .Params.date 0) }}<h2 class="date">{{ .Date.Format "2.01.2006" }}</h2>{{ end }}
+
 </div>
 
 <main>
 {{ .Content }}
 </main>
-_______________ <br>
-<p style="font-size: small;">Permalink: <a href="{{ .RelPermalink }}">https://arveed.com{{ .RelPermalink }}</a></p>
+<br>
+{{ if (gt .Params.date 0) }}
+	<div class="date-single">{{ .Date.Format "2.01.2006" }}</div>
+{{ end }}
+<div style="font-size: small;font-family: 'Montserrat', helvetica, arial, sans-serif; margin-top: -1em;">Permalink: <a href="{{ .RelPermalink }}">https://arveed.com{{ .RelPermalink }}</a></div>
 
 
 {{ partial "footer.html" . }}

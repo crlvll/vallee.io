@@ -4,6 +4,7 @@ authors = [
 ]
 title = "La loi de Goodhart"
 date = "2019-08-17"
+genre = "blog"
 description = "Quand une mesure devient un objectif, elle cesse d'être une bonne mesure."
 slug = "la-loi-de-goodhart"
 categories = [

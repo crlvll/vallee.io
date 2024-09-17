@@ -1,6 +1,7 @@
 +++
 author = ""
 date = "2014-01-18T20:41:06+00:00"
+genre = "blog"
 meta = true
 math = false
 title = "Une façon de faire les révisions dans Scrivener"

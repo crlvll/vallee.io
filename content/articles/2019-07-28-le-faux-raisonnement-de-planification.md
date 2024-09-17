@@ -5,6 +5,7 @@ description = "The planning fallacy, ou comment nous sous-estimons constamment l
 categories = ["blog"]
 slug = "le-faux-raisonnement-de-planification"
 meta = true
+genre = "blog"
 +++
 
 

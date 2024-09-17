@@ -1,6 +1,7 @@
 ---
 title: "La Douzieme Victime Nouvelle Edition"
 date: 2021-10-02T18:35:46+01:00
+genre: blog
 draft: false
 slug: "la-douzieme-victime-nouvelle-edition"
 meta: true

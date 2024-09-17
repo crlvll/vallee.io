@@ -7,6 +7,7 @@ categories = [
     "blog",
 ]
 meta = true
+genre = "blog"
 +++
 
 Je relis mes notes de _L’obstacle est le chemin_ de Ryan Holiday, où il écrit :  

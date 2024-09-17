@@ -1,6 +1,7 @@
 +++
 author = ""
 date = "2021-06-08T19:00:00+00:00"
+genre = "blog"
 meta = true
 math = false
 title = "L’importance de la manière de dire les choses"

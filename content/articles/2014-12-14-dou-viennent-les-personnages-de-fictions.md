@@ -1,6 +1,7 @@
 +++
 author = ""
 date = "2014-12-14T19:03:06+00:00"
+genre = "blog"
 meta = true
 math = false
 slug = "dou-viennent-les-personnages-de-fictions"

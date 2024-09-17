@@ -12,6 +12,7 @@ images = [
 categories = [
     "blog",
 ]
+genre = "blog"
 +++
 
 Pour être plus précis, la création de bonnes habitudes, auxquelles j’essaie de me conformer pour plus y penser, est à la fois essentielle et difficile à acquérir. Une bonne habitude peut amener à un objectif bien plus rapidement et facilement que de se forcer à faire quelque chose par à coups.

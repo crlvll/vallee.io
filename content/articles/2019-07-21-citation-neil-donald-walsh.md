@@ -6,6 +6,7 @@ images = ["struggle.jpg",]
 categories = ["blog",]
 meta = true
 draft = true
+genre = "blog"
 
 +++
 

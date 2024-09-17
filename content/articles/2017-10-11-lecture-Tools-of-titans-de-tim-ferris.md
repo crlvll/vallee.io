@@ -1,6 +1,7 @@
 +++
 author = ""
 date = "2017-10-11"
+genre = "blog"
 meta = true
 math = false
 title = "Tools of Titans de Tim Ferris"

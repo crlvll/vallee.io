@@ -5,6 +5,7 @@ slug = "capables-du-pire-comme-du-meilleur"
 subtitle = "Comment accorder le fait que les relations humaines peuvent apporter à la fois le meilleur et le pire dans la vie ?"
 categories = ["blog"]
 meta = true
+genre = "blog"
 +++
 
 

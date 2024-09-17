@@ -1,6 +1,7 @@
 +++
 author = ""
 date = "2021-06-08T17:18:21+00:00"
+genre = "blog"
 meta = true
 math = false
 slug = "la-regle-de-raymond-chandler"

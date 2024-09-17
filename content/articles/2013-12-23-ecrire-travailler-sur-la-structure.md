@@ -1,6 +1,7 @@
 +++
 author = ""
 date = "2013-12-23T13:30:39+00:00"
+genre = "blog"
 meta = true
 slug = "ecrire-travailler-sur-la-structure"
 math = false

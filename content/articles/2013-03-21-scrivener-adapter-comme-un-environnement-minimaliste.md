@@ -1,6 +1,7 @@
 +++
 author = ""
 date = "2013-03-21T23:15:28+00:00"
+genre = "blog"
 meta = true
 math = false
 title = "Scrivener: adapter comme un environnement minimaliste"

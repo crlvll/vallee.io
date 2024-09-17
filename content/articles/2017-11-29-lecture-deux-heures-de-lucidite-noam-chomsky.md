@@ -1,6 +1,7 @@
 +++
 author = ""
 date = "2017-11-29"
+genre = "blog"
 meta = true
 math = false
 title = "Deux heures de lucidité : Entretiens avec Denis Robert et Weronika Zarachowicz - par Noam Chomsky"

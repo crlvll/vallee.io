@@ -2,6 +2,7 @@
 author : ""
 date : "2017-02-14T10:48:06"
 meta : true
+genre: blog
 math : false
 title : "Les règles de Heinlein"
 subtitle : ""

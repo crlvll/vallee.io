@@ -1,5 +1,6 @@
 +++
 categories = ["blog"]
+genre = "blog"
 date = 2024-03-14T17:50:19Z
 description = "DREAM est un outil pratique pour développer les arcs narratifs des personnages."
 draft = false

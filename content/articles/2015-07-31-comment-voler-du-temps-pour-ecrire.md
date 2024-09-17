@@ -1,6 +1,7 @@
 +++
 author = ""
 date = "2015-07-31T12:21:15+00:00"
+genre = "blog"
 slug = "comment-voler-du-temps-pour-ecrire"
 meta = true
 math = false

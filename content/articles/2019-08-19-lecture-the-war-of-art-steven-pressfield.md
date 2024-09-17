@@ -1,6 +1,7 @@
 +++
 author = ""
 date = "2019-08-19"
+genre = "blog"
 meta = true
 math = false
 title = "The War of Art de Steven Pressfield"

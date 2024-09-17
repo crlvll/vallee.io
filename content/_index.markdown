@@ -17,6 +17,6 @@ I write a blog on creativity, writing and each subject that drives my curiosity.
 
 I produce and co-host _Duo de plumes_ a litterary podcast in french with my accomplice, writer Catherine Rolland.
 
-My last book is _Timeskippers: book 1_, the story of a young man who creates time bubbles on demand.
+My last book is _Timeskippers: book 2_, the story of a young man who creates time bubbles on demand.
 
 ## Blog posts

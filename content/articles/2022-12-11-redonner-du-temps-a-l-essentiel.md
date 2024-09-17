@@ -1,5 +1,6 @@
 ---
 date: 2022-12-11
+genre: blog
 meta: true
 math: false
 title: "Se donner du temps"

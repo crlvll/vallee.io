@@ -1,5 +1,6 @@
 +++
 categories = ["podcast"]
+genre = "blog"
 date = 2024-02-14T19:00:00Z
 description = ""
 draft = false

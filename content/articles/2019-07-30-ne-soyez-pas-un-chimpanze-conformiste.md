@@ -5,6 +5,7 @@ description = "Une force intérieure nous pousse à nous conformer aux normes du
 categories = [
     "blog"]
 meta = true
+genre = "blog"
 slug = "ne-soyez-pas-un-chimpanze-conformiste"
 +++
 

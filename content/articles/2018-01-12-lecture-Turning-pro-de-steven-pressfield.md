@@ -1,6 +1,7 @@
 +++
 author = ""
 date = "2018-01-12"
+genre = "blog"
 meta = true
 math = false
 title = "Turning Pro de Steven Pressfield"

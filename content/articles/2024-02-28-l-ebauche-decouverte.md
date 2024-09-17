@@ -1,5 +1,6 @@
 +++
 categories = ["essai"]
+genre = "essai"
 date = 2024-02-28T12:00:19Z
 description = "Un essai sur la façon d'aborder le premier jet en écriture de fiction: ne pas brider sa créativité en corrigeant au fur et à mesure de l'écrire, mais plutôt écrire toute la première ébauche sans interruption."
 draft = false

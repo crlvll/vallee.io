@@ -1,6 +1,7 @@
 +++
 author = ""
 date = "2013-04-07T19:12:59+00:00"
+genre = "blog"
 meta = true
 math = false
 title = "Scrivener: organiser la structure de ses textes"

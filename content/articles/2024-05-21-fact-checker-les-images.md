@@ -1,5 +1,6 @@
 +++
 categories = ["blog"]
+genre = "blog"
 date = 2024-05-21T15:15:20Z
 description = "Les images sur les réseaux sont souvent là pour créer l'émotion. Mais sont-elles réelles ?"
 draft = false

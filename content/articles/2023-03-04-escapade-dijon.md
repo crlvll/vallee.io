@@ -1,5 +1,6 @@
 ---
 date: 2023-03-04 
+genre: blog
 meta: true
 math: false
 title: "Une escapade à Dijon le temps d'un week-end."

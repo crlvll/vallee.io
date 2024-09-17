@@ -1,5 +1,6 @@
 +++
 categories = ["blog"]
+genre = "blog"
 date = 2024-04-01T15:00:19Z
 description = "XZ, une librairie de compression des données utilisée pour les échanges sécurisés sur internet, a failli se faire pirater."
 draft = false

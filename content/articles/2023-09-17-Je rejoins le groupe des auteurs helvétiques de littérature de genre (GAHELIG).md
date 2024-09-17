@@ -1,5 +1,6 @@
 ---
 date: 2023-09-17
+genre: blog
 meta: true
 math: false
 title: "Je rejoins le groupe des auteurs helvétiques de littérature de genre (GAHELIG)"

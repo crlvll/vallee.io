@@ -1,6 +1,7 @@
 ---
 title: Pour vaincre la Résistance, en prendre conscience
 date: 2019-07-16
+genre: blog
 draft: false
 meta: true
 slug: "pour-vaincre-la-resistance-en-prendre-conscience"

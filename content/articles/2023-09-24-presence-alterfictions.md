@@ -1,5 +1,6 @@
 ---
 date: 2023-09-24 
+genre: blog
 meta: true
 math: false
 title: "Ma présence au festival Alterficions les 18 et 19 novembre 2023"

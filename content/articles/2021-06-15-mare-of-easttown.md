@@ -1,6 +1,7 @@
 +++
 author = ""
 date = "2021-06-15T21:10:00+00:00"
+genre = "blog"
 meta = true
 math = false
 title = "Mare of Easttown"

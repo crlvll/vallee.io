@@ -1,5 +1,6 @@
 ---
 date: 2023-01-24
+genre: blog
 meta: true
 math: false
 title: "De la fenêtre du train."

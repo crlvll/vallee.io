@@ -1,6 +1,7 @@
 +++
 author = ""
 date = "2015-11-25T18:00:01+00:00"
+genre = "blog"
 meta = true
 math = false
 title = "Techniques d’écriture, construction d’un récit, ouvrages de référence"

@@ -1,6 +1,7 @@
 ---
 title: "Decouvrez La Couverture De Totem"
 date: 2021-10-14T18:35:06+01:00
+genre: blog
 draft: false
 meta: true
 subtitle: "La réédition de mon thriller mérite une nouvelle couverture."

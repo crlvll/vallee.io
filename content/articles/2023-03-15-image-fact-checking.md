@@ -1,5 +1,6 @@
 ---
 date: 2023-03-15 
+genre: blog
 meta: true
 math: false
 title: "."
