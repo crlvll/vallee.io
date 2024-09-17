@@ -1,8 +1,8 @@
 +++
-title = "A propos"
+title = "À propos"
 +++
 
-## Hello,
+### Hello,
 
 **Arveed** est un blog de **Cyril Vallée.** (Moi, donc.)
 Je suis <a href="https://www.cyrilvallee.com">romancier</a> et <a href="https://www.h-fr.ch/nos-formations/centre-de-formation-des-soins">technopédagogue</a>.<br>
@@ -17,7 +17,7 @@ Vous pouvez aussi y trouver [mon point de vue sur l'intelligence artificielle](/
 
 ## Courte bio
 
-### Voici ce que dit la bio de mon site d'auteur:
+Voici ce que dit la bio de mon site d'auteur:
 
 Cyril est né en 1973. Il vit en Suisse avec sa famille.
 
