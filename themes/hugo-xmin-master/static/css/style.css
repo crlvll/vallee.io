@@ -109,7 +109,7 @@ h1 {
   text-align: left;
 }
 
-h1+p:first-letter, h2+p:first-letter {
+h1+p:first-letter {
   font-size: 3.3em;
   float: left;
   line-height: .6em;
