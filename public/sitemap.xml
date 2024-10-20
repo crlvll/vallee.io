@@ -29,6 +29,12 @@
     <loc>//localhost:1313/ai/</loc>
     <lastmod>2024-04-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/articles/prolifique/</loc>
+    <lastmod>2024-04-01T15:00:19+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/blog/</loc>
+    <lastmod>2024-04-01T15:00:19+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/tags/it/</loc>
     <lastmod>2024-04-01T15:00:19+00:00</lastmod>
   </url><url>
@@ -790,6 +796,10 @@
     <loc>//localhost:1313/lectures/telemetrie-fugitive/</loc>
   </url><url>
     <loc>//localhost:1313/lectures/la-clef-et-la-croix/</loc>
+  </url><url>
+    <loc>//localhost:1313/lectures/fastlane/</loc>
+  </url><url>
+    <loc>//localhost:1313/lectures/saturation-point/</loc>
   </url><url>
     <loc>//localhost:1313/a-propos/</loc>
   </url><url>

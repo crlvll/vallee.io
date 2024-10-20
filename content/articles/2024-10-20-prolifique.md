@@ -1,13 +1,12 @@
 ---
-categories :"blog"
+categories: "blog"
 date: 2024-04-01T15:00:19Z
 description: " "
 draft: false
 image: " "
-slug : "prolifique"
-tags : "blog"
-title : "Auteur prolifique ?"
-
+slug: "prolifique"
+tags: "blog"
+title: "Auteur prolifique ?"
 ---
 
 # Un auteur prolifique

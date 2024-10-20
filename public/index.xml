@@ -30,6 +30,13 @@
       <description>Un manifeste de mon usage de l’intelligence artificielle et des LLM (grands modèles de langage). Pour faire simple, tous les écrits produits en mon nom sont d’origine humaine.</description>
     </item>
     <item>
+      <title>Auteur prolifique ?</title>
+      <link>//localhost:1313/articles/prolifique/</link>
+      <pubDate>Mon, 01 Apr 2024 15:00:19 +0000</pubDate>
+      <guid>//localhost:1313/articles/prolifique/</guid>
+      <description>&lt;h1 id=&#34;un-auteur-prolifique&#34;&gt;Un auteur prolifique&lt;/h1&gt;&#xA;&lt;p&gt;Il y a des auteurs qu’on prend pour modèles. C’est comme cela qu’on commence à avoir envie d’écrire (en tout cas c’est mon cas, j’en parle dans l’un des épisodes de &lt;a href=&#34;https://www.duodeplumes.com&#34;&gt;Duo de plume&lt;/a&gt;).&#xA;Parfois, l’effet est inverse. Quand on voit la production de plusieurs de ces modèles, on peut se bloquer, se dire que jamais on n’atteindra ce niveau. Que ce soit du côté de la qualité littéraire, du &lt;em&gt;storytelling&lt;/em&gt;, ou de la quantité.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Une porte dérobée dans XZ: la grosse vulnérabilité d&#39;internet</title>
       <link>//localhost:1313/articles/xz-incident/</link>
       <pubDate>Mon, 01 Apr 2024 15:00:19 +0000</pubDate>
@@ -2158,11 +2165,25 @@
       <description></description>
     </item>
     <item>
-      <title>A propos</title>
+      <title></title>
+      <link>//localhost:1313/lectures/fastlane/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/lectures/fastlane/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/lectures/saturation-point/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/lectures/saturation-point/</guid>
+      <description>&lt;p&gt;De la (bonne) dystopie. Avec le mystère qui entoure les premières pages, on a envie d&amp;rsquo;emblée de savoir qui est le personnage et que s&amp;rsquo;est-il passé pour que le monde soit dans un tel état. Et puis, très vite, on est embarqué dans cette aventure à explorer avec lui une zone où l&amp;rsquo;humain est maintenant incapable de vivre sans scaphandre.&#xA;Et, contrairement à ce qu&amp;rsquo;on pourrait penser, ce n&amp;rsquo;est pas à cause de la chaleur, mais de &lt;em&gt;l&amp;rsquo;humidité&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>À propos</title>
       <link>//localhost:1313/a-propos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/a-propos/</guid>
-      <description>&lt;h2 id=&#34;hello&#34;&gt;Hello,&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Arveed&lt;/strong&gt; est un blog de &lt;strong&gt;Cyril Vallée.&lt;/strong&gt; (Moi, donc.)&#xA;Je suis &lt;a href=&#34;https://www.cyrilvallee.com&#34;&gt;romancier&lt;/a&gt; et &lt;a href=&#34;https://www.h-fr.ch/nos-formations/centre-de-formation-des-soins&#34;&gt;technopédagogue&lt;/a&gt;.&lt;br&gt;&#xA;Je suis auteur de &lt;em&gt;littérature de genres&lt;/em&gt; : &lt;a href=&#34;https://www.cyrilvallee.com/totem-un-thriller/&#34;&gt;thrillers&lt;/a&gt;, &lt;a href=&#34;https://www.cyrilvallee.com/le-reflet-des-etoiles/&#34;&gt;science-fiction&lt;/a&gt; et &lt;a href=&#34;https://www.cyrilvallee.com/timeskippers/&#34;&gt;fantastique&lt;/a&gt;.&lt;br&gt;&#xA;Si vous voulez en savoir plus, visitez mon &lt;a href=&#34;https://www.cyrilvallee.com/&#34;&gt;site officiel&lt;/a&gt;. Vous y trouverez aussi un lien pour vous abonner à ma newsletter. En prime, vous aurez droit à des histoires gratuites (qui n&amp;rsquo;aime pas les cadeaux ?)&lt;/p&gt;&#xA;&lt;hr class=&#34;min&#34;&gt;&#xA;&lt;p&gt;Ce site est un miroir, plus simple, généré statiquement et que j’espère pérenne, de mon site officiel &lt;a href=&#34;https://www.cyrilvallee.com/&#34;&gt;cyrilvallee.com&lt;/a&gt;.&lt;br&gt;&#xA;Il contient aussi des articles plus personnels, en rapports avec d&amp;rsquo;autres centres d&amp;rsquo;intérêts que la littérature et l&amp;rsquo;écriture.&lt;br&gt;&#xA;Vous pouvez aussi y trouver &lt;a href=&#34;//localhost:1313/ai/&#34;&gt;mon point de vue sur l&amp;rsquo;intelligence artificielle&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;hello&#34;&gt;Hello,&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Arveed&lt;/strong&gt; est un blog de &lt;strong&gt;Cyril Vallée.&lt;/strong&gt; (Moi, donc.)&#xA;Je suis &lt;a href=&#34;https://www.cyrilvallee.com&#34;&gt;romancier&lt;/a&gt; et &lt;a href=&#34;https://www.h-fr.ch/nos-formations/centre-de-formation-des-soins&#34;&gt;technopédagogue&lt;/a&gt;.&lt;br&gt;&#xA;Je suis auteur de &lt;em&gt;littérature de genres&lt;/em&gt; : &lt;a href=&#34;https://www.cyrilvallee.com/totem-un-thriller/&#34;&gt;thrillers&lt;/a&gt;, &lt;a href=&#34;https://www.cyrilvallee.com/le-reflet-des-etoiles/&#34;&gt;science-fiction&lt;/a&gt; et &lt;a href=&#34;https://www.cyrilvallee.com/timeskippers/&#34;&gt;fantastique&lt;/a&gt;.&lt;br&gt;&#xA;Si vous voulez en savoir plus, visitez mon &lt;a href=&#34;https://www.cyrilvallee.com/&#34;&gt;site officiel&lt;/a&gt;. Vous y trouverez aussi un lien pour vous abonner à ma newsletter. En prime, vous aurez droit à des histoires gratuites (qui n&amp;rsquo;aime pas les cadeaux ?)&lt;/p&gt;&#xA;&lt;hr class=&#34;min&#34;&gt;&#xA;&lt;p&gt;Ce site est un miroir, plus simple, généré statiquement et que j’espère pérenne, de mon site officiel &lt;a href=&#34;https://www.cyrilvallee.com/&#34;&gt;cyrilvallee.com&lt;/a&gt;.&lt;br&gt;&#xA;Il contient aussi des articles plus personnels, en rapports avec d&amp;rsquo;autres centres d&amp;rsquo;intérêts que la littérature et l&amp;rsquo;écriture.&lt;br&gt;&#xA;Vous pouvez aussi y trouver &lt;a href=&#34;//localhost:1313/ai/&#34;&gt;mon point de vue sur l&amp;rsquo;intelligence artificielle&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
