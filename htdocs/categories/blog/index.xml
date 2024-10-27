@@ -6,8 +6,15 @@
     <description>Recent content in Blog on Arveed</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 21 May 2024 15:15:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 15:00:19 +0000</lastBuildDate>
     <atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Auteur prolifique ?</title>
+      <link>/articles/prolifique/</link>
+      <pubDate>Sun, 20 Oct 2024 15:00:19 +0000</pubDate>
+      <guid>/articles/prolifique/</guid>
+      <description>&lt;p&gt;Il y a des auteurs qu’on prend pour modèles. C’est comme cela qu’on commence à avoir envie d’écrire (en tout cas c’est mon cas, j’en parle dans l’un des épisodes de &lt;a href=&#34;https://www.duodeplumes.com&#34;&gt;Duo de plume&lt;/a&gt;).&#xA;Parfois, l’effet est inverse. Quand on voit la production de plusieurs de ces modèles, on peut se bloquer, se dire que jamais on n’atteindra ce niveau. Que ce soit du côté de la qualité littéraire, du &lt;em&gt;storytelling&lt;/em&gt;, ou de la quantité.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Fact-checker les images sur les réseaux sociaux - quelques outils.</title>
       <link>/articles/fact-checking/</link>

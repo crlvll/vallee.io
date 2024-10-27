@@ -58,12 +58,12 @@ body {
   margin: auto;
   padding: 1em;
   line-height: 1.4em;
-  font-size: 1.4em;
+  font-size: 1.3em;
   text-align: justify;
   font-weight: normal;
   color: var(--medium-text);
-  font-family: "Crimson Pro", serif;
-  letterspacing: 0;
+  font-family: 'Crimson Pro', Garamond, serif;
+  letter-spacing: -0.02em;
   text-rendering: optimizeLegibility;
   -webkit-font-variant-ligatures: common-ligatures;
       font-variant-ligatures: common-ligatures;

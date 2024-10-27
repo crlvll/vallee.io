@@ -1,6 +1,6 @@
 ---
 categories: "blog"
-date: 2024-04-01T15:00:19Z
+date: 2024-10-20T15:00:19Z
 description: " "
 draft: false
 image: " "
@@ -8,8 +8,6 @@ slug: "prolifique"
 tags: "blog"
 title: "Auteur prolifique ?"
 ---
-
-# Un auteur prolifique
 
 Il y a des auteurs qu’on prend pour modèles. C’est comme cela qu’on commence à avoir envie d’écrire (en tout cas c’est mon cas, j’en parle dans l’un des épisodes de [Duo de plume](https://www.duodeplumes.com)).
 Parfois, l’effet est inverse. Quand on voit la production de plusieurs de ces modèles, on peut se bloquer, se dire que jamais on n’atteindra ce niveau. Que ce soit du côté de la qualité littéraire, du _storytelling_, ou de la quantité.

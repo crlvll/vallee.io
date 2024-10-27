@@ -6,21 +6,21 @@
     <description>Recent content in Articles on Arveed</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 21 May 2024 15:15:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 15:00:19 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Auteur prolifique ?</title>
+      <link>//localhost:1313/articles/prolifique/</link>
+      <pubDate>Sun, 20 Oct 2024 15:00:19 +0000</pubDate>
+      <guid>//localhost:1313/articles/prolifique/</guid>
+      <description>&lt;p&gt;Il y a des auteurs qu’on prend pour modèles. C’est comme cela qu’on commence à avoir envie d’écrire (en tout cas c’est mon cas, j’en parle dans l’un des épisodes de &lt;a href=&#34;https://www.duodeplumes.com&#34;&gt;Duo de plume&lt;/a&gt;).&#xA;Parfois, l’effet est inverse. Quand on voit la production de plusieurs de ces modèles, on peut se bloquer, se dire que jamais on n’atteindra ce niveau. Que ce soit du côté de la qualité littéraire, du &lt;em&gt;storytelling&lt;/em&gt;, ou de la quantité.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Fact-checker les images sur les réseaux sociaux - quelques outils.</title>
       <link>//localhost:1313/articles/fact-checking/</link>
       <pubDate>Tue, 21 May 2024 15:15:20 +0000</pubDate>
       <guid>//localhost:1313/articles/fact-checking/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Note: cet article est très largement inspiré par le thread de &lt;a href=&#34;https://twitter.com/Shayan86&#34;&gt;Shayan Sardarizadeh&lt;/a&gt;, journaliste de la BBC: lien vers &lt;a href=&#34;https://twitter.com/Shayan86/status/1633950038526160896&#34;&gt;le post original&lt;/a&gt;et lien vers &lt;a href=&#34;https://web.archive.org/web/20230310083146/https://twitter.com/Shayan86/status/1633950038526160896&#34;&gt;l&amp;rsquo;archive internet&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Il me semble maintenant acquis pour (presque) tout le monde que les réseaux sociaux sont utilisés comme facteurs d&amp;rsquo;influence. C&amp;rsquo;est le jeu des marques qui placent leurs produits, mais aussi celui de lobbies et de gouvernements qui cherchent à influencer, qui le résultat d&amp;rsquo;un vote, qui l&amp;rsquo;opinion générale sur un sujet ou un autre. À ce titre, les réseaux sociaux peuvent être détournés et il n&amp;rsquo;est plus rare d&amp;rsquo;y trouver des faux, souvent par maladresse (un retoot/retweet est si facile, même sans vérifier l&amp;rsquo;information), mais aussi avec intention (dans ce cas, on parlera de désinformation ou malinformation).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Auteur prolifique ?</title>
-      <link>//localhost:1313/articles/prolifique/</link>
-      <pubDate>Mon, 01 Apr 2024 15:00:19 +0000</pubDate>
-      <guid>//localhost:1313/articles/prolifique/</guid>
-      <description>&lt;h1 id=&#34;un-auteur-prolifique&#34;&gt;Un auteur prolifique&lt;/h1&gt;&#xA;&lt;p&gt;Il y a des auteurs qu’on prend pour modèles. C’est comme cela qu’on commence à avoir envie d’écrire (en tout cas c’est mon cas, j’en parle dans l’un des épisodes de &lt;a href=&#34;https://www.duodeplumes.com&#34;&gt;Duo de plume&lt;/a&gt;).&#xA;Parfois, l’effet est inverse. Quand on voit la production de plusieurs de ces modèles, on peut se bloquer, se dire que jamais on n’atteindra ce niveau. Que ce soit du côté de la qualité littéraire, du &lt;em&gt;storytelling&lt;/em&gt;, ou de la quantité.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Une porte dérobée dans XZ: la grosse vulnérabilité d&#39;internet</title>
