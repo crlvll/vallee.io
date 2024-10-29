@@ -30,6 +30,38 @@
     font-display: block;
 }
 
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('../fonts/RobotoSlab-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('../fonts/RobotoSlab-Bold.ttf') format('ttf');
+    font-weight: bold;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('../fonts/RobotoSlab-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: italic;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('../fonts/RobotoSlab-ExtraBold.ttf') format('ttf');
+    font-weight: bolder;
+    font-style: normal;
+    font-display: block;
+}
+
 /*
 
 THIS IS THE TYPOGRAPHY
@@ -54,16 +86,16 @@ h6= publication credit
 }
 
 body {
+  background-color: rgb(244,237,223);
   max-width: 43.75rem;
   margin: auto;
   padding: 1em;
-  line-height: 1.4em;
-  font-size: 1.3em;
+  line-height: 1.6em;
+  font-size: 1.4em;
   text-align: justify;
   font-weight: normal;
   color: var(--medium-text);
-  font-family: 'Crimson Pro', Garamond, serif;
-  letter-spacing: -0.02em;
+  font-family: 'Roboto Slab', Garamond, Times New Roman, serif;
   text-rendering: optimizeLegibility;
   -webkit-font-variant-ligatures: common-ligatures;
       font-variant-ligatures: common-ligatures;
@@ -362,6 +394,7 @@ tr:nth-child(even) {
   body {
     background-color: rgb(40, 44, 53, 1);
     color: rgb(226, 226, 226, 1);
+    .brand h1 {color: rgb(226, 226, 226, 1);}
   }
 }
 
