@@ -7,6 +7,7 @@ image: " "
 slug: "prolifique"
 tags: "blog"
 title: "Auteur prolifique ?"
+genre: "écriture"
 ---
 
 Il y a des auteurs qu’on prend pour modèles. C’est comme cela qu’on commence à avoir envie d’écrire (en tout cas c’est mon cas, j’en parle dans l’un des épisodes de [Duo de plume](https://www.duodeplumes.com)).

@@ -1,13 +1,13 @@
-+++
-categories = ["blog"]
-date = {{ .Date }}
-description = ""
-draft = false
-image = ""
-slug = ""
-tags = [""]
-title = "{{ replace .Name "-" " " | title }}"
-+++
+---
+categories: ["blog"]
+date: {{ .Date }}
+description: ""
+draft: false
+image: ""
+slug: ""
+tags: [""]
+title: "{{ replace .Name "-" " " | title }}"
+---
 
 CONTENT
 

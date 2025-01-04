@@ -1,0 +1,33 @@
+{{ partial "header.html" . }}
+<div class="article-meta">
+	{{ with .Params.genre }}<div class="genre">{{ . }}</div>{{ end }}
+	
+<h1><span class="title">{{ .Title | markdownify }}</span></h1>
+<div class="post-meta">
+      {{- partial "post_meta.html" . -}}
+</div>
+
+{{ with .Params.author }}<h2 class="author">{{ . }}</h2>{{ end }}
+
+</div>
+
+<main>
+	<div class="post-content">
+		{{ .Content }}
+	</div>
+
+</main>
+<hr>
+{{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
+    <ul class="post-tags">
+      {{- range ($.GetTerms $tags) }}
+      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+      {{- end }}
+    </ul>
+{{ if (gt .Params.date 0) }}
+	<div class="date-single">{{ .Date.Format "2.01.2006" }}</div>
+{{ end }}
+<div style="font-size: small;font-family: 'Montserrat', helvetica, arial, sans-serif; margin-top: -1em;">
+	Permalink: <a href="{{ .RelPermalink }}">{{ site.Home.Permalink }}{{ .RelPermalink }}</a>
+</div>
+{{ partial "footer.html" . }}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Santé Mentale on Arveed</title>
+    <link>//localhost:1313/tags/sant%C3%A9-mentale/</link>
+    <description>Recent content in Santé Mentale on Arveed</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sun, 11 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/sant%C3%A9-mentale/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Se donner du temps</title>
+      <link>//localhost:1313/articles/essentiel/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/articles/essentiel/</guid>
+      <description>Le sentiment d&amp;rsquo;être submergé par l&amp;rsquo;ampleur de la tâche peut être jugulé en se recentrant sur l&amp;rsquo;essentiel.</description>
+    </item>
+  </channel>
+</rss>
