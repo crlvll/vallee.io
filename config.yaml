@@ -1,7 +1,7 @@
 baseurl: "/"
 languageCode: "fr-FR"
 title: "Arveed"
-theme: "arveed"
+theme: ["arveed", "reveal-hugo"]
 defaultContentLanguage: "fr"
 defaultContentLang: "fr"
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
@@ -48,7 +48,7 @@ params:
 
   ShowReadingTime: true
   ShowWordCount: true
-    
+
 taxonomies:
   category: categories
   tag: tags
@@ -59,3 +59,9 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+outputFormats:
+  Reveal:
+    baseName: index
+    mediaType: text/html
+    isHTML: true

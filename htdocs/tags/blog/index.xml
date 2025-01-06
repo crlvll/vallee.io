@@ -6,8 +6,15 @@
     <description>Recent content in Blog on Arveed</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 20 Oct 2024 15:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L&#39;IA, bulle spéculative ?</title>
+      <link>/articles/reflexions-ia/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/articles/reflexions-ia/</guid>
+      <description>&lt;p&gt;Depuis un bon moment, je suis le développement des Grands Modèles de Langage (LLM). Je reste convaincu qu’il s’agit surtout d’une bulle spéculative, et donc dangereuse (en tant que telle). Néanmoins, suivant l’adage (connaître ton ennemi), je regarde de près, je note, je teste. Dans cet article, je garde un résumé de mes idées.&lt;/p&gt;&#xA;&lt;p&gt;Le développement de l’IA nécessite un investissement massif financier et matériel. Il y a un coût d’utilisation auquel il faut rajouter celui associé à la phase d’entraînement. Pour le coût d’utilisation, on peut parler en FLOPS (&lt;em&gt;floating point operations per second&lt;/em&gt; — opérations en virgule flottante par seconde), une unité de mesure de la performance d’un ordinateur, et en $ pour le coût total de leur entraînement.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Auteur prolifique ?</title>
       <link>/articles/prolifique/</link>

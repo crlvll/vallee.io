@@ -808,7 +808,11 @@
   </url><url>
     <loc>//localhost:1313/about/</loc>
   </url><url>
+    <loc>//localhost:1313/p/anesth-gener/</loc>
+  </url><url>
     <loc>//localhost:1313/lectures/</loc>
+  </url><url>
+    <loc>//localhost:1313/p/</loc>
   </url><url>
     <loc>//localhost:1313/archives/</loc>
   </url>
