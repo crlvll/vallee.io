@@ -34,7 +34,7 @@ Quand ces carnets sont remplis, j’en commence un nouveau, et ainsi de suite. I
 L’astuce, c’est de relire de temps en temps ces pages à la recherche de ces notes. Pour m’alléger l’esprit, j’ai programmé une tâche récurrente dans mon calendrier tous les trois mois.
 C’est simple de les retrouver ces passages en feuilletant les carnets puisque je laisse un petit symbole ressemblant vaguement à une ampoule dans la marge. Et c’est aussi assez fun, car relire ce qui entoure ces idées dans le temps, c’est comme un témoignage de ce qui me préoccupait au moment de la captation, ce qui peut remettre du contexte et raviver des souvenirs.
 
-![](/articles/img/IMG_2066-1.jpeg)
+![](/articles/img/IMG_2066-1.avif)
 
 Le reste se passe dans la tête. Au bout d’un temps, certaines de ces idées peuvent entrer en collision, et il se produit ce qui pourrait arriver à l’intérieur d’un accélérateur de particules : lorsqu’un électron percute à haute vitesse un proton, une nouvelle particule est créée.
 Ces idées qui se rentrent dedans, se bousculent et s’entremêlent en forment de nouvelles, des chimères qui sont plus intéressantes encore.

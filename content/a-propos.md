@@ -34,7 +34,7 @@ Pour en savoir plus et découvrir le développement de la série, rendez-vous su
 Internet a été fait dans l'idée de connecter les gens. Si ce que vous trouvez sur _Arveed_ vous interpelle ou résonne avec vos idées, contactez-moi sur [Mastodon](https://tooting.ch/@arveed) ou [Instagram](https://www.instagram.com/_cyrilvallee_).
 
 Pour une conversation sécurisée et privée, utilisez la messagerie [Signal](https://signal.me/#eu/l9JYbM60CWBpMc6EDhXhuRB6Up-0EVePILyEipBYcEnBRwLD8zxGqqn9-aCd2kBC):
-{{< figure align=center src="/images/signal-username-qr-code.png" title="" width="300" >}}
+{{< figure align=center src="/images/signal-username-qr-code.avif" title="" width="300" >}}
 
 ## À propos de ce site web
 

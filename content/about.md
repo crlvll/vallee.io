@@ -26,7 +26,7 @@ To learn more and follow the writing development, visit www.cyrilvallee.com.
 The Internet was made to connect people. If what you find on this site speaks to you or resonates with your ideas, contact me, I love to chat. You can find me on [Mastodon](https://tooting.ch/@arveed) or [Instagram](https://www.instagram.com/_cyrilvallee_).
 
 For a serious, secure chat, use [Signal](https://signal.me/#eu/l9JYbM60CWBpMc6EDhXhuRB6Up-0EVePILyEipBYcEnBRwLD8zxGqqn9-aCd2kBC):
-{{< figure align=center src="/images/signal-username-qr-code.png" title="" width="300" >}}
+{{< figure align=center src="/images/signal-username-qr-code.avif" title="" width="300" >}}
 
 ### About this website
 I borrowed ideas from:
