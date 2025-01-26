@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Salons &amp; Festivals on Arveed</title>
-    <link>//localhost:1313/tags/salons--festivals/</link>
+    <link>/tags/salons--festivals/</link>
     <description>Recent content in Salons &amp; Festivals on Arveed</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
     <lastBuildDate>Mon, 27 Nov 2023 16:20:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/salons--festivals/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/salons--festivals/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Retour sur le festival Alterfictions</title>
-      <link>//localhost:1313/articles/retour-sur-le-festival-alterfictions/</link>
+      <link>/articles/retour-sur-le-festival-alterfictions/</link>
       <pubDate>Mon, 27 Nov 2023 16:20:00 +0000</pubDate>
-      <guid>//localhost:1313/articles/retour-sur-le-festival-alterfictions/</guid>
-      <description>&lt;p&gt;Le festival littéraire Alterfictions a eu lieu les 18 et 19 novembre 2023 dans sa première édition, dans le château d’Yverdon, en Suisse. J’ai eu la chance d’y participer et je dois bien dire que j’ai vraiment passé un superbe week-end.&lt;/p&gt;&#xA;&lt;h3 id=&#34;le-concept-novateur&#34;&gt;Le concept, novateur&lt;/h3&gt;&#xA;&lt;p&gt;Casser les codes, c’était le but de ce festival d’un autre genre (vanne intentionnelle). Il s’agissait pour une fois de disposer l’ensemble des livres proposés par les 77 auteurs sur des tables regroupant différents genres. Les écrivains, eux, étaient libres de déambuler parmi les visiteurs, de discuter entre eux, de dédicacer dans des espaces réservés à tous. Personnellement, j’attendais vraiment de voir ce que cela pouvait apporter. Avec ces deux jours de recul, l’idée m’a convaincu : le (futur) lecteur est plus libre de traîner au gré des couvertures, de retourner les livres pour lire les quatrièmes sans sentir aucune pression parce que l’auteur serait devant lui.&lt;/p&gt;</description>
+      <guid>/articles/retour-sur-le-festival-alterfictions/</guid>
+      <description>Le festival littéraire Alterfictions a eu lieu les 18 et 19 novembre 2023 dans sa première édition, dans le château d’Yverdon, en Suisse. J’ai eu la chance d’y participer et je dois bien dire que j’ai vraiment passé un superbe week-end.&#xA;Le concept, novateur Casser les codes, c’était le but de ce festival d’un autre genre (vanne intentionnelle). Il s’agissait pour une fois de disposer l’ensemble des livres proposés par les 77 auteurs sur des tables regroupant différents genres.</description>
     </item>
   </channel>
 </rss>

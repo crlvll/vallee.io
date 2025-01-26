@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Essai on Arveed</title>
-    <link>//localhost:1313/categories/essai/</link>
+    <link>/categories/essai/</link>
     <description>Recent content in Essai on Arveed</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
     <lastBuildDate>Wed, 28 Feb 2024 12:00:19 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/essai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/essai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L&#39;ébauche découverte: écrire son premier jet sans corriger.</title>
-      <link>//localhost:1313/articles/ebauche-decouverte/</link>
+      <link>/articles/ebauche-decouverte/</link>
       <pubDate>Wed, 28 Feb 2024 12:00:19 +0000</pubDate>
-      <guid>//localhost:1313/articles/ebauche-decouverte/</guid>
-      <description>&lt;p&gt;À l’occasion des enregistrements de notre podcast, nous discutons souvent cuisine interne avec ma complice Catherine Rolland. Comparer les façons de travailler et les habitudes d’écriture est toujours intéressant. Catherine, par exemple, produit des premiers jets de très bonne qualité, qui ne nécessitent que peu de corrections par la suite.&lt;/p&gt;&#xA;&lt;p&gt;Et j’en suis incapable.&lt;/p&gt;&#xA;&lt;p&gt;Pourtant, dans nos livres, nous proposons tous les deux à nos lecteurs l’éclat d’un texte peaufiné, travaillé et corrigé pour atteindre la meilleure qualité possible.&lt;/p&gt;</description>
+      <guid>/articles/ebauche-decouverte/</guid>
+      <description>À l’occasion des enregistrements de notre podcast, nous discutons souvent cuisine interne avec ma complice Catherine Rolland. Comparer les façons de travailler et les habitudes d’écriture est toujours intéressant. Catherine, par exemple, produit des premiers jets de très bonne qualité, qui ne nécessitent que peu de corrections par la suite.&#xA;Et j’en suis incapable.&#xA;Pourtant, dans nos livres, nous proposons tous les deux à nos lecteurs l’éclat d’un texte peaufiné, travaillé et corrigé pour atteindre la meilleure qualité possible.</description>
     </item>
     <item>
       <title>Robots</title>
-      <link>//localhost:1313/articles/les-robots-font-ils-peur/</link>
+      <link>/articles/les-robots-font-ils-peur/</link>
       <pubDate>Sat, 26 Feb 2022 21:10:00 +0000</pubDate>
-      <guid>//localhost:1313/articles/les-robots-font-ils-peur/</guid>
+      <guid>/articles/les-robots-font-ils-peur/</guid>
       <description>La démo de Boston Dynamics me pose question. Doit-on avoir peur des robots ?</description>
     </item>
   </channel>

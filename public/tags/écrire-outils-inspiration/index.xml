@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Écrire, Outils, Inspiration on Arveed</title>
-    <link>//localhost:1313/tags/%C3%A9crire-outils-inspiration/</link>
+    <link>/tags/%C3%A9crire-outils-inspiration/</link>
     <description>Recent content in Écrire, Outils, Inspiration on Arveed</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
     <lastBuildDate>Tue, 14 Feb 2017 10:48:06 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/%C3%A9crire-outils-inspiration/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%C3%A9crire-outils-inspiration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Les règles de Heinlein</title>
-      <link>//localhost:1313/articles/les-regles-de-heinlein/</link>
+      <link>/articles/les-regles-de-heinlein/</link>
       <pubDate>Tue, 14 Feb 2017 10:48:06 +0000</pubDate>
-      <guid>//localhost:1313/articles/les-regles-de-heinlein/</guid>
+      <guid>/articles/les-regles-de-heinlein/</guid>
       <description>Les règles de Heinlein sont presque impossibles à suivre. Vraiment ?</description>
     </item>
   </channel>

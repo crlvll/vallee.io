@@ -2,220 +2,220 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Arveed</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Arveed</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
     <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>//localhost:1313/tags/blog/</link>
-      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/blog/</guid>
+      <link>/tags/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy, Fact-Checking</title>
-      <link>//localhost:1313/tags/privacy-fact-checking/</link>
-      <pubDate>Tue, 21 May 2024 15:15:20 +0000</pubDate>
-      <guid>//localhost:1313/tags/privacy-fact-checking/</guid>
+      <link>/tags/privacy-fact-checking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/privacy-fact-checking/</guid>
       <description></description>
     </item>
     <item>
       <title>It</title>
-      <link>//localhost:1313/tags/it/</link>
-      <pubDate>Mon, 01 Apr 2024 15:00:19 +0000</pubDate>
-      <guid>//localhost:1313/tags/it/</guid>
+      <link>/tags/it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/it/</guid>
       <description></description>
     </item>
     <item>
       <title>Open Source</title>
-      <link>//localhost:1313/tags/open-source/</link>
-      <pubDate>Mon, 01 Apr 2024 15:00:19 +0000</pubDate>
-      <guid>//localhost:1313/tags/open-source/</guid>
+      <link>/tags/open-source/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/open-source/</guid>
       <description></description>
     </item>
     <item>
       <title>Security</title>
-      <link>//localhost:1313/tags/security/</link>
-      <pubDate>Mon, 01 Apr 2024 15:00:19 +0000</pubDate>
-      <guid>//localhost:1313/tags/security/</guid>
+      <link>/tags/security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/security/</guid>
       <description></description>
     </item>
     <item>
       <title>Écrire</title>
-      <link>//localhost:1313/tags/%C3%A9crire/</link>
-      <pubDate>Thu, 14 Mar 2024 17:50:19 +0000</pubDate>
-      <guid>//localhost:1313/tags/%C3%A9crire/</guid>
+      <link>/tags/%C3%A9crire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/%C3%A9crire/</guid>
       <description></description>
     </item>
     <item>
       <title>Productivité</title>
-      <link>//localhost:1313/tags/productivit%C3%A9/</link>
-      <pubDate>Sat, 17 Feb 2024 17:00:19 +0000</pubDate>
-      <guid>//localhost:1313/tags/productivit%C3%A9/</guid>
+      <link>/tags/productivit%C3%A9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/productivit%C3%A9/</guid>
       <description></description>
     </item>
     <item>
       <title>Science</title>
-      <link>//localhost:1313/tags/science/</link>
-      <pubDate>Sat, 17 Feb 2024 17:00:19 +0000</pubDate>
-      <guid>//localhost:1313/tags/science/</guid>
+      <link>/tags/science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/science/</guid>
       <description></description>
     </item>
     <item>
       <title>Duodeplumes</title>
-      <link>//localhost:1313/tags/duodeplumes/</link>
-      <pubDate>Wed, 14 Feb 2024 19:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/duodeplumes/</guid>
+      <link>/tags/duodeplumes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/duodeplumes/</guid>
       <description></description>
     </item>
     <item>
       <title>Livres</title>
-      <link>//localhost:1313/tags/livres/</link>
-      <pubDate>Wed, 07 Feb 2024 17:50:03 +0000</pubDate>
-      <guid>//localhost:1313/tags/livres/</guid>
+      <link>/tags/livres/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/livres/</guid>
       <description></description>
     </item>
     <item>
       <title>Non-Fiction</title>
-      <link>//localhost:1313/tags/non-fiction/</link>
-      <pubDate>Wed, 07 Feb 2024 17:50:03 +0000</pubDate>
-      <guid>//localhost:1313/tags/non-fiction/</guid>
+      <link>/tags/non-fiction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/non-fiction/</guid>
       <description></description>
     </item>
     <item>
       <title>Syndrome De L&#39;imposteur</title>
-      <link>//localhost:1313/tags/syndrome-de-limposteur/</link>
-      <pubDate>Wed, 31 Jan 2024 17:14:54 +0000</pubDate>
-      <guid>//localhost:1313/tags/syndrome-de-limposteur/</guid>
+      <link>/tags/syndrome-de-limposteur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/syndrome-de-limposteur/</guid>
       <description></description>
     </item>
     <item>
       <title>Dlm</title>
-      <link>//localhost:1313/tags/dlm/</link>
-      <pubDate>Sun, 28 Jan 2024 15:00:09 +0000</pubDate>
-      <guid>//localhost:1313/tags/dlm/</guid>
+      <link>/tags/dlm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/dlm/</guid>
       <description></description>
     </item>
     <item>
       <title>Newsletter</title>
-      <link>//localhost:1313/tags/newsletter/</link>
-      <pubDate>Sun, 28 Jan 2024 15:00:09 +0000</pubDate>
-      <guid>//localhost:1313/tags/newsletter/</guid>
+      <link>/tags/newsletter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/newsletter/</guid>
       <description></description>
     </item>
     <item>
       <title>Créativité</title>
-      <link>//localhost:1313/tags/cr%C3%A9ativit%C3%A9/</link>
-      <pubDate>Sat, 27 Jan 2024 18:00:40 +0000</pubDate>
-      <guid>//localhost:1313/tags/cr%C3%A9ativit%C3%A9/</guid>
+      <link>/tags/cr%C3%A9ativit%C3%A9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/cr%C3%A9ativit%C3%A9/</guid>
       <description></description>
     </item>
     <item>
       <title>Craft</title>
-      <link>//localhost:1313/tags/craft/</link>
-      <pubDate>Sun, 24 Dec 2023 16:36:29 +0000</pubDate>
-      <guid>//localhost:1313/tags/craft/</guid>
+      <link>/tags/craft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/craft/</guid>
       <description></description>
     </item>
     <item>
       <title>Structure</title>
-      <link>//localhost:1313/tags/structure/</link>
-      <pubDate>Sun, 24 Dec 2023 16:36:29 +0000</pubDate>
-      <guid>//localhost:1313/tags/structure/</guid>
+      <link>/tags/structure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/structure/</guid>
       <description></description>
     </item>
     <item>
       <title>Auteur</title>
-      <link>//localhost:1313/tags/auteur/</link>
-      <pubDate>Thu, 21 Dec 2023 14:40:50 +0000</pubDate>
-      <guid>//localhost:1313/tags/auteur/</guid>
+      <link>/tags/auteur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/auteur/</guid>
       <description></description>
     </item>
     <item>
       <title>Salons &amp; Festivals</title>
-      <link>//localhost:1313/tags/salons--festivals/</link>
-      <pubDate>Mon, 27 Nov 2023 16:20:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/salons--festivals/</guid>
+      <link>/tags/salons--festivals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/salons--festivals/</guid>
       <description></description>
     </item>
     <item>
       <title>Vie D&#39;auteur</title>
-      <link>//localhost:1313/tags/vie-dauteur/</link>
-      <pubDate>Mon, 27 Nov 2023 16:20:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/vie-dauteur/</guid>
+      <link>/tags/vie-dauteur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/vie-dauteur/</guid>
       <description></description>
     </item>
     <item>
       <title>Promo</title>
-      <link>//localhost:1313/tags/promo/</link>
-      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/promo/</guid>
+      <link>/tags/promo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/promo/</guid>
       <description></description>
     </item>
     <item>
       <title>Essai</title>
-      <link>//localhost:1313/tags/essai/</link>
-      <pubDate>Thu, 21 Sep 2023 15:44:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/essai/</guid>
+      <link>/tags/essai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/essai/</guid>
       <description></description>
     </item>
     <item>
       <title>Notes</title>
-      <link>//localhost:1313/tags/notes/</link>
-      <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/notes/</guid>
+      <link>/tags/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/notes/</guid>
       <description></description>
     </item>
     <item>
       <title>Outils</title>
-      <link>//localhost:1313/tags/outils/</link>
-      <pubDate>Fri, 20 Jan 2023 23:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/outils/</guid>
+      <link>/tags/outils/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/outils/</guid>
       <description></description>
     </item>
     <item>
       <title>Scrivener</title>
-      <link>//localhost:1313/tags/scrivener/</link>
-      <pubDate>Fri, 20 Jan 2023 23:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/scrivener/</guid>
+      <link>/tags/scrivener/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/scrivener/</guid>
       <description></description>
     </item>
     <item>
       <title>Réseaux Sociaux, Open-Source</title>
-      <link>//localhost:1313/tags/r%C3%A9seaux-sociaux-open-source/</link>
-      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/r%C3%A9seaux-sociaux-open-source/</guid>
+      <link>/tags/r%C3%A9seaux-sociaux-open-source/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/r%C3%A9seaux-sociaux-open-source/</guid>
       <description></description>
     </item>
     <item>
       <title>Santé Mentale</title>
-      <link>//localhost:1313/tags/sant%C3%A9-mentale/</link>
-      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/sant%C3%A9-mentale/</guid>
+      <link>/tags/sant%C3%A9-mentale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/sant%C3%A9-mentale/</guid>
       <description></description>
     </item>
     <item>
       <title>Inspiration</title>
-      <link>//localhost:1313/tags/inspiration/</link>
-      <pubDate>Tue, 15 Jun 2021 21:10:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/inspiration/</guid>
+      <link>/tags/inspiration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/inspiration/</guid>
       <description></description>
     </item>
     <item>
       <title>Série</title>
-      <link>//localhost:1313/tags/s%C3%A9rie/</link>
-      <pubDate>Tue, 15 Jun 2021 21:10:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/s%C3%A9rie/</guid>
+      <link>/tags/s%C3%A9rie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/s%C3%A9rie/</guid>
       <description></description>
     </item>
     <item>
       <title>Écrire, Outils, Inspiration</title>
-      <link>//localhost:1313/tags/%C3%A9crire-outils-inspiration/</link>
-      <pubDate>Tue, 14 Feb 2017 10:48:06 +0000</pubDate>
-      <guid>//localhost:1313/tags/%C3%A9crire-outils-inspiration/</guid>
+      <link>/tags/%C3%A9crire-outils-inspiration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/%C3%A9crire-outils-inspiration/</guid>
       <description></description>
     </item>
   </channel>

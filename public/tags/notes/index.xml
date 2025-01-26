@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on Arveed</title>
-    <link>//localhost:1313/tags/notes/</link>
+    <link>/tags/notes/</link>
     <description>Recent content in Notes on Arveed</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
     <lastBuildDate>Sun, 05 Feb 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes du 31 janvier au 5 février 2023</title>
-      <link>//localhost:1313/articles/notes-2023-01-30to2023-02-05/</link>
+      <link>/articles/notes-2023-01-30to2023-02-05/</link>
       <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/articles/notes-2023-01-30to2023-02-05/</guid>
-      <description>&lt;p&gt;Dans l&amp;rsquo;idée promue par Austin Kleon (et d&amp;rsquo;autres, comme Shawn Blanc ou CJ Chilvers) du &lt;em&gt;Show your Work&lt;/em&gt;, je pose ici quelques notes publiques, juste à des fins de documentation, sur ce que j&amp;rsquo;ai fait (hors &lt;em&gt;daily job&lt;/em&gt;), vu ou lu dans la semaine.&lt;/p&gt;&#xA;&lt;h2 id=&#34;lundi-2023-01-30&#34;&gt;Lundi 2023-01-30&lt;/h2&gt;&#xA;&lt;p&gt;Journée de formation assez intense (en simulation médicale). Les projets perso sont donc mis entre parenthèses pour la semaine, plus ou moins.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;803 mots sur Timeskippers: livre 2.&lt;/li&gt;&#xA;&lt;li&gt;Jailbreaké mon Kindle Voyage et dé-DRMisé mes ebooks.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;mardi-31-mercredi-2023-02-01&#34;&gt;Mardi 31, mercredi 2023-02-01&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;699 mots sur  Timeskippers: livre 2. Total 95842 mots.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;jeudi-2023-02-02&#34;&gt;Jeudi 2023-02-02&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;305 mots sur Timeskippers: livre 2. Total 96147 mots.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;samedi-2023-02-04&#34;&gt;Samedi 2023-02-04&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;suivi la conférence du FOSDEM23 : &amp;lsquo;Passwordless Linux: where are we?&amp;rsquo;&lt;/li&gt;&#xA;&lt;li&gt;FOSDEM23 : &amp;lsquo;Open Source at NASA&amp;rsquo;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;dimanche-2023-02-05&#34;&gt;Dimanche 2023-02-05&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Youtube scrolling.&lt;/em&gt;&lt;/p&gt;</description>
+      <guid>/articles/notes-2023-01-30to2023-02-05/</guid>
+      <description>Dans l&amp;rsquo;idée promue par Austin Kleon (et d&amp;rsquo;autres, comme Shawn Blanc ou CJ Chilvers) du Show your Work, je pose ici quelques notes publiques, juste à des fins de documentation, sur ce que j&amp;rsquo;ai fait (hors daily job), vu ou lu dans la semaine.&#xA;Lundi 2023-01-30 Journée de formation assez intense (en simulation médicale). Les projets perso sont donc mis entre parenthèses pour la semaine, plus ou moins.&#xA;803 mots sur Timeskippers: livre 2.</description>
     </item>
     <item>
       <title>Notes du 23 au 30 Janvier 2023</title>
-      <link>//localhost:1313/articles/notes-2023-01-23to30/</link>
+      <link>/articles/notes-2023-01-23to30/</link>
       <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/articles/notes-2023-01-23to30/</guid>
-      <description>&lt;p&gt;Dans l&amp;rsquo;idée promue par Austin Kleon (et d&amp;rsquo;autres, comme Shawn Blanc ou CJ Chilvers) du &lt;em&gt;Show your Work&lt;/em&gt;, je pose ici quelques notes publiques, juste à des fins de documentation, sur ce que j&amp;rsquo;ai fait (hors &lt;em&gt;daily job&lt;/em&gt;), vu ou lu dans la semaine.&lt;/p&gt;&#xA;&lt;h2 id=&#34;lundi-2023-01-23&#34;&gt;Lundi 2023-01-23&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;vu la conférence de &lt;a href=&#34;https://ploum.net&#34;&gt;Ploum&lt;/a&gt; au Capitole du Libre : &lt;a href=&#34;https://invidious.fdn.fr/watch?v=YiwEcCK_lQU&#34;&gt;https://invidious.fdn.fr/watch?v=YiwEcCK_lQU&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;mercredi-2023-01-25&#34;&gt;Mercredi 2023-01-25&lt;/h2&gt;&#xA;&lt;p&gt;Je découvre le podcast de Tristan Nitot, l&amp;rsquo;Octet Vert, avec plein de chouettes interviews dedans.&lt;/p&gt;</description>
+      <guid>/articles/notes-2023-01-23to30/</guid>
+      <description>Dans l&amp;rsquo;idée promue par Austin Kleon (et d&amp;rsquo;autres, comme Shawn Blanc ou CJ Chilvers) du Show your Work, je pose ici quelques notes publiques, juste à des fins de documentation, sur ce que j&amp;rsquo;ai fait (hors daily job), vu ou lu dans la semaine.&#xA;Lundi 2023-01-23 vu la conférence de Ploum au Capitole du Libre : https://invidious.fdn.fr/watch?v=YiwEcCK_lQU Mercredi 2023-01-25 Je découvre le podcast de Tristan Nitot, l&amp;rsquo;Octet Vert, avec plein de chouettes interviews dedans.</description>
     </item>
     <item>
       <title>Notes du 16 au 22 Janvier 2023</title>
-      <link>//localhost:1313/articles/notes-2023-01-16to22/</link>
+      <link>/articles/notes-2023-01-16to22/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/articles/notes-2023-01-16to22/</guid>
-      <description>&lt;p&gt;Dans l&amp;rsquo;idée promue par Austin Kleon (et d&amp;rsquo;autres, comme Shawn Blanc ou CJ Chilvers) du &lt;em&gt;Show your Work&lt;/em&gt;, je pose ici quelques notes publiques, juste à des fins de documentation.&lt;/p&gt;&#xA;&lt;h2 id=&#34;lundi-2023-01-16&#34;&gt;Lundi 2023-01-16&lt;/h2&gt;&#xA;&lt;p&gt;La semaine s&amp;rsquo;annonce sur les chapeaux de roue du point de vue pro.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fini l&amp;rsquo;installation de Manjaro sur le vieux MacBook Pro&lt;/li&gt;&#xA;&lt;li&gt;Commencé &lt;em&gt;Les oiseaux du temps&lt;/em&gt; de Amal El-Mohtar&lt;/li&gt;&#xA;&lt;li&gt;Retouche du plan pour la fin de &lt;em&gt;Timeskippers : livre II&lt;/em&gt;. Le manuscrit prends de plus en plus d&amp;rsquo;embonpoint.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;mardi-2023-01-17&#34;&gt;Mardi 2023-01-17&lt;/h2&gt;&#xA;&lt;p&gt;La soirée consacrée à revoir un cours que je donne le mercredi.&lt;/p&gt;</description>
+      <guid>/articles/notes-2023-01-16to22/</guid>
+      <description>Dans l&amp;rsquo;idée promue par Austin Kleon (et d&amp;rsquo;autres, comme Shawn Blanc ou CJ Chilvers) du Show your Work, je pose ici quelques notes publiques, juste à des fins de documentation.&#xA;Lundi 2023-01-16 La semaine s&amp;rsquo;annonce sur les chapeaux de roue du point de vue pro.&#xA;Fini l&amp;rsquo;installation de Manjaro sur le vieux MacBook Pro Commencé Les oiseaux du temps de Amal El-Mohtar Retouche du plan pour la fin de Timeskippers : livre II.</description>
     </item>
     <item>
       <title>La création des habitudes.</title>
-      <link>//localhost:1313/articles/la-creation-des-habitudes/</link>
+      <link>/articles/la-creation-des-habitudes/</link>
       <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/articles/la-creation-des-habitudes/</guid>
-      <description>&lt;p&gt;Pour être plus précis, la création de bonnes habitudes, auxquelles j’essaie de me conformer pour plus y penser, est à la fois essentielle et difficile à acquérir. Une bonne habitude peut amener à un objectif bien plus rapidement et facilement que de se forcer à faire quelque chose par à coups.&lt;/p&gt;&#xA;&lt;p&gt;Se créer de bonnes habitudes est très important.&lt;/p&gt;&#xA;&lt;p&gt;Comme celle d’écrire tous les jours (ou, plus pragmatique, l’idée de toucher son manuscrit / histoire tous les jours), en encore rester constant dans la pratique de la méditation. Pourtant, sans que je ne trouve de (bonne) raison, elles sont difficiles à établir et à faire durer. Parfois, on est à la limite de la résolution de nouvelle année. Ainsi, j’ai lâché ma pratique quotidienne avec &lt;a href=&#34;https://www.headspace.com/fr&#34;&gt;Headspace&lt;/a&gt; il y a quelques semaines, mais j’ai ressenti le besoin de m’y remettre très récemment.&lt;/p&gt;</description>
+      <guid>/articles/la-creation-des-habitudes/</guid>
+      <description>Pour être plus précis, la création de bonnes habitudes, auxquelles j’essaie de me conformer pour plus y penser, est à la fois essentielle et difficile à acquérir. Une bonne habitude peut amener à un objectif bien plus rapidement et facilement que de se forcer à faire quelque chose par à coups.&#xA;Se créer de bonnes habitudes est très important.&#xA;Comme celle d’écrire tous les jours (ou, plus pragmatique, l’idée de toucher son manuscrit / histoire tous les jours), en encore rester constant dans la pratique de la méditation.</description>
     </item>
   </channel>
 </rss>
