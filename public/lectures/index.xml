@@ -2,1745 +2,1745 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lectures on Arveed</title>
-    <link>/lectures/</link>
+    <link>//localhost:1313/lectures/</link>
     <description>Recent content in Lectures on Arveed</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
-    <atom:link href="/lectures/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/lectures/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>/lectures/2013-04-09-homeland/</link>
+      <link>//localhost:1313/lectures/2013-04-09-homeland/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2013-04-09-homeland/</guid>
+      <guid>//localhost:1313/lectures/2013-04-09-homeland/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2013-04-10-onm-ademande%CC%81devouscalmer/</link>
+      <link>//localhost:1313/lectures/2013-04-10-onm-ademande%CC%81devouscalmer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2013-04-10-onm-ademande%CC%81devouscalmer/</guid>
+      <guid>//localhost:1313/lectures/2013-04-10-onm-ademande%CC%81devouscalmer/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2013-04-30-writing-auser-smanual-apracticalguidetoplanning-startingandfinishinganovel/</link>
+      <link>//localhost:1313/lectures/2013-04-30-writing-auser-smanual-apracticalguidetoplanning-startingandfinishinganovel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2013-04-30-writing-auser-smanual-apracticalguidetoplanning-startingandfinishinganovel/</guid>
+      <guid>//localhost:1313/lectures/2013-04-30-writing-auser-smanual-apracticalguidetoplanning-startingandfinishinganovel/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2013-06-19-troisie%CC%80mehumanite%CC%81/</link>
+      <link>//localhost:1313/lectures/2013-06-19-troisie%CC%80mehumanite%CC%81/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2013-06-19-troisie%CC%80mehumanite%CC%81/</guid>
+      <guid>//localhost:1313/lectures/2013-06-19-troisie%CC%80mehumanite%CC%81/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2013-07-02-writinganovelwithscrivener/</link>
+      <link>//localhost:1313/lectures/2013-07-02-writinganovelwithscrivener/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2013-07-02-writinganovelwithscrivener/</guid>
+      <guid>//localhost:1313/lectures/2013-07-02-writinganovelwithscrivener/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2013-08-31-steallikeanartist-10thingsnobodytoldyouaboutbeingcreative/</link>
+      <link>//localhost:1313/lectures/2013-08-31-steallikeanartist-10thingsnobodytoldyouaboutbeingcreative/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2013-08-31-steallikeanartist-10thingsnobodytoldyouaboutbeingcreative/</guid>
+      <guid>//localhost:1313/lectures/2013-08-31-steallikeanartist-10thingsnobodytoldyouaboutbeingcreative/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2013-11-13-laconjurationprimitive/</link>
+      <link>//localhost:1313/lectures/2013-11-13-laconjurationprimitive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2013-11-13-laconjurationprimitive/</guid>
+      <guid>//localhost:1313/lectures/2013-11-13-laconjurationprimitive/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2014-01-26-write-publish-repeat/</link>
+      <link>//localhost:1313/lectures/2014-01-26-write-publish-repeat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2014-01-26-write-publish-repeat/</guid>
+      <guid>//localhost:1313/lectures/2014-01-26-write-publish-repeat/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2014-01-30-let-sgetdigital-howtoself-publish-andwhyyoushould/</link>
+      <link>//localhost:1313/lectures/2014-01-30-let-sgetdigital-howtoself-publish-andwhyyoushould/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2014-01-30-let-sgetdigital-howtoself-publish-andwhyyoushould/</guid>
+      <guid>//localhost:1313/lectures/2014-01-30-let-sgetdigital-howtoself-publish-andwhyyoushould/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2014-02-05-lesacrificedesdieux/</link>
+      <link>//localhost:1313/lectures/2014-02-05-lesacrificedesdieux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2014-02-05-lesacrificedesdieux/</guid>
+      <guid>//localhost:1313/lectures/2014-02-05-lesacrificedesdieux/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2014-02-12-let-sgetvisible-howtogetnoticedandsellmorebooks/</link>
+      <link>//localhost:1313/lectures/2014-02-12-let-sgetvisible-howtogetnoticedandsellmorebooks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2014-02-12-let-sgetvisible-howtogetnoticedandsellmorebooks/</guid>
+      <guid>//localhost:1313/lectures/2014-02-12-let-sgetvisible-howtogetnoticedandsellmorebooks/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2014-02-24-wool/</link>
+      <link>//localhost:1313/lectures/2014-02-24-wool/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2014-02-24-wool/</guid>
+      <guid>//localhost:1313/lectures/2014-02-24-wool/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2014-03-15-hyperion/</link>
+      <link>//localhost:1313/lectures/2014-03-15-hyperion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2014-03-15-hyperion/</guid>
+      <guid>//localhost:1313/lectures/2014-03-15-hyperion/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2014-03-18-insidesherlock/</link>
+      <link>//localhost:1313/lectures/2014-03-18-insidesherlock/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2014-03-18-insidesherlock/</guid>
+      <guid>//localhost:1313/lectures/2014-03-18-insidesherlock/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2014-03-23-grimpezversletop100-publiezsuramazonouailleurs-pourbiende%CC%81buterdansl-auto-e%CC%81ditionnume%CC%81rique/</link>
+      <link>//localhost:1313/lectures/2014-03-23-grimpezversletop100-publiezsuramazonouailleurs-pourbiende%CC%81buterdansl-auto-e%CC%81ditionnume%CC%81rique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2014-03-23-grimpezversletop100-publiezsuramazonouailleurs-pourbiende%CC%81buterdansl-auto-e%CC%81ditionnume%CC%81rique/</guid>
+      <guid>//localhost:1313/lectures/2014-03-23-grimpezversletop100-publiezsuramazonouailleurs-pourbiende%CC%81buterdansl-auto-e%CC%81ditionnume%CC%81rique/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2014-03-27-showyourwork-10waystoshareyourcreativityandgetdiscovered/</link>
+      <link>//localhost:1313/lectures/2014-03-27-showyourwork-10waystoshareyourcreativityandgetdiscovered/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2014-03-27-showyourwork-10waystoshareyourcreativityandgetdiscovered/</guid>
+      <guid>//localhost:1313/lectures/2014-03-27-showyourwork-10waystoshareyourcreativityandgetdiscovered/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2014-04-21-writinganovelwithscrivener/</link>
+      <link>//localhost:1313/lectures/2014-04-21-writinganovelwithscrivener/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2014-04-21-writinganovelwithscrivener/</guid>
+      <guid>//localhost:1313/lectures/2014-04-21-writinganovelwithscrivener/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2014-08-08-screenwriting101/</link>
+      <link>//localhost:1313/lectures/2014-08-08-screenwriting101/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2014-08-08-screenwriting101/</guid>
+      <guid>//localhost:1313/lectures/2014-08-08-screenwriting101/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2014-08-30-noplacetohide-edwardsnowden-thensa-andtheu.s.surveillancestate/</link>
+      <link>//localhost:1313/lectures/2014-08-30-noplacetohide-edwardsnowden-thensa-andtheu.s.surveillancestate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2014-08-30-noplacetohide-edwardsnowden-thensa-andtheu.s.surveillancestate/</guid>
+      <guid>//localhost:1313/lectures/2014-08-30-noplacetohide-edwardsnowden-thensa-andtheu.s.surveillancestate/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2014-11-17-writinganovelwithulysses/</link>
+      <link>//localhost:1313/lectures/2014-11-17-writinganovelwithulysses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2014-11-17-writinganovelwithulysses/</guid>
+      <guid>//localhost:1313/lectures/2014-11-17-writinganovelwithulysses/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2014-11-29-l-oce%CC%81anauboutduchemin/</link>
+      <link>//localhost:1313/lectures/2014-11-29-l-oce%CC%81anauboutduchemin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2014-11-29-l-oce%CC%81anauboutduchemin/</guid>
+      <guid>//localhost:1313/lectures/2014-11-29-l-oce%CC%81anauboutduchemin/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2014-12-08-leguideduroutardgalactique/</link>
+      <link>//localhost:1313/lectures/2014-12-08-leguideduroutardgalactique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2014-12-08-leguideduroutardgalactique/</guid>
+      <guid>//localhost:1313/lectures/2014-12-08-leguideduroutardgalactique/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2015-01-26-informationdoesn-twanttobefree-lawsfortheinternetage/</link>
+      <link>//localhost:1313/lectures/2015-01-26-informationdoesn-twanttobefree-lawsfortheinternetage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2015-01-26-informationdoesn-twanttobefree-lawsfortheinternetage/</guid>
+      <guid>//localhost:1313/lectures/2015-01-26-informationdoesn-twanttobefree-lawsfortheinternetage/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2015-01-30-leftofbang-howthemarinecorps-combathunterprogramcansaveyourlife/</link>
+      <link>//localhost:1313/lectures/2015-01-30-leftofbang-howthemarinecorps-combathunterprogramcansaveyourlife/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2015-01-30-leftofbang-howthemarinecorps-combathunterprogramcansaveyourlife/</guid>
+      <guid>//localhost:1313/lectures/2015-01-30-leftofbang-howthemarinecorps-combathunterprogramcansaveyourlife/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2015-05-18-puzzle/</link>
+      <link>//localhost:1313/lectures/2015-05-18-puzzle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2015-05-18-puzzle/</guid>
+      <guid>//localhost:1313/lectures/2015-05-18-puzzle/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2015-08-02-tempsglaciaires/</link>
+      <link>//localhost:1313/lectures/2015-08-02-tempsglaciaires/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2015-08-02-tempsglaciaires/</guid>
+      <guid>//localhost:1313/lectures/2015-08-02-tempsglaciaires/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2015-08-07-fide%CC%80leauposte/</link>
+      <link>//localhost:1313/lectures/2015-08-07-fide%CC%80leauposte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2015-08-07-fide%CC%80leauposte/</guid>
+      <guid>//localhost:1313/lectures/2015-08-07-fide%CC%80leauposte/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2015-08-12-levieilhommeetlaguerre-johnperry-t1/</link>
+      <link>//localhost:1313/lectures/2015-08-12-levieilhommeetlaguerre-johnperry-t1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2015-08-12-levieilhommeetlaguerre-johnperry-t1/</guid>
+      <guid>//localhost:1313/lectures/2015-08-12-levieilhommeetlaguerre-johnperry-t1/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2015-08-19-lesbrigadesfanto%CC%82mes-johnperry-t2/</link>
+      <link>//localhost:1313/lectures/2015-08-19-lesbrigadesfanto%CC%82mes-johnperry-t2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2015-08-19-lesbrigadesfanto%CC%82mes-johnperry-t2/</guid>
+      <guid>//localhost:1313/lectures/2015-08-19-lesbrigadesfanto%CC%82mes-johnperry-t2/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2015-08-20-beacon23-partone-littlenoises/</link>
+      <link>//localhost:1313/lectures/2015-08-20-beacon23-partone-littlenoises/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2015-08-20-beacon23-partone-littlenoises/</guid>
+      <guid>//localhost:1313/lectures/2015-08-20-beacon23-partone-littlenoises/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2015-08-30-zenandtheartofmotorcyclemaintenance/</link>
+      <link>//localhost:1313/lectures/2015-08-30-zenandtheartofmotorcyclemaintenance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2015-08-30-zenandtheartofmotorcyclemaintenance/</guid>
+      <guid>//localhost:1313/lectures/2015-08-30-zenandtheartofmotorcyclemaintenance/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2015-09-12-projetanastasis/</link>
+      <link>//localhost:1313/lectures/2015-09-12-projetanastasis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2015-09-12-projetanastasis/</guid>
+      <guid>//localhost:1313/lectures/2015-09-12-projetanastasis/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2015-10-30-seulsurmars/</link>
+      <link>//localhost:1313/lectures/2015-10-30-seulsurmars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2015-10-30-seulsurmars/</guid>
+      <guid>//localhost:1313/lectures/2015-10-30-seulsurmars/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2015-12-30-ladernie%CC%80recolonie-johnperry-t3/</link>
+      <link>//localhost:1313/lectures/2015-12-30-ladernie%CC%80recolonie-johnperry-t3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2015-12-30-ladernie%CC%80recolonie-johnperry-t3/</guid>
+      <guid>//localhost:1313/lectures/2015-12-30-ladernie%CC%80recolonie-johnperry-t3/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2016-01-30-thestorygrid-whatgoodeditorsknow/</link>
+      <link>//localhost:1313/lectures/2016-01-30-thestorygrid-whatgoodeditorsknow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2016-01-30-thestorygrid-whatgoodeditorsknow/</guid>
+      <guid>//localhost:1313/lectures/2016-01-30-thestorygrid-whatgoodeditorsknow/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2016-03-15-iterateandoptimize-optimizeyourcreativebusinessforprofit-thesmarterartistbook3/</link>
+      <link>//localhost:1313/lectures/2016-03-15-iterateandoptimize-optimizeyourcreativebusinessforprofit-thesmarterartistbook3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2016-03-15-iterateandoptimize-optimizeyourcreativebusinessforprofit-thesmarterartistbook3/</guid>
+      <guid>//localhost:1313/lectures/2016-03-15-iterateandoptimize-optimizeyourcreativebusinessforprofit-thesmarterartistbook3/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2016-03-25-eatfatgetthin-whythefatweeatisthekeytosustainedweightlossandvibranthealth/</link>
+      <link>//localhost:1313/lectures/2016-03-25-eatfatgetthin-whythefatweeatisthekeytosustainedweightlossandvibranthealth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2016-03-25-eatfatgetthin-whythefatweeatisthekeytosustainedweightlossandvibranthealth/</guid>
+      <guid>//localhost:1313/lectures/2016-03-25-eatfatgetthin-whythefatweeatisthekeytosustainedweightlossandvibranthealth/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2016-04-20-laguerredecaliban-theexpanse2/</link>
+      <link>//localhost:1313/lectures/2016-04-20-laguerredecaliban-theexpanse2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2016-04-20-laguerredecaliban-theexpanse2/</guid>
+      <guid>//localhost:1313/lectures/2016-04-20-laguerredecaliban-theexpanse2/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2016-07-29-intellectuals-frommarxandtolstoytosartreandchomsky/</link>
+      <link>//localhost:1313/lectures/2016-07-29-intellectuals-frommarxandtolstoytosartreandchomsky/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2016-07-29-intellectuals-frommarxandtolstoytosartreandchomsky/</guid>
+      <guid>//localhost:1313/lectures/2016-07-29-intellectuals-frommarxandtolstoytosartreandchomsky/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2016-10-15-humanite%CC%81divise%CC%81e-johnperry-t5/</link>
+      <link>//localhost:1313/lectures/2016-10-15-humanite%CC%81divise%CC%81e-johnperry-t5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2016-10-15-humanite%CC%81divise%CC%81e-johnperry-t5/</guid>
+      <guid>//localhost:1313/lectures/2016-10-15-humanite%CC%81divise%CC%81e-johnperry-t5/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2016-11-15-libe%CC%81rezvotrecerveau/</link>
+      <link>//localhost:1313/lectures/2016-11-15-libe%CC%81rezvotrecerveau/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2016-11-15-libe%CC%81rezvotrecerveau/</guid>
+      <guid>//localhost:1313/lectures/2016-11-15-libe%CC%81rezvotrecerveau/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2017-02-05-laported-abaddon-theexpanse3/</link>
+      <link>//localhost:1313/lectures/2017-02-05-laported-abaddon-theexpanse3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2017-02-05-laported-abaddon-theexpanse3/</guid>
+      <guid>//localhost:1313/lectures/2017-02-05-laported-abaddon-theexpanse3/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2017-02-22-thesixfigureauthor/</link>
+      <link>//localhost:1313/lectures/2017-02-22-thesixfigureauthor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2017-02-22-thesixfigureauthor/</guid>
+      <guid>//localhost:1313/lectures/2017-02-22-thesixfigureauthor/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2017-02-27-eat-stop-eat.r/</link>
+      <link>//localhost:1313/lectures/2017-02-27-eat-stop-eat.r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2017-02-27-eat-stop-eat.r/</guid>
+      <guid>//localhost:1313/lectures/2017-02-27-eat-stop-eat.r/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2017-03-18-louisdefune%CC%80s/</link>
+      <link>//localhost:1313/lectures/2017-03-18-louisdefune%CC%80s/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2017-03-18-louisdefune%CC%80s/</guid>
+      <guid>//localhost:1313/lectures/2017-03-18-louisdefune%CC%80s/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2017-04-05-l-artnobledelapersuasion/</link>
+      <link>//localhost:1313/lectures/2017-04-05-l-artnobledelapersuasion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2017-04-05-l-artnobledelapersuasion/</guid>
+      <guid>//localhost:1313/lectures/2017-04-05-l-artnobledelapersuasion/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2017-04-18-deuxheuresdelucitite%CC%81-entretiensavecdenisrobertetweronikazarachowicz/</link>
+      <link>//localhost:1313/lectures/2017-04-18-deuxheuresdelucitite%CC%81-entretiensavecdenisrobertetweronikazarachowicz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2017-04-18-deuxheuresdelucitite%CC%81-entretiensavecdenisrobertetweronikazarachowicz/</guid>
+      <guid>//localhost:1313/lectures/2017-04-18-deuxheuresdelucitite%CC%81-entretiensavecdenisrobertetweronikazarachowicz/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2017-04-23-leproble%CC%80mea%CC%80troiscorps/</link>
+      <link>//localhost:1313/lectures/2017-04-23-leproble%CC%80mea%CC%80troiscorps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2017-04-23-leproble%CC%80mea%CC%80troiscorps/</guid>
+      <guid>//localhost:1313/lectures/2017-04-23-leproble%CC%80mea%CC%80troiscorps/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2017-05-20-c-estvraimentmoiquide%CC%81cide/</link>
+      <link>//localhost:1313/lectures/2017-05-20-c-estvraimentmoiquide%CC%81cide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2017-05-20-c-estvraimentmoiquide%CC%81cide/</guid>
+      <guid>//localhost:1313/lectures/2017-05-20-c-estvraimentmoiquide%CC%81cide/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2017-05-30-jackreachernevergoback/</link>
+      <link>//localhost:1313/lectures/2017-05-30-jackreachernevergoback/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2017-05-30-jackreachernevergoback/</guid>
+      <guid>//localhost:1313/lectures/2017-05-30-jackreachernevergoback/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2017-07-09-quandsortlarecluse/</link>
+      <link>//localhost:1313/lectures/2017-07-09-quandsortlarecluse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2017-07-09-quandsortlarecluse/</guid>
+      <guid>//localhost:1313/lectures/2017-07-09-quandsortlarecluse/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2017-08-03-essentialism/</link>
+      <link>//localhost:1313/lectures/2017-08-03-essentialism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2017-08-03-essentialism/</guid>
+      <guid>//localhost:1313/lectures/2017-08-03-essentialism/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2017-08-03-nousre%CC%82vionsjustedeliberte%CC%81/</link>
+      <link>//localhost:1313/lectures/2017-08-03-nousre%CC%82vionsjustedeliberte%CC%81/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2017-08-03-nousre%CC%82vionsjustedeliberte%CC%81/</guid>
+      <guid>//localhost:1313/lectures/2017-08-03-nousre%CC%82vionsjustedeliberte%CC%81/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2017-08-30-thewarofart/</link>
+      <link>//localhost:1313/lectures/2017-08-30-thewarofart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2017-08-30-thewarofart/</guid>
+      <guid>//localhost:1313/lectures/2017-08-30-thewarofart/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2017-09-15-theplantpowerway-wholefoodplant-basedrecipesandguidanceforthewholefamily/</link>
+      <link>//localhost:1313/lectures/2017-09-15-theplantpowerway-wholefoodplant-basedrecipesandguidanceforthewholefamily/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2017-09-15-theplantpowerway-wholefoodplant-basedrecipesandguidanceforthewholefamily/</guid>
+      <guid>//localhost:1313/lectures/2017-09-15-theplantpowerway-wholefoodplant-basedrecipesandguidanceforthewholefamily/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2017-09-17-aventuresaucoeurdelame%CC%81moire/</link>
+      <link>//localhost:1313/lectures/2017-09-17-aventuresaucoeurdelame%CC%81moire/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2017-09-17-aventuresaucoeurdelame%CC%81moire/</guid>
+      <guid>//localhost:1313/lectures/2017-09-17-aventuresaucoeurdelame%CC%81moire/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2017-09-23-turningpro/</link>
+      <link>//localhost:1313/lectures/2017-09-23-turningpro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2017-09-23-turningpro/</guid>
+      <guid>//localhost:1313/lectures/2017-09-23-turningpro/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2017-10-09-toolsoftitans/</link>
+      <link>//localhost:1313/lectures/2017-10-09-toolsoftitans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2017-10-09-toolsoftitans/</guid>
+      <guid>//localhost:1313/lectures/2017-10-09-toolsoftitans/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2017-10-12-tauze%CC%81ro/</link>
+      <link>//localhost:1313/lectures/2017-10-12-tauze%CC%81ro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2017-10-12-tauze%CC%81ro/</guid>
+      <guid>//localhost:1313/lectures/2017-10-12-tauze%CC%81ro/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2017-10-15-anihilation/</link>
+      <link>//localhost:1313/lectures/2017-10-15-anihilation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2017-10-15-anihilation/</guid>
+      <guid>//localhost:1313/lectures/2017-10-15-anihilation/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2017-10-17-l-e%CC%81thiquehacker/</link>
+      <link>//localhost:1313/lectures/2017-10-17-l-e%CC%81thiquehacker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2017-10-17-l-e%CC%81thiquehacker/</guid>
+      <guid>//localhost:1313/lectures/2017-10-17-l-e%CC%81thiquehacker/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2017-12-18-l-appeldune%CC%81ant/</link>
+      <link>//localhost:1313/lectures/2017-12-18-l-appeldune%CC%81ant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2017-12-18-l-appeldune%CC%81ant/</guid>
+      <guid>//localhost:1313/lectures/2017-12-18-l-appeldune%CC%81ant/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2018-01-05-readyplayerone/</link>
+      <link>//localhost:1313/lectures/2018-01-05-readyplayerone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2018-01-05-readyplayerone/</guid>
+      <guid>//localhost:1313/lectures/2018-01-05-readyplayerone/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2018-02-24-nose%CC%81toilescontraires/</link>
+      <link>//localhost:1313/lectures/2018-02-24-nose%CC%81toilescontraires/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2018-02-24-nose%CC%81toilescontraires/</guid>
+      <guid>//localhost:1313/lectures/2018-02-24-nose%CC%81toilescontraires/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2018-03-10-arte%CC%81mis/</link>
+      <link>//localhost:1313/lectures/2018-03-10-arte%CC%81mis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2018-03-10-arte%CC%81mis/</guid>
+      <guid>//localhost:1313/lectures/2018-03-10-arte%CC%81mis/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2018-04-13-lesfeuxdecibola/</link>
+      <link>//localhost:1313/lectures/2018-04-13-lesfeuxdecibola/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2018-04-13-lesfeuxdecibola/</guid>
+      <guid>//localhost:1313/lectures/2018-04-13-lesfeuxdecibola/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2018-05-25-howtowinfriendsandinfluencepeople/</link>
+      <link>//localhost:1313/lectures/2018-05-25-howtowinfriendsandinfluencepeople/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2018-05-25-howtowinfriendsandinfluencepeople/</guid>
+      <guid>//localhost:1313/lectures/2018-05-25-howtowinfriendsandinfluencepeople/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2018-06-20-lecassingulierdebenjamint./</link>
+      <link>//localhost:1313/lectures/2018-06-20-lecassingulierdebenjamint./</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2018-06-20-lecassingulierdebenjamint./</guid>
+      <guid>//localhost:1313/lectures/2018-06-20-lecassingulierdebenjamint./</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2018-06-23-lettresa%CC%80unjeuneauteur/</link>
+      <link>//localhost:1313/lectures/2018-06-23-lettresa%CC%80unjeuneauteur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2018-06-23-lettresa%CC%80unjeuneauteur/</guid>
+      <guid>//localhost:1313/lectures/2018-06-23-lettresa%CC%80unjeuneauteur/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2018-07-07-ender-lasagadesombres/</link>
+      <link>//localhost:1313/lectures/2018-07-07-ender-lasagadesombres/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2018-07-07-ender-lasagadesombres/</guid>
+      <guid>//localhost:1313/lectures/2018-07-07-ender-lasagadesombres/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2018-08-12-seeker/</link>
+      <link>//localhost:1313/lectures/2018-08-12-seeker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2018-08-12-seeker/</guid>
+      <guid>//localhost:1313/lectures/2018-08-12-seeker/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2018-08-18-lalonguemars/</link>
+      <link>//localhost:1313/lectures/2018-08-18-lalonguemars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2018-08-18-lalonguemars/</guid>
+      <guid>//localhost:1313/lectures/2018-08-18-lalonguemars/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2018-10-15-berezina/</link>
+      <link>//localhost:1313/lectures/2018-10-15-berezina/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2018-10-15-berezina/</guid>
+      <guid>//localhost:1313/lectures/2018-10-15-berezina/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2018-10-15-thedarkestminds/</link>
+      <link>//localhost:1313/lectures/2018-10-15-thedarkestminds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2018-10-15-thedarkestminds/</guid>
+      <guid>//localhost:1313/lectures/2018-10-15-thedarkestminds/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2018-11-29-lesignal/</link>
+      <link>//localhost:1313/lectures/2018-11-29-lesignal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2018-11-29-lesignal/</guid>
+      <guid>//localhost:1313/lectures/2018-11-29-lesignal/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2018-12-02-danslesfore%CC%82tsdesibe%CC%81rie/</link>
+      <link>//localhost:1313/lectures/2018-12-02-danslesfore%CC%82tsdesibe%CC%81rie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2018-12-02-danslesfore%CC%82tsdesibe%CC%81rie/</guid>
+      <guid>//localhost:1313/lectures/2018-12-02-danslesfore%CC%82tsdesibe%CC%81rie/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2018-12-08-richdad-poordad/</link>
+      <link>//localhost:1313/lectures/2018-12-08-richdad-poordad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2018-12-08-richdad-poordad/</guid>
+      <guid>//localhost:1313/lectures/2018-12-08-richdad-poordad/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-01-04-lecygnenoir/</link>
+      <link>//localhost:1313/lectures/2019-01-04-lecygnenoir/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-01-04-lecygnenoir/</guid>
+      <guid>//localhost:1313/lectures/2019-01-04-lecygnenoir/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-01-05-trouversonpourquoi/</link>
+      <link>//localhost:1313/lectures/2019-01-05-trouversonpourquoi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-01-05-trouversonpourquoi/</guid>
+      <guid>//localhost:1313/lectures/2019-01-05-trouversonpourquoi/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-01-06-12rulesforlife-anantidotetochaos/</link>
+      <link>//localhost:1313/lectures/2019-01-06-12rulesforlife-anantidotetochaos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-01-06-12rulesforlife-anantidotetochaos/</guid>
+      <guid>//localhost:1313/lectures/2019-01-06-12rulesforlife-anantidotetochaos/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-01-07-15secretssuccessfulpeopleknowabouttimemanagement-theproductivityhabitsof7billionaires-13olympicathletes-20straight-astudents-and239entrepreneurs/</link>
+      <link>//localhost:1313/lectures/2019-01-07-15secretssuccessfulpeopleknowabouttimemanagement-theproductivityhabitsof7billionaires-13olympicathletes-20straight-astudents-and239entrepreneurs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-01-07-15secretssuccessfulpeopleknowabouttimemanagement-theproductivityhabitsof7billionaires-13olympicathletes-20straight-astudents-and239entrepreneurs/</guid>
+      <guid>//localhost:1313/lectures/2019-01-07-15secretssuccessfulpeopleknowabouttimemanagement-theproductivityhabitsof7billionaires-13olympicathletes-20straight-astudents-and239entrepreneurs/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-01-12-autoportraitdel-auteurencoureurdefond/</link>
+      <link>//localhost:1313/lectures/2019-01-12-autoportraitdel-auteurencoureurdefond/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-01-12-autoportraitdel-auteurencoureurdefond/</guid>
+      <guid>//localhost:1313/lectures/2019-01-12-autoportraitdel-auteurencoureurdefond/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-01-13-petitguidedecontre-manipulation/</link>
+      <link>//localhost:1313/lectures/2019-01-13-petitguidedecontre-manipulation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-01-13-petitguidedecontre-manipulation/</guid>
+      <guid>//localhost:1313/lectures/2019-01-13-petitguidedecontre-manipulation/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-01-19-theassholesurvivalguide-howtodealwithpeoplewhotreatyoulikedirt/</link>
+      <link>//localhost:1313/lectures/2019-01-19-theassholesurvivalguide-howtodealwithpeoplewhotreatyoulikedirt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-01-19-theassholesurvivalguide-howtodealwithpeoplewhotreatyoulikedirt/</guid>
+      <guid>//localhost:1313/lectures/2019-01-19-theassholesurvivalguide-howtodealwithpeoplewhotreatyoulikedirt/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-01-26-tortuesa%CC%80l-infini/</link>
+      <link>//localhost:1313/lectures/2019-01-26-tortuesa%CC%80l-infini/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-01-26-tortuesa%CC%80l-infini/</guid>
+      <guid>//localhost:1313/lectures/2019-01-26-tortuesa%CC%80l-infini/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-02-02-l-artsubtildes-enfoutre/</link>
+      <link>//localhost:1313/lectures/2019-02-02-l-artsubtildes-enfoutre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-02-02-l-artsubtildes-enfoutre/</guid>
+      <guid>//localhost:1313/lectures/2019-02-02-l-artsubtildes-enfoutre/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-02-12-j-iraistuerpourvous/</link>
+      <link>//localhost:1313/lectures/2019-02-12-j-iraistuerpourvous/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-02-12-j-iraistuerpourvous/</guid>
+      <guid>//localhost:1313/lectures/2019-02-12-j-iraistuerpourvous/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-03-03-l-obstacleestlechemin/</link>
+      <link>//localhost:1313/lectures/2019-03-03-l-obstacleestlechemin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-03-03-l-obstacleestlechemin/</guid>
+      <guid>//localhost:1313/lectures/2019-03-03-l-obstacleestlechemin/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-03-09-avalancheho%CC%82tel/</link>
+      <link>//localhost:1313/lectures/2019-03-09-avalancheho%CC%82tel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-03-09-avalancheho%CC%82tel/</guid>
+      <guid>//localhost:1313/lectures/2019-03-09-avalancheho%CC%82tel/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-03-23-henricartierbresson-l-%C5%93ildusie%CC%80cle/</link>
+      <link>//localhost:1313/lectures/2019-03-23-henricartierbresson-l-%C5%93ildusie%CC%80cle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-03-23-henricartierbresson-l-%C5%93ildusie%CC%80cle/</guid>
+      <guid>//localhost:1313/lectures/2019-03-23-henricartierbresson-l-%C5%93ildusie%CC%80cle/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-04-13-howtoreadabook/</link>
+      <link>//localhost:1313/lectures/2019-04-13-howtoreadabook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-04-13-howtoreadabook/</guid>
+      <guid>//localhost:1313/lectures/2019-04-13-howtoreadabook/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-04-13-m-leborddel-abi%CC%82me/</link>
+      <link>//localhost:1313/lectures/2019-04-13-m-leborddel-abi%CC%82me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-04-13-m-leborddel-abi%CC%82me/</guid>
+      <guid>//localhost:1313/lectures/2019-04-13-m-leborddel-abi%CC%82me/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-06-29-flow-thepsychologyofoptimalexperience/</link>
+      <link>//localhost:1313/lectures/2019-06-29-flow-thepsychologyofoptimalexperience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-06-29-flow-thepsychologyofoptimalexperience/</guid>
+      <guid>//localhost:1313/lectures/2019-06-29-flow-thepsychologyofoptimalexperience/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-06-29-ladernie%CC%80rechasse/</link>
+      <link>//localhost:1313/lectures/2019-06-29-ladernie%CC%80rechasse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-06-29-ladernie%CC%80rechasse/</guid>
+      <guid>//localhost:1313/lectures/2019-06-29-ladernie%CC%80rechasse/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-08-16-atomichabits/</link>
+      <link>//localhost:1313/lectures/2019-08-16-atomichabits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-08-16-atomichabits/</guid>
+      <guid>//localhost:1313/lectures/2019-08-16-atomichabits/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-08-17-howtowritefast/</link>
+      <link>//localhost:1313/lectures/2019-08-17-howtowritefast/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-08-17-howtowritefast/</guid>
+      <guid>//localhost:1313/lectures/2019-08-17-howtowritefast/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-08-28-digitalminimalism/</link>
+      <link>//localhost:1313/lectures/2019-08-28-digitalminimalism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-08-28-digitalminimalism/</guid>
+      <guid>//localhost:1313/lectures/2019-08-28-digitalminimalism/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-09-04-lesjeuxdene%CC%81me%CC%81sis/</link>
+      <link>//localhost:1313/lectures/2019-09-04-lesjeuxdene%CC%81me%CC%81sis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-09-04-lesjeuxdene%CC%81me%CC%81sis/</guid>
+      <guid>//localhost:1313/lectures/2019-09-04-lesjeuxdene%CC%81me%CC%81sis/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-09-11-l-effondrementdel-empire-l-interde%CC%81pendancet1/</link>
+      <link>//localhost:1313/lectures/2019-09-11-l-effondrementdel-empire-l-interde%CC%81pendancet1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-09-11-l-effondrementdel-empire-l-interde%CC%81pendancet1/</guid>
+      <guid>//localhost:1313/lectures/2019-09-11-l-effondrementdel-empire-l-interde%CC%81pendancet1/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-09-30-wiredforstory/</link>
+      <link>//localhost:1313/lectures/2019-09-30-wiredforstory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-09-30-wiredforstory/</guid>
+      <guid>//localhost:1313/lectures/2019-09-30-wiredforstory/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-11-01-lucas/</link>
+      <link>//localhost:1313/lectures/2019-11-01-lucas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-11-01-lucas/</guid>
+      <guid>//localhost:1313/lectures/2019-11-01-lucas/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-11-28-the48lawsofpower/</link>
+      <link>//localhost:1313/lectures/2019-11-28-the48lawsofpower/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-11-28-the48lawsofpower/</guid>
+      <guid>//localhost:1313/lectures/2019-11-28-the48lawsofpower/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-12-15-stillnessisthekey/</link>
+      <link>//localhost:1313/lectures/2019-12-15-stillnessisthekey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-12-15-stillnessisthekey/</guid>
+      <guid>//localhost:1313/lectures/2019-12-15-stillnessisthekey/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-12-28-thefictionformula/</link>
+      <link>//localhost:1313/lectures/2019-12-28-thefictionformula/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-12-28-thefictionformula/</guid>
+      <guid>//localhost:1313/lectures/2019-12-28-thefictionformula/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-12-29-me%CC%81moiresvives/</link>
+      <link>//localhost:1313/lectures/2019-12-29-me%CC%81moiresvives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-12-29-me%CC%81moiresvives/</guid>
+      <guid>//localhost:1313/lectures/2019-12-29-me%CC%81moiresvives/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2019-thedailyhabit/</link>
+      <link>//localhost:1313/lectures/2019-thedailyhabit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2019-thedailyhabit/</guid>
+      <guid>//localhost:1313/lectures/2019-thedailyhabit/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-01-02-thebulletjournalmethod/</link>
+      <link>//localhost:1313/lectures/2020-01-02-thebulletjournalmethod/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-01-02-thebulletjournalmethod/</guid>
+      <guid>//localhost:1313/lectures/2020-01-02-thebulletjournalmethod/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-01-12-theantidote/</link>
+      <link>//localhost:1313/lectures/2020-01-12-theantidote/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-01-12-theantidote/</guid>
+      <guid>//localhost:1313/lectures/2020-01-12-theantidote/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-02-07-sapiens-unebre%CC%80vehistoiredel-humanite%CC%81/</link>
+      <link>//localhost:1313/lectures/2020-02-07-sapiens-unebre%CC%80vehistoiredel-humanite%CC%81/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-02-07-sapiens-unebre%CC%80vehistoiredel-humanite%CC%81/</guid>
+      <guid>//localhost:1313/lectures/2020-02-07-sapiens-unebre%CC%80vehistoiredel-humanite%CC%81/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-02-09-weshouldallbefeminist/</link>
+      <link>//localhost:1313/lectures/2020-02-09-weshouldallbefeminist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-02-09-weshouldallbefeminist/</guid>
+      <guid>//localhost:1313/lectures/2020-02-09-weshouldallbefeminist/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-02-14-deepwork/</link>
+      <link>//localhost:1313/lectures/2020-02-14-deepwork/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-02-14-deepwork/</guid>
+      <guid>//localhost:1313/lectures/2020-02-14-deepwork/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-03-01-howtohaveimpossibleconversations/</link>
+      <link>//localhost:1313/lectures/2020-03-01-howtohaveimpossibleconversations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-03-01-howtohaveimpossibleconversations/</guid>
+      <guid>//localhost:1313/lectures/2020-03-01-howtohaveimpossibleconversations/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-03-10-professionromancier/</link>
+      <link>//localhost:1313/lectures/2020-03-10-professionromancier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-03-10-professionromancier/</guid>
+      <guid>//localhost:1313/lectures/2020-03-10-professionromancier/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-03-28-everythingisfucked/</link>
+      <link>//localhost:1313/lectures/2020-03-28-everythingisfucked/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-03-28-everythingisfucked/</guid>
+      <guid>//localhost:1313/lectures/2020-03-28-everythingisfucked/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-03-31-alerte/</link>
+      <link>//localhost:1313/lectures/2020-03-31-alerte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-03-31-alerte/</guid>
+      <guid>//localhost:1313/lectures/2020-03-31-alerte/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-04-06-howtotakesmartnotes/</link>
+      <link>//localhost:1313/lectures/2020-04-06-howtotakesmartnotes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-04-06-howtotakesmartnotes/</guid>
+      <guid>//localhost:1313/lectures/2020-04-06-howtotakesmartnotes/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-04-16-terreerrante/</link>
+      <link>//localhost:1313/lectures/2020-04-16-terreerrante/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-04-16-terreerrante/</guid>
+      <guid>//localhost:1313/lectures/2020-04-16-terreerrante/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-05-16-takecontrolofdevonthink3/</link>
+      <link>//localhost:1313/lectures/2020-05-16-takecontrolofdevonthink3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-05-16-takecontrolofdevonthink3/</guid>
+      <guid>//localhost:1313/lectures/2020-05-16-takecontrolofdevonthink3/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-05-17-commente%CC%81criredeshistoires/</link>
+      <link>//localhost:1313/lectures/2020-05-17-commente%CC%81criredeshistoires/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-05-17-commente%CC%81criredeshistoires/</guid>
+      <guid>//localhost:1313/lectures/2020-05-17-commente%CC%81criredeshistoires/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-05-30-unesecte/</link>
+      <link>//localhost:1313/lectures/2020-05-30-unesecte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-05-30-unesecte/</guid>
+      <guid>//localhost:1313/lectures/2020-05-30-unesecte/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-06-06-lescendresdebabylone-theexpanse6/</link>
+      <link>//localhost:1313/lectures/2020-06-06-lescendresdebabylone-theexpanse6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-06-06-lescendresdebabylone-theexpanse6/</guid>
+      <guid>//localhost:1313/lectures/2020-06-06-lescendresdebabylone-theexpanse6/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-06-11-theinfinitegame/</link>
+      <link>//localhost:1313/lectures/2020-06-11-theinfinitegame/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-06-11-theinfinitegame/</guid>
+      <guid>//localhost:1313/lectures/2020-06-11-theinfinitegame/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-06-13-dontpanic-douglasadamsandthehitchhikersguidetothegalaxy/</link>
+      <link>//localhost:1313/lectures/2020-06-13-dontpanic-douglasadamsandthehitchhikersguidetothegalaxy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-06-13-dontpanic-douglasadamsandthehitchhikersguidetothegalaxy/</guid>
+      <guid>//localhost:1313/lectures/2020-06-13-dontpanic-douglasadamsandthehitchhikersguidetothegalaxy/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-06-15-meurtresendouceur/</link>
+      <link>//localhost:1313/lectures/2020-06-15-meurtresendouceur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-06-15-meurtresendouceur/</guid>
+      <guid>//localhost:1313/lectures/2020-06-15-meurtresendouceur/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-07-07-lejourdescendres/</link>
+      <link>//localhost:1313/lectures/2020-07-07-lejourdescendres/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-07-07-lejourdescendres/</guid>
+      <guid>//localhost:1313/lectures/2020-07-07-lejourdescendres/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/comme-par-magie/</link>
+      <link>//localhost:1313/lectures/comme-par-magie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/comme-par-magie/</guid>
+      <guid>//localhost:1313/lectures/comme-par-magie/</guid>
       <description>Une approche intéressante de la créativité.&#xA;Mes passages surlignés: Il leur disait qu’ils devaient mener l’existence la plus créative possible afin de combattre l’impitoyable fournaise de ce monde. (Location 44) Plus que tout, cependant, il demandait à ses étudiants d’être courageux. Sans courage, professait-il, ils ne seraient jamais capables de percevoir la vaste étendue de leurs propres capacités. Sans courage, ils ne connaîtraient pas le monde aussi intensément qu’il le réclame.</description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-07-24-mange-prie-aime/</link>
+      <link>//localhost:1313/lectures/2020-07-24-mange-prie-aime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-07-24-mange-prie-aime/</guid>
+      <guid>//localhost:1313/lectures/2020-07-24-mange-prie-aime/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-07-26-lesflammesdel-empire-l-interdependancet2/</link>
+      <link>//localhost:1313/lectures/2020-07-26-lesflammesdel-empire-l-interdependancet2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-07-26-lesflammesdel-empire-l-interdependancet2/</guid>
+      <guid>//localhost:1313/lectures/2020-07-26-lesflammesdel-empire-l-interdependancet2/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-08-02-lederniersecretduvatican/</link>
+      <link>//localhost:1313/lectures/2020-08-02-lederniersecretduvatican/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-08-02-lederniersecretduvatican/</guid>
+      <guid>//localhost:1313/lectures/2020-08-02-lederniersecretduvatican/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-08-08-lessaintesreliques/</link>
+      <link>//localhost:1313/lectures/2020-08-08-lessaintesreliques/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-08-08-lessaintesreliques/</guid>
+      <guid>//localhost:1313/lectures/2020-08-08-lessaintesreliques/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-08-24-thecalculatingstars/</link>
+      <link>//localhost:1313/lectures/2020-08-24-thecalculatingstars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-08-24-thecalculatingstars/</guid>
+      <guid>//localhost:1313/lectures/2020-08-24-thecalculatingstars/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-09-13-mastery/</link>
+      <link>//localhost:1313/lectures/2020-09-13-mastery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-09-13-mastery/</guid>
+      <guid>//localhost:1313/lectures/2020-09-13-mastery/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-10-04-lavalle%CC%81e/</link>
+      <link>//localhost:1313/lectures/2020-10-04-lavalle%CC%81e/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-10-04-lavalle%CC%81e/</guid>
+      <guid>//localhost:1313/lectures/2020-10-04-lavalle%CC%81e/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-10-12-theartofpossibility/</link>
+      <link>//localhost:1313/lectures/2020-10-12-theartofpossibility/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-10-12-theartofpossibility/</guid>
+      <guid>//localhost:1313/lectures/2020-10-12-theartofpossibility/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-11-10-5-000wordsperhour/</link>
+      <link>//localhost:1313/lectures/2020-11-10-5-000wordsperhour/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-11-10-5-000wordsperhour/</guid>
+      <guid>//localhost:1313/lectures/2020-11-10-5-000wordsperhour/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-11-15-darkmirror/</link>
+      <link>//localhost:1313/lectures/2020-11-15-darkmirror/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-11-15-darkmirror/</guid>
+      <guid>//localhost:1313/lectures/2020-11-15-darkmirror/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-11-29-l-illusion/</link>
+      <link>//localhost:1313/lectures/2020-11-29-l-illusion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-11-29-l-illusion/</guid>
+      <guid>//localhost:1313/lectures/2020-11-29-l-illusion/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-12-08-lege%CC%80neatlantis/</link>
+      <link>//localhost:1313/lectures/2020-12-08-lege%CC%80neatlantis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-12-08-lege%CC%80neatlantis/</guid>
+      <guid>//localhost:1313/lectures/2020-12-08-lege%CC%80neatlantis/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-12-11-thesystem/</link>
+      <link>//localhost:1313/lectures/2020-12-11-thesystem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-12-11-thesystem/</guid>
+      <guid>//localhost:1313/lectures/2020-12-11-thesystem/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-12-28-lefle%CC%81auatlantis/</link>
+      <link>//localhost:1313/lectures/2020-12-28-lefle%CC%81auatlantis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-12-28-lefle%CC%81auatlantis/</guid>
+      <guid>//localhost:1313/lectures/2020-12-28-lefle%CC%81auatlantis/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-12-30-thegift/</link>
+      <link>//localhost:1313/lectures/2020-12-30-thegift/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-12-30-thegift/</guid>
+      <guid>//localhost:1313/lectures/2020-12-30-thegift/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2020-12-31-thedailystoic/</link>
+      <link>//localhost:1313/lectures/2020-12-31-thedailystoic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2020-12-31-thedailystoic/</guid>
+      <guid>//localhost:1313/lectures/2020-12-31-thedailystoic/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-01-30-lesoule%CC%80vementdeperse%CC%81polis-theexpanse7/</link>
+      <link>//localhost:1313/lectures/2021-01-30-lesoule%CC%80vementdeperse%CC%81polis-theexpanse7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-01-30-lesoule%CC%80vementdeperse%CC%81polis-theexpanse7/</guid>
+      <guid>//localhost:1313/lectures/2021-01-30-lesoule%CC%80vementdeperse%CC%81polis-theexpanse7/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-01-30-thewarofart/</link>
+      <link>//localhost:1313/lectures/2021-01-30-thewarofart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-01-30-thewarofart/</guid>
+      <guid>//localhost:1313/lectures/2021-01-30-thewarofart/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-02-10-attacksurface/</link>
+      <link>//localhost:1313/lectures/2021-02-10-attacksurface/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-02-10-attacksurface/</guid>
+      <guid>//localhost:1313/lectures/2021-02-10-attacksurface/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-02-26-lagrandegrippe/</link>
+      <link>//localhost:1313/lectures/2021-02-26-lagrandegrippe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-02-26-lagrandegrippe/</guid>
+      <guid>//localhost:1313/lectures/2021-02-26-lagrandegrippe/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-02-28-considerthis/</link>
+      <link>//localhost:1313/lectures/2021-02-28-considerthis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-02-28-considerthis/</guid>
+      <guid>//localhost:1313/lectures/2021-02-28-considerthis/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-03-06-thinking-fastandslow/</link>
+      <link>//localhost:1313/lectures/2021-03-06-thinking-fastandslow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-03-06-thinking-fastandslow/</guid>
+      <guid>//localhost:1313/lectures/2021-03-06-thinking-fastandslow/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-03-10-lage%CC%81ne%CC%81alogiedelamorale/</link>
+      <link>//localhost:1313/lectures/2021-03-10-lage%CC%81ne%CC%81alogiedelamorale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-03-10-lage%CC%81ne%CC%81alogiedelamorale/</guid>
+      <guid>//localhost:1313/lectures/2021-03-10-lage%CC%81ne%CC%81alogiedelamorale/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-03-28-l-enigmedelachambre622/</link>
+      <link>//localhost:1313/lectures/2021-03-28-l-enigmedelachambre622/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-03-28-l-enigmedelachambre622/</guid>
+      <guid>//localhost:1313/lectures/2021-03-28-l-enigmedelachambre622/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-04-08-thesenseofstyle/</link>
+      <link>//localhost:1313/lectures/2021-04-08-thesenseofstyle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-04-08-thesenseofstyle/</guid>
+      <guid>//localhost:1313/lectures/2021-04-08-thesenseofstyle/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-04-19-bushcraft101/</link>
+      <link>//localhost:1313/lectures/2021-04-19-bushcraft101/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-04-19-bushcraft101/</guid>
+      <guid>//localhost:1313/lectures/2021-04-19-bushcraft101/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-04-20-lacole%CC%80redetiamat-theexpanse8/</link>
+      <link>//localhost:1313/lectures/2021-04-20-lacole%CC%80redetiamat-theexpanse8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-04-20-lacole%CC%80redetiamat-theexpanse8/</guid>
+      <guid>//localhost:1313/lectures/2021-04-20-lacole%CC%80redetiamat-theexpanse8/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-05-02-homodeus/</link>
+      <link>//localhost:1313/lectures/2021-05-02-homodeus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-05-02-homodeus/</guid>
+      <guid>//localhost:1313/lectures/2021-05-02-homodeus/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-05-09-grisha-tome01/</link>
+      <link>//localhost:1313/lectures/2021-05-09-grisha-tome01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-05-09-grisha-tome01/</guid>
+      <guid>//localhost:1313/lectures/2021-05-09-grisha-tome01/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-05-16-thesurveillancecapitalism/</link>
+      <link>//localhost:1313/lectures/2021-05-16-thesurveillancecapitalism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-05-16-thesurveillancecapitalism/</guid>
+      <guid>//localhost:1313/lectures/2021-05-16-thesurveillancecapitalism/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-05-24-grisha-tome02/</link>
+      <link>//localhost:1313/lectures/2021-05-24-grisha-tome02/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-05-24-grisha-tome02/</guid>
+      <guid>//localhost:1313/lectures/2021-05-24-grisha-tome02/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-06-20-legendtome1/</link>
+      <link>//localhost:1313/lectures/2021-06-20-legendtome1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-06-20-legendtome1/</guid>
+      <guid>//localhost:1313/lectures/2021-06-20-legendtome1/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-06-24-commente%CC%81criredesfictions/</link>
+      <link>//localhost:1313/lectures/2021-06-24-commente%CC%81criredesfictions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-06-24-commente%CC%81criredesfictions/</guid>
+      <guid>//localhost:1313/lectures/2021-06-24-commente%CC%81criredesfictions/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-08-02-l-histoiredetavie/</link>
+      <link>//localhost:1313/lectures/2021-08-02-l-histoiredetavie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-08-02-l-histoiredetavie/</guid>
+      <guid>//localhost:1313/lectures/2021-08-02-l-histoiredetavie/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-08-07-thefatedsky/</link>
+      <link>//localhost:1313/lectures/2021-08-07-thefatedsky/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-08-07-thefatedsky/</guid>
+      <guid>//localhost:1313/lectures/2021-08-07-thefatedsky/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-08-08-birdbybird/</link>
+      <link>//localhost:1313/lectures/2021-08-08-birdbybird/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-08-08-birdbybird/</guid>
+      <guid>//localhost:1313/lectures/2021-08-08-birdbybird/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-08-23-lebureaudesaffairesoccultes/</link>
+      <link>//localhost:1313/lectures/2021-08-23-lebureaudesaffairesoccultes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-08-23-lebureaudesaffairesoccultes/</guid>
+      <guid>//localhost:1313/lectures/2021-08-23-lebureaudesaffairesoccultes/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-09-08-ladernie%CC%80reemperox/</link>
+      <link>//localhost:1313/lectures/2021-09-08-ladernie%CC%80reemperox/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-09-08-ladernie%CC%80reemperox/</guid>
+      <guid>//localhost:1313/lectures/2021-09-08-ladernie%CC%80reemperox/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-09-26-aguidetothegoodlife/</link>
+      <link>//localhost:1313/lectures/2021-09-26-aguidetothegoodlife/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-09-26-aguidetothegoodlife/</guid>
+      <guid>//localhost:1313/lectures/2021-09-26-aguidetothegoodlife/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-09-30-sixtine-tome1/</link>
+      <link>//localhost:1313/lectures/2021-09-30-sixtine-tome1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-09-30-sixtine-tome1/</guid>
+      <guid>//localhost:1313/lectures/2021-09-30-sixtine-tome1/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-10-22-projetdernie%CC%80rechance/</link>
+      <link>//localhost:1313/lectures/2021-10-22-projetdernie%CC%80rechance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-10-22-projetdernie%CC%80rechance/</guid>
+      <guid>//localhost:1313/lectures/2021-10-22-projetdernie%CC%80rechance/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-10-23-ledroitd-emmerderdieu/</link>
+      <link>//localhost:1313/lectures/2021-10-23-ledroitd-emmerderdieu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-10-23-ledroitd-emmerderdieu/</guid>
+      <guid>//localhost:1313/lectures/2021-10-23-ledroitd-emmerderdieu/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-12-25-courageiscalling/</link>
+      <link>//localhost:1313/lectures/2021-12-25-courageiscalling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-12-25-courageiscalling/</guid>
+      <guid>//localhost:1313/lectures/2021-12-25-courageiscalling/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-12-29-braisesdeguerre/</link>
+      <link>//localhost:1313/lectures/2021-12-29-braisesdeguerre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-12-29-braisesdeguerre/</guid>
+      <guid>//localhost:1313/lectures/2021-12-29-braisesdeguerre/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-12-31-howemotionsaremade/</link>
+      <link>//localhost:1313/lectures/2021-12-31-howemotionsaremade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-12-31-howemotionsaremade/</guid>
+      <guid>//localhost:1313/lectures/2021-12-31-howemotionsaremade/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2021-12-31-thedailystoic/</link>
+      <link>//localhost:1313/lectures/2021-12-31-thedailystoic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2021-12-31-thedailystoic/</guid>
+      <guid>//localhost:1313/lectures/2021-12-31-thedailystoic/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2022-01-01-howtolive/</link>
+      <link>//localhost:1313/lectures/2022-01-01-howtolive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2022-01-01-howtolive/</guid>
+      <guid>//localhost:1313/lectures/2022-01-01-howtolive/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2022-01-16-fourthousandsweeks/</link>
+      <link>//localhost:1313/lectures/2022-01-16-fourthousandsweeks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2022-01-16-fourthousandsweeks/</guid>
+      <guid>//localhost:1313/lectures/2022-01-16-fourthousandsweeks/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2022-03-22-redshirts/</link>
+      <link>//localhost:1313/lectures/2022-03-22-redshirts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2022-03-22-redshirts/</guid>
+      <guid>//localhost:1313/lectures/2022-03-22-redshirts/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2022-04-23-starsandbones/</link>
+      <link>//localhost:1313/lectures/2022-04-23-starsandbones/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2022-04-23-starsandbones/</guid>
+      <guid>//localhost:1313/lectures/2022-04-23-starsandbones/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2022-06-09-theloop/</link>
+      <link>//localhost:1313/lectures/2022-06-09-theloop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2022-06-09-theloop/</guid>
+      <guid>//localhost:1313/lectures/2022-06-09-theloop/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2022-07-10-lucia/</link>
+      <link>//localhost:1313/lectures/2022-07-10-lucia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2022-07-10-lucia/</guid>
+      <guid>//localhost:1313/lectures/2022-07-10-lucia/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2022-07-16-fromstrenghtostrengh/</link>
+      <link>//localhost:1313/lectures/2022-07-16-fromstrenghtostrengh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2022-07-16-fromstrenghtostrengh/</guid>
+      <guid>//localhost:1313/lectures/2022-07-16-fromstrenghtostrengh/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2022-08-05-theterminallist/</link>
+      <link>//localhost:1313/lectures/2022-08-05-theterminallist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2022-08-05-theterminallist/</guid>
+      <guid>//localhost:1313/lectures/2022-08-05-theterminallist/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2022-08-11-buildingasecondbrain/</link>
+      <link>//localhost:1313/lectures/2022-08-11-buildingasecondbrain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2022-08-11-buildingasecondbrain/</guid>
+      <guid>//localhost:1313/lectures/2022-08-11-buildingasecondbrain/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2022-08-17-laforcedesdiscrets/</link>
+      <link>//localhost:1313/lectures/2022-08-17-laforcedesdiscrets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2022-08-17-laforcedesdiscrets/</guid>
+      <guid>//localhost:1313/lectures/2022-08-17-laforcedesdiscrets/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2022-08-23-lemanuscritinacheve%CC%81/</link>
+      <link>//localhost:1313/lectures/2022-08-23-lemanuscritinacheve%CC%81/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2022-08-23-lemanuscritinacheve%CC%81/</guid>
+      <guid>//localhost:1313/lectures/2022-08-23-lemanuscritinacheve%CC%81/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2022-09-28-commente%CC%82trevisionnaire/</link>
+      <link>//localhost:1313/lectures/2022-09-28-commente%CC%82trevisionnaire/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2022-09-28-commente%CC%82trevisionnaire/</guid>
+      <guid>//localhost:1313/lectures/2022-09-28-commente%CC%82trevisionnaire/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2022-09-29-l-hiverdumonde/</link>
+      <link>//localhost:1313/lectures/2022-09-29-l-hiverdumonde/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2022-09-29-l-hiverdumonde/</guid>
+      <guid>//localhost:1313/lectures/2022-09-29-l-hiverdumonde/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2022-10-21-etavecvotreexprit/</link>
+      <link>//localhost:1313/lectures/2022-10-21-etavecvotreexprit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2022-10-21-etavecvotreexprit/</guid>
+      <guid>//localhost:1313/lectures/2022-10-21-etavecvotreexprit/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2022-10-26-whywesleep/</link>
+      <link>//localhost:1313/lectures/2022-10-26-whywesleep/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2022-10-26-whywesleep/</guid>
+      <guid>//localhost:1313/lectures/2022-10-26-whywesleep/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2022-12-08-laconstancedupre%CC%81dateur/</link>
+      <link>//localhost:1313/lectures/2022-12-08-laconstancedupre%CC%81dateur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2022-12-08-laconstancedupre%CC%81dateur/</guid>
+      <guid>//localhost:1313/lectures/2022-12-08-laconstancedupre%CC%81dateur/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-01-01-lesabandonneurs/</link>
+      <link>//localhost:1313/lectures/2023-01-01-lesabandonneurs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-01-01-lesabandonneurs/</guid>
+      <guid>//localhost:1313/lectures/2023-01-01-lesabandonneurs/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-01-14-thefourthturning/</link>
+      <link>//localhost:1313/lectures/2023-01-14-thefourthturning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-01-14-thefourthturning/</guid>
+      <guid>//localhost:1313/lectures/2023-01-14-thefourthturning/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-02-15-chokepointcapitalism/</link>
+      <link>//localhost:1313/lectures/2023-02-15-chokepointcapitalism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-02-15-chokepointcapitalism/</guid>
+      <guid>//localhost:1313/lectures/2023-02-15-chokepointcapitalism/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-03-03-disciplineisdestiny/</link>
+      <link>//localhost:1313/lectures/2023-03-03-disciplineisdestiny/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-03-03-disciplineisdestiny/</guid>
+      <guid>//localhost:1313/lectures/2023-03-03-disciplineisdestiny/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-03-20-memory-slegion/</link>
+      <link>//localhost:1313/lectures/2023-03-20-memory-slegion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-03-20-memory-slegion/</guid>
+      <guid>//localhost:1313/lectures/2023-03-20-memory-slegion/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-04-05-lesdis/</link>
+      <link>//localhost:1313/lectures/2023-04-05-lesdis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-04-05-lesdis/</guid>
+      <guid>//localhost:1313/lectures/2023-04-05-lesdis/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-04-13-terrypratchettalifewithfootnotes/</link>
+      <link>//localhost:1313/lectures/2023-04-13-terrypratchettalifewithfootnotes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-04-13-terrypratchettalifewithfootnotes/</guid>
+      <guid>//localhost:1313/lectures/2023-04-13-terrypratchettalifewithfootnotes/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-04-16-lahuitie%CC%80mecouleur/</link>
+      <link>//localhost:1313/lectures/2023-04-16-lahuitie%CC%80mecouleur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-04-16-lahuitie%CC%80mecouleur/</guid>
+      <guid>//localhost:1313/lectures/2023-04-16-lahuitie%CC%80mecouleur/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-04-21-lehuitie%CC%80mesortile%CC%80ge/</link>
+      <link>//localhost:1313/lectures/2023-04-21-lehuitie%CC%80mesortile%CC%80ge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-04-21-lehuitie%CC%80mesortile%CC%80ge/</guid>
+      <guid>//localhost:1313/lectures/2023-04-21-lehuitie%CC%80mesortile%CC%80ge/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-04-23-journald-unassasynth/</link>
+      <link>//localhost:1313/lectures/2023-04-23-journald-unassasynth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-04-23-journald-unassasynth/</guid>
+      <guid>//localhost:1313/lectures/2023-04-23-journald-unassasynth/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-05-13-verslese%CC%81toiles/</link>
+      <link>//localhost:1313/lectures/2023-05-13-verslese%CC%81toiles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-05-13-verslese%CC%81toiles/</guid>
+      <guid>//localhost:1313/lectures/2023-05-13-verslese%CC%81toiles/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-05-18-redteamblues/</link>
+      <link>//localhost:1313/lectures/2023-05-18-redteamblues/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-05-18-redteamblues/</guid>
+      <guid>//localhost:1313/lectures/2023-05-18-redteamblues/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-06-15-assasynth2/</link>
+      <link>//localhost:1313/lectures/2023-06-15-assasynth2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-06-15-assasynth2/</guid>
+      <guid>//localhost:1313/lectures/2023-06-15-assasynth2/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-06-20-sourcellerie/</link>
+      <link>//localhost:1313/lectures/2023-06-20-sourcellerie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-06-20-sourcellerie/</guid>
+      <guid>//localhost:1313/lectures/2023-06-20-sourcellerie/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-06-23-theauthenticswing/</link>
+      <link>//localhost:1313/lectures/2023-06-23-theauthenticswing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-06-23-theauthenticswing/</guid>
+      <guid>//localhost:1313/lectures/2023-06-23-theauthenticswing/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-07-11-me%CC%81moiresd-hadrien/</link>
+      <link>//localhost:1313/lectures/2023-07-11-me%CC%81moiresd-hadrien/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-07-11-me%CC%81moiresd-hadrien/</guid>
+      <guid>//localhost:1313/lectures/2023-07-11-me%CC%81moiresd-hadrien/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-07-28-assasynth3/</link>
+      <link>//localhost:1313/lectures/2023-07-28-assasynth3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-07-28-assasynth3/</guid>
+      <guid>//localhost:1313/lectures/2023-07-28-assasynth3/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-07-31-pukthuprimo/</link>
+      <link>//localhost:1313/lectures/2023-07-31-pukthuprimo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-07-31-pukthuprimo/</guid>
+      <guid>//localhost:1313/lectures/2023-07-31-pukthuprimo/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-08-10-lemanueld-epicte%CC%80te/</link>
+      <link>//localhost:1313/lectures/2023-08-10-lemanueld-epicte%CC%80te/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-08-10-lemanueld-epicte%CC%80te/</guid>
+      <guid>//localhost:1313/lectures/2023-08-10-lemanueld-epicte%CC%80te/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-08-15-antifragile/</link>
+      <link>//localhost:1313/lectures/2023-08-15-antifragile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-08-15-antifragile/</guid>
+      <guid>//localhost:1313/lectures/2023-08-15-antifragile/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-08-21-feynman-srainbow-asearchforbeautyinphysicsandinlife/</link>
+      <link>//localhost:1313/lectures/2023-08-21-feynman-srainbow-asearchforbeautyinphysicsandinlife/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-08-21-feynman-srainbow-asearchforbeautyinphysicsandinlife/</guid>
+      <guid>//localhost:1313/lectures/2023-08-21-feynman-srainbow-asearchforbeautyinphysicsandinlife/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-09-14-rougekarma/</link>
+      <link>//localhost:1313/lectures/2023-09-14-rougekarma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-09-14-rougekarma/</guid>
+      <guid>//localhost:1313/lectures/2023-09-14-rougekarma/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-09-27-whenweceasetounderstandtheworld/</link>
+      <link>//localhost:1313/lectures/2023-09-27-whenweceasetounderstandtheworld/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-09-27-whenweceasetounderstandtheworld/</guid>
+      <guid>//localhost:1313/lectures/2023-09-27-whenweceasetounderstandtheworld/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-10-03-spes-nova-latombe%CC%81edel-aurore/</link>
+      <link>//localhost:1313/lectures/2023-10-03-spes-nova-latombe%CC%81edel-aurore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-10-03-spes-nova-latombe%CC%81edel-aurore/</guid>
+      <guid>//localhost:1313/lectures/2023-10-03-spes-nova-latombe%CC%81edel-aurore/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-10-07-outliers/</link>
+      <link>//localhost:1313/lectures/2023-10-07-outliers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-10-07-outliers/</guid>
+      <guid>//localhost:1313/lectures/2023-10-07-outliers/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-11-02-lephilate%CC%81liste/</link>
+      <link>//localhost:1313/lectures/2023-11-02-lephilate%CC%81liste/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-11-02-lephilate%CC%81liste/</guid>
+      <guid>//localhost:1313/lectures/2023-11-02-lephilate%CC%81liste/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-11-14-commente%CC%81criredelafictionlacharpentedure%CC%81cit/</link>
+      <link>//localhost:1313/lectures/2023-11-14-commente%CC%81criredelafictionlacharpentedure%CC%81cit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-11-14-commente%CC%81criredelafictionlacharpentedure%CC%81cit/</guid>
+      <guid>//localhost:1313/lectures/2023-11-14-commente%CC%81criredelafictionlacharpentedure%CC%81cit/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-12-05-theintellectuallife/</link>
+      <link>//localhost:1313/lectures/2023-12-05-theintellectuallife/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-12-05-theintellectuallife/</guid>
+      <guid>//localhost:1313/lectures/2023-12-05-theintellectuallife/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-12-25-lux/</link>
+      <link>//localhost:1313/lectures/2023-12-25-lux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-12-25-lux/</guid>
+      <guid>//localhost:1313/lectures/2023-12-25-lux/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2023-12-27-spes-nova-lalunedecendres/</link>
+      <link>//localhost:1313/lectures/2023-12-27-spes-nova-lalunedecendres/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2023-12-27-spes-nova-lalunedecendres/</guid>
+      <guid>//localhost:1313/lectures/2023-12-27-spes-nova-lalunedecendres/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2024-01-02-wearebellingcat/</link>
+      <link>//localhost:1313/lectures/2024-01-02-wearebellingcat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2024-01-02-wearebellingcat/</guid>
+      <guid>//localhost:1313/lectures/2024-01-02-wearebellingcat/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2024-01-14-descendantmachine/</link>
+      <link>//localhost:1313/lectures/2024-01-14-descendantmachine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2024-01-14-descendantmachine/</guid>
+      <guid>//localhost:1313/lectures/2024-01-14-descendantmachine/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2024-01-19-beinglogical/</link>
+      <link>//localhost:1313/lectures/2024-01-19-beinglogical/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2024-01-19-beinglogical/</guid>
+      <guid>//localhost:1313/lectures/2024-01-19-beinglogical/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2024-02-10-legraaldudiable/</link>
+      <link>//localhost:1313/lectures/2024-02-10-legraaldudiable/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2024-02-10-legraaldudiable/</guid>
+      <guid>//localhost:1313/lectures/2024-02-10-legraaldudiable/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2024-02-23-readme.txt/</link>
+      <link>//localhost:1313/lectures/2024-02-23-readme.txt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2024-02-23-readme.txt/</guid>
+      <guid>//localhost:1313/lectures/2024-02-23-readme.txt/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2024-03-03-terressauvages/</link>
+      <link>//localhost:1313/lectures/2024-03-03-terressauvages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2024-03-03-terressauvages/</guid>
+      <guid>//localhost:1313/lectures/2024-03-03-terressauvages/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2024-04-01-thecreativeact-awayofbeing/</link>
+      <link>//localhost:1313/lectures/2024-04-01-thecreativeact-awayofbeing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2024-04-01-thecreativeact-awayofbeing/</guid>
+      <guid>//localhost:1313/lectures/2024-04-01-thecreativeact-awayofbeing/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2024-04-01-wakingup-aguidetospiritualitywithoutreligion/</link>
+      <link>//localhost:1313/lectures/2024-04-01-wakingup-aguidetospiritualitywithoutreligion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2024-04-01-wakingup-aguidetospiritualitywithoutreligion/</guid>
+      <guid>//localhost:1313/lectures/2024-04-01-wakingup-aguidetospiritualitywithoutreligion/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2024-04-15-excellentadviceforliving/</link>
+      <link>//localhost:1313/lectures/2024-04-15-excellentadviceforliving/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2024-04-15-excellentadviceforliving/</guid>
+      <guid>//localhost:1313/lectures/2024-04-15-excellentadviceforliving/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/klara/</link>
+      <link>//localhost:1313/lectures/klara/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/klara/</guid>
+      <guid>//localhost:1313/lectures/klara/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2024-04-27-lasocie%CC%81te%CC%81delafatigue/</link>
+      <link>//localhost:1313/lectures/2024-04-27-lasocie%CC%81te%CC%81delafatigue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2024-04-27-lasocie%CC%81te%CC%81delafatigue/</guid>
+      <guid>//localhost:1313/lectures/2024-04-27-lasocie%CC%81te%CC%81delafatigue/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2024-05-05-lachutedule%CC%81viathan-theexpanse9/</link>
+      <link>//localhost:1313/lectures/2024-05-05-lachutedule%CC%81viathan-theexpanse9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2024-05-05-lachutedule%CC%81viathan-theexpanse9/</guid>
+      <guid>//localhost:1313/lectures/2024-05-05-lachutedule%CC%81viathan-theexpanse9/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2024-05-09-2kto10k/</link>
+      <link>//localhost:1313/lectures/2024-05-09-2kto10k/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2024-05-09-2kto10k/</guid>
+      <guid>//localhost:1313/lectures/2024-05-09-2kto10k/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2024-05-18-supercommunicatorsa/</link>
+      <link>//localhost:1313/lectures/2024-05-18-supercommunicatorsa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2024-05-18-supercommunicatorsa/</guid>
+      <guid>//localhost:1313/lectures/2024-05-18-supercommunicatorsa/</guid>
       <description>Ma première réussite à l&amp;rsquo;écoute d&amp;rsquo;un audiobook. Le narrateur est l&amp;rsquo;auteur lui-même, et il a une voix et une qualité d&amp;rsquo;expression telle que j&amp;rsquo;ai trouvé l&amp;rsquo;écoute très intéressante (c&amp;rsquo;est la première fois que je termine un audiobook, et non mon premier essai&amp;hellip;).&#xA;Le contenu est tellement intéressant que je pense acquérir la version brochée pour relire et prendre des notes.</description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2024-05-20-lafaille/</link>
+      <link>//localhost:1313/lectures/2024-05-20-lafaille/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2024-05-20-lafaille/</guid>
+      <guid>//localhost:1313/lectures/2024-05-20-lafaille/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/odyssee-sacre/</link>
+      <link>//localhost:1313/lectures/odyssee-sacre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/odyssee-sacre/</guid>
+      <guid>//localhost:1313/lectures/odyssee-sacre/</guid>
       <description>Une fresque précise et intéressante, couvrant toute l&amp;rsquo;évolution de l&amp;rsquo;humanité, pour comprendre les origines des croyances humaines.&#xA;Un langage accessible qui donne une vue aérienne de l&amp;rsquo;évolution du sacré depuis la préhistoire.</description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2024-05-31-mortimer/</link>
+      <link>//localhost:1313/lectures/2024-05-31-mortimer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2024-05-31-mortimer/</guid>
+      <guid>//localhost:1313/lectures/2024-05-31-mortimer/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/2024-06-05-lespacedunan/</link>
+      <link>//localhost:1313/lectures/2024-06-05-lespacedunan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/2024-06-05-lespacedunan/</guid>
+      <guid>//localhost:1313/lectures/2024-06-05-lespacedunan/</guid>
       <description>Dans un contexte de science-fiction, Becky Chambers aborde les sujets fondamentaux, ceux qui comptent vraiment, avec humour, tendresse et subtilité: le spécisme, le racisme, la peur de l&amp;rsquo;autre, l&amp;rsquo;amour, la tendresse, la communication. Qu&amp;rsquo;est-ce qui nous différencie ? Qu&amp;rsquo;est-ce qui nous lie ?&#xA;À de nombreuses reprises, le texte m&amp;rsquo;a tiré un sourire, une larme, une émotion forte.</description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/supermechant-debutant/</link>
+      <link>//localhost:1313/lectures/supermechant-debutant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/supermechant-debutant/</guid>
+      <guid>//localhost:1313/lectures/supermechant-debutant/</guid>
       <description>Un supervillain à la James Bond, mais par erreur ou presque. Je n&amp;rsquo;ai pas vu passer la lecture, mais on est loin de ce que j&amp;rsquo;aime le plus chez Scalzi, et notamment sa capacité à me faire rire.</description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/writing-to-learn/</link>
+      <link>//localhost:1313/lectures/writing-to-learn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/writing-to-learn/</guid>
+      <guid>//localhost:1313/lectures/writing-to-learn/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/demain-et-demain-et-demain/</link>
+      <link>//localhost:1313/lectures/demain-et-demain-et-demain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/demain-et-demain-et-demain/</guid>
+      <guid>//localhost:1313/lectures/demain-et-demain-et-demain/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/attack-surface/</link>
+      <link>//localhost:1313/lectures/attack-surface/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/attack-surface/</guid>
+      <guid>//localhost:1313/lectures/attack-surface/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/reykjvik/</link>
+      <link>//localhost:1313/lectures/reykjvik/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/reykjvik/</guid>
+      <guid>//localhost:1313/lectures/reykjvik/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/psychopolitique/</link>
+      <link>//localhost:1313/lectures/psychopolitique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/psychopolitique/</guid>
+      <guid>//localhost:1313/lectures/psychopolitique/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/effet-reseau/</link>
+      <link>//localhost:1313/lectures/effet-reseau/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/effet-reseau/</guid>
+      <guid>//localhost:1313/lectures/effet-reseau/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/preparer-la-guerre/</link>
+      <link>//localhost:1313/lectures/preparer-la-guerre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/preparer-la-guerre/</guid>
+      <guid>//localhost:1313/lectures/preparer-la-guerre/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/telemetrie-fugitive/</link>
+      <link>//localhost:1313/lectures/telemetrie-fugitive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/telemetrie-fugitive/</guid>
+      <guid>//localhost:1313/lectures/telemetrie-fugitive/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/la-clef-et-la-croix/</link>
+      <link>//localhost:1313/lectures/la-clef-et-la-croix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/la-clef-et-la-croix/</guid>
+      <guid>//localhost:1313/lectures/la-clef-et-la-croix/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/fastlane/</link>
+      <link>//localhost:1313/lectures/fastlane/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/fastlane/</guid>
+      <guid>//localhost:1313/lectures/fastlane/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/lectures/saturation-point/</link>
+      <link>//localhost:1313/lectures/saturation-point/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/lectures/saturation-point/</guid>
+      <guid>//localhost:1313/lectures/saturation-point/</guid>
       <description>De la (bonne) dystopie. Avec le mystère qui entoure les premières pages, on a envie d&amp;rsquo;emblée de savoir qui est le personnage et que s&amp;rsquo;est-il passé pour que le monde soit dans un tel état. Et puis, très vite, on est embarqué dans cette aventure à explorer avec lui une zone où l&amp;rsquo;humain est maintenant incapable de vivre sans scaphandre. Et, contrairement à ce qu&amp;rsquo;on pourrait penser, ce n&amp;rsquo;est pas à cause de la chaleur, mais de l&amp;rsquo;humidité.</description>
     </item>
   </channel>

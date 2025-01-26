@@ -2,437 +2,437 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Arveed</title>
-    <link>/articles/</link>
+    <link>//localhost:1313/articles/</link>
     <description>Recent content in Articles on Arveed</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
     <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/articles/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L&#39;IA, bulle spéculative ?</title>
-      <link>/articles/reflexions-ia/</link>
+      <link>//localhost:1313/articles/reflexions-ia/</link>
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/articles/reflexions-ia/</guid>
+      <guid>//localhost:1313/articles/reflexions-ia/</guid>
       <description>Depuis un bon moment, je suis le développement des Grands Modèles de Langage (LLM). Je reste convaincu qu’il s’agit surtout d’une bulle spéculative, et donc dangereuse (en tant que telle). Néanmoins, suivant l’adage (connaître ton ennemi), je regarde de près, je note, je teste. Dans cet article, je garde un résumé de mes idées.&#xA;Le développement de l’IA nécessite un investissement massif financier et matériel. Il y a un coût d’utilisation auquel il faut rajouter celui associé à la phase d’entraînement.</description>
     </item>
     <item>
       <title>Auteur prolifique ?</title>
-      <link>/articles/prolifique/</link>
+      <link>//localhost:1313/articles/prolifique/</link>
       <pubDate>Sun, 20 Oct 2024 15:00:19 +0000</pubDate>
-      <guid>/articles/prolifique/</guid>
+      <guid>//localhost:1313/articles/prolifique/</guid>
       <description>Il y a des auteurs qu’on prend pour modèles. C’est comme cela qu’on commence à avoir envie d’écrire (en tout cas c’est mon cas, j’en parle dans l’un des épisodes de Duo de plume). Parfois, l’effet est inverse. Quand on voit la production de plusieurs de ces modèles, on peut se bloquer, se dire que jamais on n’atteindra ce niveau. Que ce soit du côté de la qualité littéraire, du storytelling, ou de la quantité.</description>
     </item>
     <item>
       <title>Fact-checker les images sur les réseaux sociaux - quelques outils.</title>
-      <link>/articles/fact-checking/</link>
+      <link>//localhost:1313/articles/fact-checking/</link>
       <pubDate>Tue, 21 May 2024 15:15:20 +0000</pubDate>
-      <guid>/articles/fact-checking/</guid>
+      <guid>//localhost:1313/articles/fact-checking/</guid>
       <description>Note: cet article est très largement inspiré par le thread de Shayan Sardarizadeh, journaliste de la BBC: lien vers le post originalet lien vers l&amp;rsquo;archive internet.&#xA;Il me semble maintenant acquis pour (presque) tout le monde que les réseaux sociaux sont utilisés comme facteurs d&amp;rsquo;influence. C&amp;rsquo;est le jeu des marques qui placent leurs produits, mais aussi celui de lobbies et de gouvernements qui cherchent à influencer, qui le résultat d&amp;rsquo;un vote, qui l&amp;rsquo;opinion générale sur un sujet ou un autre.</description>
     </item>
     <item>
       <title>Une porte dérobée dans XZ: la grosse vulnérabilité d&#39;internet</title>
-      <link>/articles/xz-incident/</link>
+      <link>//localhost:1313/articles/xz-incident/</link>
       <pubDate>Mon, 01 Apr 2024 15:00:19 +0000</pubDate>
-      <guid>/articles/xz-incident/</guid>
+      <guid>//localhost:1313/articles/xz-incident/</guid>
       <description>Week-end de Pâques 2024. Un événement qui passe inaperçu aux yeux de la plupart des gens secoue la communauté #infosec (les experts en sécurité informatique). Un accès caché a (presque) été ajouté à un outil qui gère les connexions sécurisées sur la plupart des serveurs de sites web ou applications.&#xA;Les conséquences auraient pu être dramatiques : Internet n’aurait plus été sécurisé — impossible de faire confiance à un site web, que ce soit votre banque ou l’accès à vos emails.</description>
     </item>
     <item>
       <title>DREAM, un outil de développement narratif des personnages.</title>
-      <link>/articles/dream-outil-ecriture/</link>
+      <link>//localhost:1313/articles/dream-outil-ecriture/</link>
       <pubDate>Thu, 14 Mar 2024 17:50:19 +0000</pubDate>
-      <guid>/articles/dream-outil-ecriture/</guid>
+      <guid>//localhost:1313/articles/dream-outil-ecriture/</guid>
       <description>DREAM est un outil pour développer les arcs narratifs des personnages À la base de toutes les histoires, il y a les personnages, leurs besoins et leurs désirs. Au début, ils sont dans un certain état (leur situation sociale, leur vision du monde, leur entourage, etc.), et, passés les rebondissements de l&amp;rsquo;aventure qu&amp;rsquo;ils vivent tout au long du roman (de la nouvelle, de la blague), ils en ressortent changés.&#xA;Cette évolution du personnage, les anglophones l&amp;rsquo;appellent character arc.</description>
     </item>
     <item>
       <title>L&#39;ébauche découverte: écrire son premier jet sans corriger.</title>
-      <link>/articles/ebauche-decouverte/</link>
+      <link>//localhost:1313/articles/ebauche-decouverte/</link>
       <pubDate>Wed, 28 Feb 2024 12:00:19 +0000</pubDate>
-      <guid>/articles/ebauche-decouverte/</guid>
+      <guid>//localhost:1313/articles/ebauche-decouverte/</guid>
       <description>À l’occasion des enregistrements de notre podcast, nous discutons souvent cuisine interne avec ma complice Catherine Rolland. Comparer les façons de travailler et les habitudes d’écriture est toujours intéressant. Catherine, par exemple, produit des premiers jets de très bonne qualité, qui ne nécessitent que peu de corrections par la suite.&#xA;Et j’en suis incapable.&#xA;Pourtant, dans nos livres, nous proposons tous les deux à nos lecteurs l’éclat d’un texte peaufiné, travaillé et corrigé pour atteindre la meilleure qualité possible.</description>
     </item>
     <item>
       <title>Le bon état d&#39;esprit pour gérer son temps</title>
-      <link>/articles/gerer-son-temps/</link>
+      <link>//localhost:1313/articles/gerer-son-temps/</link>
       <pubDate>Sat, 17 Feb 2024 17:00:19 +0000</pubDate>
-      <guid>/articles/gerer-son-temps/</guid>
+      <guid>//localhost:1313/articles/gerer-son-temps/</guid>
       <description>Quelle est la plus importante des ressources dont nous disposons, vous et moi ? Ce n’est pas l’argent, ce ne sont pas nos connaissances ni nos relations. Notre ressource la plus précieuse est notre temps.&#xA;Le temps passe inexorablement, et l’on ne peut pas en créer de nouveau : une fois « dépensé », il est impossible de le récupérer. Quand on y réfléchit, toutes les autres ressources peuvent être recréées ou fabriquées (avec du temps).</description>
     </item>
     <item>
       <title>S01-E04 — Alterfictions, le festival: les interviews</title>
-      <link>/articles/s01-e04-alterfictions-le-festival-les-interviews/</link>
+      <link>//localhost:1313/articles/s01-e04-alterfictions-le-festival-les-interviews/</link>
       <pubDate>Wed, 14 Feb 2024 19:00:00 +0000</pubDate>
-      <guid>/articles/s01-e04-alterfictions-le-festival-les-interviews/</guid>
+      <guid>//localhost:1313/articles/s01-e04-alterfictions-le-festival-les-interviews/</guid>
       <description>En novembre 2023, nous avons eu le privilège de participer au tout nouveau festival littéraire Alterfictions.</description>
     </item>
     <item>
       <title>Trouver le temps d&#39;écrire</title>
-      <link>/articles/trouver-le-temps-decrire/</link>
+      <link>//localhost:1313/articles/trouver-le-temps-decrire/</link>
       <pubDate>Wed, 14 Feb 2024 17:00:57 +0000</pubDate>
-      <guid>/articles/trouver-le-temps-decrire/</guid>
+      <guid>//localhost:1313/articles/trouver-le-temps-decrire/</guid>
       <description>En 2011, j’avais une superbe idée pour un thriller technologique. Je ne savais pas comment m’y prendre, et jamais je n’avais attaqué un aussi gros projet d’écriture. J’imaginais qu’il me faudrait six à huit mois pour finir le livre. Trois ans plus tard, je publiais ce qui allait devenir mon premier roman : Totem.&#xA;Après des débuts intéressants (« Wow ! D’autres personnes que la famille et les amis sont intéressés !</description>
     </item>
     <item>
       <title>Si vous ne lisez que quelques livres en 2024, lisez ceux-là.</title>
-      <link>/articles/si-vous-ne-lisez-que-quelques-livres-en-2024-lisez-ceux-la/</link>
+      <link>//localhost:1313/articles/si-vous-ne-lisez-que-quelques-livres-en-2024-lisez-ceux-la/</link>
       <pubDate>Wed, 07 Feb 2024 17:50:03 +0000</pubDate>
-      <guid>/articles/si-vous-ne-lisez-que-quelques-livres-en-2024-lisez-ceux-la/</guid>
+      <guid>//localhost:1313/articles/si-vous-ne-lisez-que-quelques-livres-en-2024-lisez-ceux-la/</guid>
       <description>Quelques livres que je recommande pour 2024, fiction et non fiction.</description>
     </item>
     <item>
       <title>S01-E03 — Expériences de salon et dédicaces</title>
-      <link>/articles/podcast-s01e03/</link>
+      <link>//localhost:1313/articles/podcast-s01e03/</link>
       <pubDate>Wed, 31 Jan 2024 19:28:00 +0000</pubDate>
-      <guid>/articles/podcast-s01e03/</guid>
+      <guid>//localhost:1313/articles/podcast-s01e03/</guid>
       <description>L&amp;rsquo;expérience des auteurs avec leurs lecteurs: rencontres, dédicaces, commentaires. Comment Catherine et Cyril voient leur rapport au lecteur ? Ont-ils des anecdotes croustillantes à rapporter ? Comment gérer les commentaires parfois très négatifs ?&#xA;Ce nouvel épisode nous permet d&amp;rsquo;aborder ces sujets sous un format simple et sur un mode de conversation. Commentez, likez, partagez ! Faites-nous connaitre si vous appréciez notre travail, merci !&#xA;https://www.youtube.com/watch?v=1WNxfe35_Wg </description>
     </item>
     <item>
       <title>J&#39;écris quand même.</title>
-      <link>/articles/j-ecris-quand-meme/</link>
+      <link>//localhost:1313/articles/j-ecris-quand-meme/</link>
       <pubDate>Wed, 31 Jan 2024 17:14:54 +0000</pubDate>
-      <guid>/articles/j-ecris-quand-meme/</guid>
+      <guid>//localhost:1313/articles/j-ecris-quand-meme/</guid>
       <description>Ecrire, c&amp;rsquo;est dur. Surtout quand on a l&amp;rsquo;impression que ce que l&amp;rsquo;on produit n&amp;rsquo;est pas bon.&#xA;Mais ce jugement de valeur a-t-il un réel fondement ?</description>
     </item>
     <item>
       <title>Le projet en cours, Duo de plumes et des liens d&#39;intérêt — 0224</title>
-      <link>/articles/dlm0224/</link>
+      <link>//localhost:1313/articles/dlm0224/</link>
       <pubDate>Sun, 28 Jan 2024 15:00:09 +0000</pubDate>
-      <guid>/articles/dlm0224/</guid>
+      <guid>//localhost:1313/articles/dlm0224/</guid>
       <description>Dans ce numéro, le GAHELIG, les dernières nouvelles de l’écriture de Timeskippers 2 et de mon prochain thriller, l’origine des idées, et les livres et articles qui m’ont intéressé ce mois-ci.</description>
     </item>
     <item>
       <title>La collision des idées</title>
-      <link>/articles/la-collision-des-idees/</link>
+      <link>//localhost:1313/articles/la-collision-des-idees/</link>
       <pubDate>Sat, 27 Jan 2024 18:00:40 +0000</pubDate>
-      <guid>/articles/la-collision-des-idees/</guid>
+      <guid>//localhost:1313/articles/la-collision-des-idees/</guid>
       <description>« Mais d&amp;rsquo;où viennet toutes vos idées ? » Cette question et ces variantes est l&amp;rsquo;une de celle qui revient le plus souvent lors des rencontres avec mes lecteurs.&#xA;Et c&amp;rsquo;est une bonne question.</description>
     </item>
     <item>
       <title>S01-E02 — Inspiration(s), bonnes et mauvaises idées ?</title>
-      <link>/articles/podcast-s01e02/</link>
+      <link>//localhost:1313/articles/podcast-s01e02/</link>
       <pubDate>Wed, 17 Jan 2024 19:00:00 +0000</pubDate>
-      <guid>/articles/podcast-s01e02/</guid>
+      <guid>//localhost:1313/articles/podcast-s01e02/</guid>
       <description>Deuxième épisode du podcast Duo de plumes que je produis avec Catherine Rolland. Nous développons la thématique autour de la question que tous les auteurs ont de manière régulière lors des rencontres avec leurs lecteurs: « mais d&amp;rsquo;où viennent toutes vos idées ? »&#xA;Ainsi, nous comparons nos façons de faire, discutons de ce qui fonctionne ou pas (en tout cas pour nous), dans un format de conversation sobre et où on a tout de même quelques fous rires.</description>
     </item>
     <item>
       <title>Fantastique, podcast et liens intéressants — 0124</title>
-      <link>/articles/dlm0124/</link>
+      <link>//localhost:1313/articles/dlm0124/</link>
       <pubDate>Sun, 07 Jan 2024 10:00:31 +0000</pubDate>
-      <guid>/articles/dlm0124/</guid>
+      <guid>//localhost:1313/articles/dlm0124/</guid>
       <description>Meilleurs vœux !&#xA;Avec cette nouvelle année viennent quelques changements. J’ai trouvé un nouvel endroit pour héberger à la fois mon site et cette newsletter. Si vous ne voulez plus recevoir Dans les marges, sentez-vous libre de vous désinscrire. Bien entendu, j’espère que vous ne le ferez pas !&#xA;Je suis Cyril Vallée, et vous recevez ce mail parce que vous êtes abonné à Dans les marges, ma newsletter. Merci de faire partie de ma communauté !</description>
     </item>
     <item>
       <title>S01-E01 — Les auteurs se présentent</title>
-      <link>/articles/podcast-s01e01/</link>
+      <link>//localhost:1313/articles/podcast-s01e01/</link>
       <pubDate>Wed, 03 Jan 2024 19:50:00 +0000</pubDate>
-      <guid>/articles/podcast-s01e01/</guid>
+      <guid>//localhost:1313/articles/podcast-s01e01/</guid>
       <description>Pour ce tout premier épisode du podcast Duo de plumes, nous avons décidé de faire les présentations au format détourné du speed-dating. Des questions-réponses rapides et drôles ou surprenantes, qui nous amènent à discuter des thématiques qui nous sont chères : les premiers écrits, la maison d’édition de nos rêves, le syndrome de l’imposteur…&#xA;Vous pouvez vous abonner sur la plateforme d’écoute de votre choix, ou vous rendre sur le site du podcast, ou encore visionner l’épisode ici.</description>
     </item>
     <item>
       <title>Structurer son récit : the foolscap method</title>
-      <link>/articles/structurer-son-recit-the-foolscap-method/</link>
+      <link>//localhost:1313/articles/structurer-son-recit-the-foolscap-method/</link>
       <pubDate>Sun, 24 Dec 2023 16:36:29 +0000</pubDate>
-      <guid>/articles/structurer-son-recit-the-foolscap-method/</guid>
+      <guid>//localhost:1313/articles/structurer-son-recit-the-foolscap-method/</guid>
       <description>J&amp;rsquo;imagine que tous les écrivains ont une boite à outils qui leur est personnelle. Comme moi, ils la constituent en voyant ce que font les autres et comment ils travaillent, en prenant des &amp;ldquo;morceaux de méthode&amp;rdquo; chez l&amp;rsquo;un rabouté avec un autre morceau chez l&amp;rsquo;autre, et surtout en se confrontant à la réalité, devant son propre clavier.&#xA;J&amp;rsquo;ai découvert aussi que j&amp;rsquo;étais dans la catégorie plotter, de ceux qui ont besoin d&amp;rsquo;une structure – dans mon cas, détaillée – pour commencer à écrire.</description>
     </item>
     <item>
       <title>D&#39;où viennent les personnages de fiction ?</title>
-      <link>/articles/dou-viennent-les-personnages-de-fiction/</link>
+      <link>//localhost:1313/articles/dou-viennent-les-personnages-de-fiction/</link>
       <pubDate>Thu, 21 Dec 2023 14:40:50 +0000</pubDate>
-      <guid>/articles/dou-viennent-les-personnages-de-fiction/</guid>
+      <guid>//localhost:1313/articles/dou-viennent-les-personnages-de-fiction/</guid>
       <description>Ces idées sont une transcription maladroite de celles de Cory Doctorow, invité du célèbre podcast Writing Excuses. Au passage, ce podcast mérite votre attention si vous vous débrouillez en anglais. Il regorge d’expériences et d’idées, est d&amp;rsquo;un format court (c’est l’un des concepts : il dure moins de quinze minutes), et il est très instructif.&#xA;La question de base que s’est posée Cory Doctorow est plus précisément : pourquoi éprouvons-nous des sentiments pour les personnages de fiction ?</description>
     </item>
     <item>
       <title>Bande annonce</title>
-      <link>/articles/bande-annonce/</link>
+      <link>//localhost:1313/articles/bande-annonce/</link>
       <pubDate>Sat, 02 Dec 2023 18:23:00 +0000</pubDate>
-      <guid>/articles/bande-annonce/</guid>
+      <guid>//localhost:1313/articles/bande-annonce/</guid>
       <description>Le podcast is the new black.&#xA;Plus sérieusement, je consomme beaucoup de podcast. C&amp;rsquo;est un format intéressant et varié, et qui permet d&amp;rsquo;aborder de nombreux sujets sous des formats très variés. Beaucoup de ceux que j&amp;rsquo;écoute concernent la littérature, la création littéraire, le côté business et le côté créatif.&#xA;Pourtant, je ne trouvais pas vraiment d&amp;rsquo;émission sur les coulisses de la création, par des écrivains, mais aussi des blogueurs littéraires, des éditeurs, ou d&amp;rsquo;autres acteurs de la grande chaîne du livre.</description>
     </item>
     <item>
       <title>Retour sur le festival Alterfictions</title>
-      <link>/articles/retour-sur-le-festival-alterfictions/</link>
+      <link>//localhost:1313/articles/retour-sur-le-festival-alterfictions/</link>
       <pubDate>Mon, 27 Nov 2023 16:20:00 +0000</pubDate>
-      <guid>/articles/retour-sur-le-festival-alterfictions/</guid>
+      <guid>//localhost:1313/articles/retour-sur-le-festival-alterfictions/</guid>
       <description>Le festival littéraire Alterfictions a eu lieu les 18 et 19 novembre 2023 dans sa première édition, dans le château d’Yverdon, en Suisse. J’ai eu la chance d’y participer et je dois bien dire que j’ai vraiment passé un superbe week-end.&#xA;Le concept, novateur Casser les codes, c’était le but de ce festival d’un autre genre (vanne intentionnelle). Il s’agissait pour une fois de disposer l’ensemble des livres proposés par les 77 auteurs sur des tables regroupant différents genres.</description>
     </item>
     <item>
       <title>Lectures d’été — 2023</title>
-      <link>/articles/lectures2023/</link>
+      <link>//localhost:1313/articles/lectures2023/</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/articles/lectures2023/</guid>
+      <guid>//localhost:1313/articles/lectures2023/</guid>
       <description>.</description>
     </item>
     <item>
       <title>Ma présence au festival Alterficions les 18 et 19 novembre 2023</title>
-      <link>/articles/alterfictions-2023/</link>
+      <link>//localhost:1313/articles/alterfictions-2023/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/articles/alterfictions-2023/</guid>
+      <guid>//localhost:1313/articles/alterfictions-2023/</guid>
       <description>Vous pourrez venir me rencontrer dans ce superbe lieu qu’est le château d’Yverdon, avec des dizaines d’autres écrivains et notamment les auteurs du GAHELIG.&#xA;J’ai hâte d’y être et de rencontrer les lecteurs et auteurs qui seront de la partie. Le concept est novateur et intéressant ; il devrait favoriser le partage et l’interaction avec les visiteurs. Je ne sais pas encore les détails et horaires de présence pour les dédicaces, que je publierais ici même dès que possible.</description>
     </item>
     <item>
       <title>Redonner du temps à l&#39;essentiel</title>
-      <link>/articles/redonner-du-temps-a-lessentiel/</link>
+      <link>//localhost:1313/articles/redonner-du-temps-a-lessentiel/</link>
       <pubDate>Thu, 21 Sep 2023 15:44:00 +0000</pubDate>
-      <guid>/articles/redonner-du-temps-a-lessentiel/</guid>
+      <guid>//localhost:1313/articles/redonner-du-temps-a-lessentiel/</guid>
       <description>Ces derniers temps, lorsque j’ouvre mon ordinateur, je me sens dépassé, confronté au problème de mon rapport au temps : j’ai tellement à faire, et si peu de temps ! Il en ressort un stress qui n’est vraiment pas nécessaire et même, dans mon cas, délétère d’un point de vue créatif. Depuis lors, il m&amp;rsquo;arrive de rester bloqué devant mon fichier ouvert, incapable d’avancer sur le projet en cours. Et cela devient même pire : je me retrouve à tout faire sauf terminer mon manuscrit, écoutant la voix convaincante de la Resistance, trouvant n’importe quel moyen de procrastiner.</description>
     </item>
     <item>
       <title>Je rejoins le groupe des auteurs helvétiques de littérature de genre (GAHELIG)</title>
-      <link>/articles/gahelig/</link>
+      <link>//localhost:1313/articles/gahelig/</link>
       <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/articles/gahelig/</guid>
+      <guid>//localhost:1313/articles/gahelig/</guid>
       <description>Je fais partie depuis l&amp;rsquo;été du Gahelig, groupe des auteurs helvétiques de littérature de genre.</description>
     </item>
     <item>
       <title>Notes du 31 janvier au 5 février 2023</title>
-      <link>/articles/notes-2023-01-30to2023-02-05/</link>
+      <link>//localhost:1313/articles/notes-2023-01-30to2023-02-05/</link>
       <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>/articles/notes-2023-01-30to2023-02-05/</guid>
+      <guid>//localhost:1313/articles/notes-2023-01-30to2023-02-05/</guid>
       <description>Dans l&amp;rsquo;idée promue par Austin Kleon (et d&amp;rsquo;autres, comme Shawn Blanc ou CJ Chilvers) du Show your Work, je pose ici quelques notes publiques, juste à des fins de documentation, sur ce que j&amp;rsquo;ai fait (hors daily job), vu ou lu dans la semaine.&#xA;Lundi 2023-01-30 Journée de formation assez intense (en simulation médicale). Les projets perso sont donc mis entre parenthèses pour la semaine, plus ou moins.&#xA;803 mots sur Timeskippers: livre 2.</description>
     </item>
     <item>
       <title>Notes du 23 au 30 Janvier 2023</title>
-      <link>/articles/notes-2023-01-23to30/</link>
+      <link>//localhost:1313/articles/notes-2023-01-23to30/</link>
       <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/articles/notes-2023-01-23to30/</guid>
+      <guid>//localhost:1313/articles/notes-2023-01-23to30/</guid>
       <description>Dans l&amp;rsquo;idée promue par Austin Kleon (et d&amp;rsquo;autres, comme Shawn Blanc ou CJ Chilvers) du Show your Work, je pose ici quelques notes publiques, juste à des fins de documentation, sur ce que j&amp;rsquo;ai fait (hors daily job), vu ou lu dans la semaine.&#xA;Lundi 2023-01-23 vu la conférence de Ploum au Capitole du Libre : https://invidious.fdn.fr/watch?v=YiwEcCK_lQU Mercredi 2023-01-25 Je découvre le podcast de Tristan Nitot, l&amp;rsquo;Octet Vert, avec plein de chouettes interviews dedans.</description>
     </item>
     <item>
       <title>De la fenêtre du train.</title>
-      <link>/articles/breve-01/</link>
+      <link>//localhost:1313/articles/breve-01/</link>
       <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/articles/breve-01/</guid>
+      <guid>//localhost:1313/articles/breve-01/</guid>
       <description>Le coucher de soleil au-dessus de la campagne fribourgeoise, vu depuis la fenêtre d&amp;rsquo;un train.</description>
     </item>
     <item>
       <title>Notes du 16 au 22 Janvier 2023</title>
-      <link>/articles/notes-2023-01-16to22/</link>
+      <link>//localhost:1313/articles/notes-2023-01-16to22/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/articles/notes-2023-01-16to22/</guid>
+      <guid>//localhost:1313/articles/notes-2023-01-16to22/</guid>
       <description>Dans l&amp;rsquo;idée promue par Austin Kleon (et d&amp;rsquo;autres, comme Shawn Blanc ou CJ Chilvers) du Show your Work, je pose ici quelques notes publiques, juste à des fins de documentation.&#xA;Lundi 2023-01-16 La semaine s&amp;rsquo;annonce sur les chapeaux de roue du point de vue pro.&#xA;Fini l&amp;rsquo;installation de Manjaro sur le vieux MacBook Pro Commencé Les oiseaux du temps de Amal El-Mohtar Retouche du plan pour la fin de Timeskippers : livre II.</description>
     </item>
     <item>
       <title>Scrivener minimaliste</title>
-      <link>/articles/scrivener-minimaliste/</link>
+      <link>//localhost:1313/articles/scrivener-minimaliste/</link>
       <pubDate>Fri, 20 Jan 2023 23:00:00 +0000</pubDate>
-      <guid>/articles/scrivener-minimaliste/</guid>
+      <guid>//localhost:1313/articles/scrivener-minimaliste/</guid>
       <description>Quelques réglages pour faire de Scrivener un environnement d&amp;rsquo;écriture minimaliste.</description>
     </item>
     <item>
       <title>Migration sur Mastodon, un sentiment de liberté.</title>
-      <link>/articles/mastodon/</link>
+      <link>//localhost:1313/articles/mastodon/</link>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>/articles/mastodon/</guid>
+      <guid>//localhost:1313/articles/mastodon/</guid>
       <description>Mon premier contact avec Mastodon était en 2017. Mais je n&amp;rsquo;avais pas vraiment compris l&amp;rsquo;intérêt ni le concept idéologique sous-jacent.</description>
     </item>
     <item>
       <title>Se donner du temps</title>
-      <link>/articles/essentiel/</link>
+      <link>//localhost:1313/articles/essentiel/</link>
       <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>/articles/essentiel/</guid>
+      <guid>//localhost:1313/articles/essentiel/</guid>
       <description>Le sentiment d&amp;rsquo;être submergé par l&amp;rsquo;ampleur de la tâche peut être jugulé en se recentrant sur l&amp;rsquo;essentiel.</description>
     </item>
     <item>
       <title>Robots</title>
-      <link>/articles/les-robots-font-ils-peur/</link>
+      <link>//localhost:1313/articles/les-robots-font-ils-peur/</link>
       <pubDate>Sat, 26 Feb 2022 21:10:00 +0000</pubDate>
-      <guid>/articles/les-robots-font-ils-peur/</guid>
+      <guid>//localhost:1313/articles/les-robots-font-ils-peur/</guid>
       <description>La démo de Boston Dynamics me pose question. Doit-on avoir peur des robots ?</description>
     </item>
     <item>
       <title>Decouvrez La Couverture De Totem</title>
-      <link>/articles/decouvrez-la-couverture-de-totem/</link>
+      <link>//localhost:1313/articles/decouvrez-la-couverture-de-totem/</link>
       <pubDate>Thu, 14 Oct 2021 18:35:06 +0100</pubDate>
-      <guid>/articles/decouvrez-la-couverture-de-totem/</guid>
+      <guid>//localhost:1313/articles/decouvrez-la-couverture-de-totem/</guid>
       <description>La ré-édition de mon thriller est l&amp;rsquo;occasion rêvée d&amp;rsquo;un nouveau visuel et d&amp;rsquo;une nouvelle couverture.</description>
     </item>
     <item>
       <title>La Douzieme Victime Nouvelle Edition</title>
-      <link>/articles/la-douzieme-victime-nouvelle-edition/</link>
+      <link>//localhost:1313/articles/la-douzieme-victime-nouvelle-edition/</link>
       <pubDate>Sat, 02 Oct 2021 18:35:46 +0100</pubDate>
-      <guid>/articles/la-douzieme-victime-nouvelle-edition/</guid>
+      <guid>//localhost:1313/articles/la-douzieme-victime-nouvelle-edition/</guid>
       <description>La maison d&amp;rsquo;édition Heartless doit fermer ses portes. Quelle seconde vie pour mon thriller ?</description>
     </item>
     <item>
       <title>Mare of Easttown</title>
-      <link>/articles/mare-of-easttown/</link>
+      <link>//localhost:1313/articles/mare-of-easttown/</link>
       <pubDate>Tue, 15 Jun 2021 21:10:00 +0000</pubDate>
-      <guid>/articles/mare-of-easttown/</guid>
+      <guid>//localhost:1313/articles/mare-of-easttown/</guid>
       <description>Avis à chaud après le visionnage de la mini-série. Qu&amp;rsquo;est-ce qui m&amp;rsquo;a fait autant l&amp;rsquo;apprécier ?</description>
     </item>
     <item>
       <title>L’importance de la manière de dire les choses</title>
-      <link>/articles/limportance-de-la-maniere-de-dire-les-choses/</link>
+      <link>//localhost:1313/articles/limportance-de-la-maniere-de-dire-les-choses/</link>
       <pubDate>Tue, 08 Jun 2021 19:00:00 +0000</pubDate>
-      <guid>/articles/limportance-de-la-maniere-de-dire-les-choses/</guid>
+      <guid>//localhost:1313/articles/limportance-de-la-maniere-de-dire-les-choses/</guid>
       <description>Note rapide sur l&amp;rsquo;affichage d&amp;rsquo;une certaine confiance en soi dans la communication.</description>
     </item>
     <item>
       <title>La règle de Raymond Chandler</title>
-      <link>/articles/la-regle-de-raymond-chandler/</link>
+      <link>//localhost:1313/articles/la-regle-de-raymond-chandler/</link>
       <pubDate>Tue, 08 Jun 2021 17:18:21 +0000</pubDate>
-      <guid>/articles/la-regle-de-raymond-chandler/</guid>
+      <guid>//localhost:1313/articles/la-regle-de-raymond-chandler/</guid>
       <description>L’écrivain américain Raymond Chandler avait l’habitude d’écrire sur de petites cartes cartonnées (les index cards au format A7). Il les utilisait directement dans sa machine à écrire.&#xA;Il suivait une unique règle : quelque chose devait se passer sur chaque carte, ce qui l’entrainait à être précis et direct. L’équivalent moderne pourrait s’articuler ainsi : on doit s’assurer que le lecteur a une épiphanie tous les deux cent cinquante mots. Cela rend l’écriture plus concise et efficace.</description>
     </item>
     <item>
       <title>2020 en livres</title>
-      <link>/articles/lectures-2020/</link>
+      <link>//localhost:1313/articles/lectures-2020/</link>
       <pubDate>Sun, 27 Dec 2020 13:56:01 -0800</pubDate>
-      <guid>/articles/lectures-2020/</guid>
+      <guid>//localhost:1313/articles/lectures-2020/</guid>
       <description>La liste de ce que j’ai lu pour l’année 2020 porte le compte à 35. C’est plus que l’an dernier (28), mais loin de l’objectif que je m’étais fixé de un livre par semaine.&#xA;&amp;lt;iframe title=&amp;quot;&amp;quot; aria-label=&amp;quot;Diagramme en barres&amp;quot; id=&amp;quot;datawrapper-chart-vAwvS&amp;quot; src=&amp;quot;https://datawrapper.dwcdn.net/vAwvS/3/&amp;quot; scrolling=&amp;quot;no&amp;quot; frameborder=&amp;quot;0&amp;quot; style=&amp;quot;width: 0; min-width: 100% !important; border: none;&amp;quot; height=&amp;quot;169&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&amp;lt;script type=&amp;quot;text/javascript&amp;quot;&amp;gt;!function(){&amp;quot;use strict&amp;quot;;window.addEventListener(&amp;quot;message&amp;quot;,(function(e){if(void 0!==e.data[&amp;quot;datawrapper-height&amp;quot;]){var t=document.querySelectorAll(&amp;quot;iframe&amp;quot;);for(var a in e.data[&amp;quot;datawrapper-height&amp;quot;])for(var r=0;r&amp;lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&amp;quot;datawrapper-height&amp;quot;][a]+&amp;quot;px&amp;quot;}}}))}(); &amp;lt;/script&amp;gt; La répartition ebook/livre papier est de 11/24, moins que ce que j’imaginais.</description>
     </item>
     <item>
       <title>The War of Art de Steven Pressfield</title>
-      <link>/articles/lecture-the-war-of-art-steven-pressfield/</link>
+      <link>//localhost:1313/articles/lecture-the-war-of-art-steven-pressfield/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/articles/lecture-the-war-of-art-steven-pressfield/</guid>
+      <guid>//localhost:1313/articles/lecture-the-war-of-art-steven-pressfield/</guid>
       <description>ISBN: 1936891026 Lu le: 30 août 2017 Combien je le recommande: 9/10 C&amp;rsquo;est la définition de ce qui m&amp;rsquo;empêche d&amp;rsquo;avancer dans mon travail créatif. Pressfield définit la Résistance, une entité qui s&amp;rsquo;insinue partout dans nos vies et nous empêche de faire ce que nous devons vraiment faire.&#xA;Ce livre à vraiment résonné chez moi. À relire régulièrement.&#xA;Peu de notes, car tout est bon.&#xA;Mes notes : The awakening artist must be ruthless, not only with herself but with others.</description>
     </item>
     <item>
       <title>La loi de Goodhart</title>
-      <link>/articles/la-loi-de-goodhart/</link>
+      <link>//localhost:1313/articles/la-loi-de-goodhart/</link>
       <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/articles/la-loi-de-goodhart/</guid>
+      <guid>//localhost:1313/articles/la-loi-de-goodhart/</guid>
       <description>J&amp;rsquo;ai pris l&amp;rsquo;habitude de compter le nombre de mots (ou de signes, selon qu&amp;rsquo;on mesure à la française ou à l&amp;rsquo;anglo-saxonne) lors de mes sessions d&amp;rsquo;écriture. Cela me permet de marquer mes progrès et d&amp;rsquo;avoir une trace de ce que je fais, le but étant de conserver une certaine inertie, une lancée qui me permet d&amp;rsquo;aller au bout de mon manuscrit.&#xA;À un moment, c&amp;rsquo;était même devenu une obsession : j&amp;rsquo;avais toute une série de scripts pour compter ces mots dans mes documents Google Docs.</description>
     </item>
     <item>
       <title>Ne soyez pas un chimpanzé conformiste</title>
-      <link>/articles/ne-soyez-pas-un-chimpanze-conformiste/</link>
+      <link>//localhost:1313/articles/ne-soyez-pas-un-chimpanze-conformiste/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/articles/ne-soyez-pas-un-chimpanze-conformiste/</guid>
+      <guid>//localhost:1313/articles/ne-soyez-pas-un-chimpanze-conformiste/</guid>
       <description>Une étude a montré que lorsqu’un chimpanzé d’un certain groupe découvrait une manière efficace d’ouvrir les noix et change ensuite pour un groupe qui emploie une stratégie moins efficace, il va éviter d’utiliser sa méthode, pourtant supérieure, juste pour se mêler au reste des chimpanzés.&#xA;Les êtres humains sont similaires. Dans notre for intérieur, il existe une pression incroyable nous poussant à nous conformer aux normes du groupe. La plupart du temps, nous préférons avoir tort avec les autres plutôt qu’être le seul à avoir raison.</description>
     </item>
     <item>
       <title>Le faux raisonnement de planification</title>
-      <link>/articles/le-faux-raisonnement-de-planification/</link>
+      <link>//localhost:1313/articles/le-faux-raisonnement-de-planification/</link>
       <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/articles/le-faux-raisonnement-de-planification/</guid>
+      <guid>//localhost:1313/articles/le-faux-raisonnement-de-planification/</guid>
       <description>Les gens sous-estiment si souvent le temps qu&amp;rsquo;il faut pour accomplir les tâches que les psychologues ont trouvé un nom pour cela : l&amp;rsquo;erreur de planification (the planning fallacy). Nicholas Epley, Mindwise : How We Understand What Others Think, Believe, Feel and Want.&#xA;Je suis bien obligé de reconnaître le problème, trainant depuis plus d&amp;rsquo;un an sur le manuscrit de Timeskippers.</description>
     </item>
     <item>
       <title>Persévérer et résister</title>
-      <link>/articles/perseverer-et-resister/</link>
+      <link>//localhost:1313/articles/perseverer-et-resister/</link>
       <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/articles/perseverer-et-resister/</guid>
+      <guid>//localhost:1313/articles/perseverer-et-resister/</guid>
       <description>Je relis mes notes de L’obstacle est le chemin de Ryan Holiday, où il écrit :&#xA;« La persévérance et la persistance sont des atouts incroyables. Au bout d’un moment, après avoir tenté toutes les options traditionnelles, on se retrouve à essayer quelque chose d’inédit. »&#xA;En persistant dans un défi qu’on s’est lancé, on épuise toutes les solutions qui mènent à l’échec, jusqu’à découvrir une solution innovante qui mène au succès.</description>
     </item>
     <item>
       <title>La création des habitudes.</title>
-      <link>/articles/la-creation-des-habitudes/</link>
+      <link>//localhost:1313/articles/la-creation-des-habitudes/</link>
       <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/articles/la-creation-des-habitudes/</guid>
+      <guid>//localhost:1313/articles/la-creation-des-habitudes/</guid>
       <description>Pour être plus précis, la création de bonnes habitudes, auxquelles j’essaie de me conformer pour plus y penser, est à la fois essentielle et difficile à acquérir. Une bonne habitude peut amener à un objectif bien plus rapidement et facilement que de se forcer à faire quelque chose par à coups.&#xA;Se créer de bonnes habitudes est très important.&#xA;Comme celle d’écrire tous les jours (ou, plus pragmatique, l’idée de toucher son manuscrit / histoire tous les jours), en encore rester constant dans la pratique de la méditation.</description>
     </item>
     <item>
       <title>Capables du pire comme du meilleur</title>
-      <link>/articles/capables-du-pire-comme-du-meilleur/</link>
+      <link>//localhost:1313/articles/capables-du-pire-comme-du-meilleur/</link>
       <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/articles/capables-du-pire-comme-du-meilleur/</guid>
+      <guid>//localhost:1313/articles/capables-du-pire-comme-du-meilleur/</guid>
       <description>Comment accorder le fait que les relations humaines peuvent apporter à la fois le meilleur et le pire dans la vie ?&#xA;Nous sommes des êtres sociaux, et nous avons besoin des autres pour être pleinement épanouis. Pourtant, ces relations peuvent nous apporter les pires moments comme le bonheur dans nos vies. Cette contradiction n’est pas si difficile à comprendre. Comme tout ce qui est important, ces relations peuvent nous rendre extrêmement heureux quand elles se passent bien, et dépressifs quand elles ne fonctionnent pas.</description>
     </item>
     <item>
       <title>Pour vaincre la Résistance, en prendre conscience</title>
-      <link>/articles/pour-vaincre-la-resistance-en-prendre-conscience/</link>
+      <link>//localhost:1313/articles/pour-vaincre-la-resistance-en-prendre-conscience/</link>
       <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/articles/pour-vaincre-la-resistance-en-prendre-conscience/</guid>
+      <guid>//localhost:1313/articles/pour-vaincre-la-resistance-en-prendre-conscience/</guid>
       <description>Depuis quelque temps, je lutte pour progresser dans mes projets, notamment d’écriture. J’ai beau me mettre devant l’écran, je trouve toujours autre chose à faire que terminer ces projets en cours.&#xA;Je suis devenu une déité de la procrastination.&#xA;Hier, mon application de podcast préférée1 a fait remonter dans ma liste un épisode du podcast de Tim Ferris datant de 2016, durant lequel il interviewait Seth Godin. Jusqu’à ce jour, c’est l’un des épisodes les plus téléchargés.</description>
     </item>
     <item>
       <title>Turning Pro de Steven Pressfield</title>
-      <link>/articles/lecture-turning-pro-de-steven-pressfield/</link>
+      <link>//localhost:1313/articles/lecture-turning-pro-de-steven-pressfield/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/articles/lecture-turning-pro-de-steven-pressfield/</guid>
+      <guid>//localhost:1313/articles/lecture-turning-pro-de-steven-pressfield/</guid>
       <description>La trilogie de Pressfield © Stuart Mc Millen&#xA;C&amp;rsquo;est la suite logique de The War of Art du même auteur. Ce petit livre décrit le moment où l&amp;rsquo;on décide de vaincre ce que Pressfield nomme la Resistance, et qui nous empêche de faire ce que l&amp;rsquo;on doit faire. Devenir pro, c&amp;rsquo;est une lutte de tous les jours, une révélation qu&amp;rsquo;on a et qui va nous permettre de finir ce qu&amp;rsquo;on commence (comme un livre, par exemple, mais cela peut s&amp;rsquo;appliquer à tous les domaines de la création.</description>
     </item>
     <item>
       <title>Aventures au coeur de la mémoire de Joshua Foer</title>
-      <link>/articles/lecture-aventures-au-coeur-de-la-memoire-joshua-foer/</link>
+      <link>//localhost:1313/articles/lecture-aventures-au-coeur-de-la-memoire-joshua-foer/</link>
       <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/articles/lecture-aventures-au-coeur-de-la-memoire-joshua-foer/</guid>
+      <guid>//localhost:1313/articles/lecture-aventures-au-coeur-de-la-memoire-joshua-foer/</guid>
       <description>Joshua Foer est un journaliste qui s&amp;rsquo;est intéressé au championnat américain de mémoire. Il rencontre alors Ed Cooke qui l&amp;rsquo;initie aux techniques de ces mémorisateurs hors pair, et le journaliste ce prend au jeu.&#xA;Ce livre décrit l&amp;rsquo;année qui suit, depuis les premiers entraînements jusqu&amp;rsquo;au jour du championnat auquel Foer participe et finit par remporter.&#xA;Intéressant parce qu&amp;rsquo;il décrit des techniques de mémorisation et parsème son récit de flashbacks historiques vers des temps où l&amp;rsquo;on apprenait avant tout à mémoriser afin d&amp;rsquo;apprendre.</description>
     </item>
     <item>
       <title>Deux heures de lucidité : Entretiens avec Denis Robert et Weronika Zarachowicz - par Noam Chomsky</title>
-      <link>/articles/lecture-deux-heures-de-lucidite-noam-chomsky/</link>
+      <link>//localhost:1313/articles/lecture-deux-heures-de-lucidite-noam-chomsky/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/articles/lecture-deux-heures-de-lucidite-noam-chomsky/</guid>
+      <guid>//localhost:1313/articles/lecture-deux-heures-de-lucidite-noam-chomsky/</guid>
       <description>Chomsky est controversé en France, mais j&amp;rsquo;ai beaucoup de respect pour Denis Robert, ce qui m&amp;rsquo;a amené vers ce livre avec curiosité. Connu comme un &amp;ldquo;agitateur&amp;rdquo; politique, réputé &amp;ldquo;libertaire&amp;rdquo; et &amp;ldquo;radical&amp;rdquo;, Chomsky développe des idées simples qui montrent l&amp;rsquo;évolution de nos sociétés occidentales et leur orientation &amp;ldquo;vers le privé&amp;rdquo;.&#xA;Dans cet entretien, sont abordés des thèmes aussi variés que les centres de pouvoir, le capitalisme, la démocratie, l&amp;rsquo;économie invisible, ou les médias.</description>
     </item>
     <item>
       <title>Tools of Titans de Tim Ferris</title>
-      <link>/articles/lecture-tools-of-titans-de-tim-ferris/</link>
+      <link>//localhost:1313/articles/lecture-tools-of-titans-de-tim-ferris/</link>
       <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/articles/lecture-tools-of-titans-de-tim-ferris/</guid>
+      <guid>//localhost:1313/articles/lecture-tools-of-titans-de-tim-ferris/</guid>
       <description>Tim Ferris a interviewé 200 personnalités intéressantes dans son podcast (The Tim Ferris Show). A chaque fois, des questions récurrentes concernant leur routine matinale, ou ce leur dernier achat le plus utile pour moins de 100$, par exemple.&#xA;Il en résulte un gros pavé de 700 pages de &amp;ldquo;fiches&amp;rdquo; concentrant ce que ces gens utilisent et qui aurait contribué à leur succès.&#xA;Quelques bonnes trouvailles, des idées à garder, et un peut-être quelques points communs à ressortir de toutes ces interviews.</description>
     </item>
     <item>
       <title>Les règles de Heinlein</title>
-      <link>/articles/les-regles-de-heinlein/</link>
+      <link>//localhost:1313/articles/les-regles-de-heinlein/</link>
       <pubDate>Tue, 14 Feb 2017 10:48:06 +0000</pubDate>
-      <guid>/articles/les-regles-de-heinlein/</guid>
+      <guid>//localhost:1313/articles/les-regles-de-heinlein/</guid>
       <description>Les règles de Heinlein sont presque impossibles à suivre. Vraiment ?</description>
     </item>
     <item>
       <title>Techniques d’écriture, construction d’un récit, ouvrages de référence</title>
-      <link>/articles/techniques-decriture-construction-dun-recit-ouvrages-de-reference/</link>
+      <link>//localhost:1313/articles/techniques-decriture-construction-dun-recit-ouvrages-de-reference/</link>
       <pubDate>Wed, 25 Nov 2015 18:00:01 +0000</pubDate>
-      <guid>/articles/techniques-decriture-construction-dun-recit-ouvrages-de-reference/</guid>
+      <guid>//localhost:1313/articles/techniques-decriture-construction-dun-recit-ouvrages-de-reference/</guid>
       <description>Il y a quelque temps, je tombais sur un article qui faisait la comparaison entre écrivains et artistes.&#xA;L’idée était de penser que l’écrivain était différent de l’artiste au moins en ce sens que le premier commence par essayer de créer un produit fini sans avoir d’abord travaillé chaque qualité individuelle nécessaire à la création du produit final (l’Histoire).&#xA;Un dessinateur va par exemple s’entraîner sur les parties spécifiques, comme les ombres, ou le trait, sans avoir besoin de créer une œuvre à part entière.</description>
     </item>
     <item>
       <title>Comment voler du temps pour écrire ?</title>
-      <link>/articles/comment-voler-du-temps-pour-ecrire/</link>
+      <link>//localhost:1313/articles/comment-voler-du-temps-pour-ecrire/</link>
       <pubDate>Fri, 31 Jul 2015 12:21:15 +0000</pubDate>
-      <guid>/articles/comment-voler-du-temps-pour-ecrire/</guid>
+      <guid>//localhost:1313/articles/comment-voler-du-temps-pour-ecrire/</guid>
       <description>Il y a trois ans, j’avais une superbe idée pour un thriller technologique. Je ne savais pas comment m’y prendre, et jamais je n’avais attaqué un aussi gros projet d’écriture. J’imaginais qu’il me faudrait six à huit mois pour finir le livre. Deux ans plus tard, je publiais Ximera.&#xA;Après des débuts intéressants (« Wow ! D’autres que la famille et les amis sont intéressés ! Wow ! Des commentaires !</description>
     </item>
     <item>
       <title>D&#39;où viennent les personnages de fictions  ?</title>
-      <link>/articles/dou-viennent-les-personnages-de-fictions/</link>
+      <link>//localhost:1313/articles/dou-viennent-les-personnages-de-fictions/</link>
       <pubDate>Sun, 14 Dec 2014 19:03:06 +0000</pubDate>
-      <guid>/articles/dou-viennent-les-personnages-de-fictions/</guid>
+      <guid>//localhost:1313/articles/dou-viennent-les-personnages-de-fictions/</guid>
       <description>Pourquoi on s&amp;rsquo;attache à des personnes dont nous savons qu&amp;rsquo;elles ne sont pas réelles ?</description>
     </item>
     <item>
       <title>7 points-clés où Scrivener m’aide à écrire mes fictions</title>
-      <link>/articles/7-points-cles-ou-scrivener-maide-a-ecrire-mes-fictions/</link>
+      <link>//localhost:1313/articles/7-points-cles-ou-scrivener-maide-a-ecrire-mes-fictions/</link>
       <pubDate>Wed, 09 Apr 2014 19:25:53 +0000</pubDate>
-      <guid>/articles/7-points-cles-ou-scrivener-maide-a-ecrire-mes-fictions/</guid>
+      <guid>//localhost:1313/articles/7-points-cles-ou-scrivener-maide-a-ecrire-mes-fictions/</guid>
       <description>J’ai découvert Scrivener courant 2009 et j’ai rapidement acheté la version 1.4 ; ce logiciel qui peut paraître rebutant aux yeux de certains a réellement changé ma vie d’auteur. Je suis intimement persuadé qu’il a joué un grand rôle dans le fait que j’ai pu finir mon premier gros projet, Ximera.&#xA;Découvrez dans ce court article pourquoi, en sept points fondamentaux.&#xA;1 – Rester organisé et ne rien perdre Je ne m’inquiète plus d’avoir sauvegardé mon texte, du niveau de ma batterie, ou d’un plantage du logiciel (encore que Scrivener n’a jamais planté une seule fois depuis que je l’utilise, toutes versions confondues).</description>
     </item>
     <item>
       <title>Une façon de faire les révisions dans Scrivener</title>
-      <link>/articles/une-facon-de-faire-les-revisions-dans-scrivener/</link>
+      <link>//localhost:1313/articles/une-facon-de-faire-les-revisions-dans-scrivener/</link>
       <pubDate>Sat, 18 Jan 2014 20:41:06 +0000</pubDate>
-      <guid>/articles/une-facon-de-faire-les-revisions-dans-scrivener/</guid>
+      <guid>//localhost:1313/articles/une-facon-de-faire-les-revisions-dans-scrivener/</guid>
       <description>L’idée du premier jet est de ne pas se laisser tenter et de corriger au fur et à mesure que vous racontez votre histoire, mais bien de littéralement « cracher » l’histoire telle qu’elle vous vient, et ceci le plus vite possible. De cette manière, je rentre dans « la zone », et tout ce que je fais, c’est raconter l’histoire, sans m’interrompre sans cesse sur la qualité de ce que j’écris.</description>
     </item>
     <item>
       <title>Ecrire: travailler sur la structure</title>
-      <link>/articles/ecrire-travailler-sur-la-structure/</link>
+      <link>//localhost:1313/articles/ecrire-travailler-sur-la-structure/</link>
       <pubDate>Mon, 23 Dec 2013 13:30:39 +0000</pubDate>
-      <guid>/articles/ecrire-travailler-sur-la-structure/</guid>
+      <guid>//localhost:1313/articles/ecrire-travailler-sur-la-structure/</guid>
       <description>D’après ce que j’ai pu constater, on peut dire qu’il y a deux types d’auteurs : ceux qui ne peuvent commencer à écrire sans avoir une idée précise et un plan de ce qu’ils vont écrire, et ceux qui partent sur une idée, et se laissent « porter par l’histoire ou les personnages ».&#xA;Si vous avez parcouru un peu le site, vous aurez compris que je fais partie des premiers.</description>
     </item>
     <item>
       <title>Comment Cory Doctorow fait-il pour être aussi productif ?</title>
-      <link>/articles/comment-cory-doctorow-fait-il-pour-etre-aussi-productif/</link>
+      <link>//localhost:1313/articles/comment-cory-doctorow-fait-il-pour-etre-aussi-productif/</link>
       <pubDate>Sat, 25 May 2013 18:00:00 +0000</pubDate>
-      <guid>/articles/comment-cory-doctorow-fait-il-pour-etre-aussi-productif/</guid>
+      <guid>//localhost:1313/articles/comment-cory-doctorow-fait-il-pour-etre-aussi-productif/</guid>
       <description>Dans le podcast New Disruptors (2013), l&amp;rsquo;auteur Cory Doctorow explique comment il arrive à produire autant de textes.</description>
     </item>
     <item>
       <title>Scrivener: organiser la structure de ses textes</title>
-      <link>/articles/scrivener-organiser-la-structure-de-ses-textes/</link>
+      <link>//localhost:1313/articles/scrivener-organiser-la-structure-de-ses-textes/</link>
       <pubDate>Sun, 07 Apr 2013 19:12:59 +0000</pubDate>
-      <guid>/articles/scrivener-organiser-la-structure-de-ses-textes/</guid>
+      <guid>//localhost:1313/articles/scrivener-organiser-la-structure-de-ses-textes/</guid>
       <description>À partir d’une certaine longueur, tout texte a besoin d’une structure. C’est particulièrement vrai pour les textes longs (cela vous semble évident pour une thèse scientifique, par exemple), mais également pour tout travail de fiction, et cela va bien au-delà du simple découpage en chapitres.&#xA;Il existe différentes écoles pour structurer une histoire, et vous pouvez tomber sur des méthodes un peu partout sur internet. Mais que vous penchiez pour la structure en 7 points (exposée par Dan Wells) ou le développement d’histoire en 8 points (Randy Ingermanson), la nécessité de structurer son texte est là.</description>
     </item>
     <item>
       <title>Scrivener: adapter comme un environnement minimaliste</title>
-      <link>/articles/scrivener-adapter-comme-un-environnement-minimaliste/</link>
+      <link>//localhost:1313/articles/scrivener-adapter-comme-un-environnement-minimaliste/</link>
       <pubDate>Thu, 21 Mar 2013 23:15:28 +0000</pubDate>
-      <guid>/articles/scrivener-adapter-comme-un-environnement-minimaliste/</guid>
+      <guid>//localhost:1313/articles/scrivener-adapter-comme-un-environnement-minimaliste/</guid>
       <description>Au fil des ans, Scrivener est devenu mon outil de prédilection dès qu’il s’agit de coucher des mots « sur le papier ». Pour être plus précis, si je ne suis pas sur l’un de mes ordinateurs mobiles (comprendre: iPad ou iPhone) et que ce que j’écris va dépasser la petite centaine de mots, cela va se passer dans Scrivener.&#xA;Organiser et réorganiser mes textes, lister et stocker des idées, conserver mes recherches (et les rendre accessibles, trouvables en trois clicks, exportables), depuis la liste des articles pour le blog jusqu’aux romans de plus de 120,000 mots, tout passe maintenant par cet outil, qui rend simplement la vie d’auteur plus facile.</description>
     </item>
   </channel>

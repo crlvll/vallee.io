@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>It on Arveed</title>
-    <link>/tags/it/</link>
+    <link>//localhost:1313/tags/it/</link>
     <description>Recent content in It on Arveed</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
     <lastBuildDate>Mon, 01 Apr 2024 15:00:19 +0000</lastBuildDate>
-    <atom:link href="/tags/it/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/it/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Une porte dérobée dans XZ: la grosse vulnérabilité d&#39;internet</title>
-      <link>/articles/xz-incident/</link>
+      <link>//localhost:1313/articles/xz-incident/</link>
       <pubDate>Mon, 01 Apr 2024 15:00:19 +0000</pubDate>
-      <guid>/articles/xz-incident/</guid>
+      <guid>//localhost:1313/articles/xz-incident/</guid>
       <description>Week-end de Pâques 2024. Un événement qui passe inaperçu aux yeux de la plupart des gens secoue la communauté #infosec (les experts en sécurité informatique). Un accès caché a (presque) été ajouté à un outil qui gère les connexions sécurisées sur la plupart des serveurs de sites web ou applications.&#xA;Les conséquences auraient pu être dramatiques : Internet n’aurait plus été sécurisé — impossible de faire confiance à un site web, que ce soit votre banque ou l’accès à vos emails.</description>
     </item>
   </channel>

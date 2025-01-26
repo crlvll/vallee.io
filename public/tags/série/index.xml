@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Série on Arveed</title>
-    <link>/tags/s%C3%A9rie/</link>
+    <link>//localhost:1313/tags/s%C3%A9rie/</link>
     <description>Recent content in Série on Arveed</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
     <lastBuildDate>Tue, 15 Jun 2021 21:10:00 +0000</lastBuildDate>
-    <atom:link href="/tags/s%C3%A9rie/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/s%C3%A9rie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mare of Easttown</title>
-      <link>/articles/mare-of-easttown/</link>
+      <link>//localhost:1313/articles/mare-of-easttown/</link>
       <pubDate>Tue, 15 Jun 2021 21:10:00 +0000</pubDate>
-      <guid>/articles/mare-of-easttown/</guid>
+      <guid>//localhost:1313/articles/mare-of-easttown/</guid>
       <description>Avis à chaud après le visionnage de la mini-série. Qu&amp;rsquo;est-ce qui m&amp;rsquo;a fait autant l&amp;rsquo;apprécier ?</description>
     </item>
   </channel>

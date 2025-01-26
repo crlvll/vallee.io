@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Arveed</title>
-    <link>/tags/blog/</link>
+    <link>//localhost:1313/tags/blog/</link>
     <description>Recent content in Blog on Arveed</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
     <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L&#39;IA, bulle spéculative ?</title>
-      <link>/articles/reflexions-ia/</link>
+      <link>//localhost:1313/articles/reflexions-ia/</link>
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/articles/reflexions-ia/</guid>
+      <guid>//localhost:1313/articles/reflexions-ia/</guid>
       <description>Depuis un bon moment, je suis le développement des Grands Modèles de Langage (LLM). Je reste convaincu qu’il s’agit surtout d’une bulle spéculative, et donc dangereuse (en tant que telle). Néanmoins, suivant l’adage (connaître ton ennemi), je regarde de près, je note, je teste. Dans cet article, je garde un résumé de mes idées.&#xA;Le développement de l’IA nécessite un investissement massif financier et matériel. Il y a un coût d’utilisation auquel il faut rajouter celui associé à la phase d’entraînement.</description>
     </item>
     <item>
       <title>Auteur prolifique ?</title>
-      <link>/articles/prolifique/</link>
+      <link>//localhost:1313/articles/prolifique/</link>
       <pubDate>Sun, 20 Oct 2024 15:00:19 +0000</pubDate>
-      <guid>/articles/prolifique/</guid>
+      <guid>//localhost:1313/articles/prolifique/</guid>
       <description>Il y a des auteurs qu’on prend pour modèles. C’est comme cela qu’on commence à avoir envie d’écrire (en tout cas c’est mon cas, j’en parle dans l’un des épisodes de Duo de plume). Parfois, l’effet est inverse. Quand on voit la production de plusieurs de ces modèles, on peut se bloquer, se dire que jamais on n’atteindra ce niveau. Que ce soit du côté de la qualité littéraire, du storytelling, ou de la quantité.</description>
     </item>
   </channel>
