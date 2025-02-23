@@ -810,6 +810,8 @@
   </url><url>
     <loc>//localhost:1313/p/ag/</loc>
   </url><url>
+    <loc>//localhost:1313/p/calc/</loc>
+  </url><url>
     <loc>//localhost:1313/p/tso/</loc>
   </url><url>
     <loc>//localhost:1313/lectures/</loc>

@@ -26,6 +26,12 @@ To learn more and follow the writing development, visit www.cyrilvallee.com.
 
 The Internet was made to connect people. If what you find on this site speaks to you or resonates with your ideas, contact me, I love to chat. You can find me on [Mastodon](https://tooting.ch/@arveed) or [Instagram](https://www.instagram.com/_cyrilvallee_).
 
+{{< figure
+src="/images/signal-username-qr-code.avif"
+alt="A QR code linking to the author's Signal account."
+width="300px"
+class="imagecenter" >}}
+
 ### About this website
 
 I borrowed ideas from:

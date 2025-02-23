@@ -2,7 +2,7 @@
 title = "À propos"
 +++
 
-*([English version here](/about/))*
+_([English version here](/about/))_
 
 **Arveed** est un blog de **Cyril Vallée.** (Moi, donc.)
 Je suis <a href="https://www.cyrilvallee.com">romancier</a> et <a href="https://www.h-fr.ch/nos-formations/centre-de-formation-des-soins">technopédagogue</a>.<br>
@@ -19,11 +19,11 @@ Vous pouvez aussi y trouver [mon point de vue sur l'intelligence artificielle](/
 
 Voici ce que dit la bio de mon site d'auteur:
 
->Cyril est né en 1973. Il vit en Suisse avec sa famille.
+> Cyril est né en 1973. Il vit en Suisse avec sa famille.
 >
->Longtemps professionnel de l’urgence, il a rencontré l’écriture au travers du développement d’un scénario, >coaché par Jean-Marie Roth. Ce fut une révélation, devenue une passion depuis plus de vingt ans : raconter >des histoires au travers de ses écrits.
+> Longtemps professionnel de l’urgence, il a rencontré l’écriture au travers du développement d’un scénario, >coaché par Jean-Marie Roth. Ce fut une révélation, devenue une passion depuis plus de vingt ans : raconter >des histoires au travers de ses écrits.
 >
->Après un premier thriller et un passage du côté de la science-fiction et du fantastique, il travaille actuellement sur un nouveau thriller.
+> Après un premier thriller et un passage du côté de la science-fiction et du fantastique, il travaille actuellement sur un nouveau thriller.
 
 Pour en savoir plus et découvrir le développement de la série, rendez-vous sur www.cyrilvallee.com.
 
@@ -33,8 +33,11 @@ Pour en savoir plus et découvrir le développement de la série, rendez-vous su
 
 Internet a été fait dans l'idée de connecter les gens. Si ce que vous trouvez sur _Arveed_ vous interpelle ou résonne avec vos idées, contactez-moi sur [Mastodon](https://tooting.ch/@arveed) ou [Instagram](https://www.instagram.com/_cyrilvallee_).
 
-Pour une conversation sécurisée et privée, utilisez la messagerie [Signal](https://signal.me/#eu/l9JYbM60CWBpMc6EDhXhuRB6Up-0EVePILyEipBYcEnBRwLD8zxGqqn9-aCd2kBC):
-{{< figure align=center src="/images/signal-username-qr-code.avif" title="" width="300" >}}
+{{< figure
+src="/images/signal-username-qr-code.avif"
+alt="A QR code donnant le lien pour le compte signal de l'auteur."
+width="300px"
+class="imagecenter" >}}
 
 ## À propos de ce site web
 

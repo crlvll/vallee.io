@@ -260,7 +260,10 @@ tr:nth-child(even) {
     font-size: 14px;
     line-height: 24px;
 }
-
+.imagecenter {
+  display: block;
+  text-align: center;
+}
 /* ========= ARCHIVES ======== */
 .archive-posts {
     width: 100%;
