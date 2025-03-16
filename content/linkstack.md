@@ -1,5 +1,5 @@
 ---
-title: "Cyrili Vallée"
+title: "Cyril Vallée"
 date: "2024-09-01"
 draft: false"
 slug: "ls"
