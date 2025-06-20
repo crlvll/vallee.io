@@ -5,10 +5,7 @@ Je produis le podcast [Duo de plumes{{< extlink >}}](https://duodeplumes.com/) a
 
 Mon dernier livre est [Timeskippers — Livre II{{< extlink >}}](https://www.cyrilvallee.com/timeskippers/), l'histoire d'un jeune homme qui crée des bulles temporelles à volonté.
 
-<ul class="ulhome">
-<li style="margin: 0 0.5em;"><a href="https://cyrilvallee.com/livres/">Mes livres{{< extlink >}}</a></li>
-<li style="margin: 0 0.5em;"><a href="a-propos/">Me contacter</a></li>
-</ul>
+---
 
 I'm _Arveed_, IRL Cyril Vallée, a swiss writer of fiction thrillers, and SFFF.
 I write a blog on creativity, writing and each subject that drives my curiosity. I write a newsletter (in french) named _Dans les marges_, which is a backstage sight on my creative process. To learn more, hit the [about](/about) page.
@@ -17,4 +14,4 @@ I produce and co-host _Duo de plumes_ a litterary podcast in french with my acco
 
 My last book is _Timeskippers: book 2_, the story of a young man who creates time bubbles on demand.
 
-## Blog posts
+## Articles

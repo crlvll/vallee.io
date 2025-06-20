@@ -1,22 +1,18 @@
-{{ partial "header.html" . }}
-
-{{if not .IsHome }}
+{{ partial "header.html" . }} {{if not .IsHome }}
 <h1>{{ .Title | markdownify }}</h1>
-{{ end }}
-
-{{ .Content }}
+{{ end }} {{ .Content }}
 
 <ul>
-  {{ $pages := .Pages }}
-  {{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
-  {{ range (where $pages "Section" "articles") }}
+  {{ $pages := .Pages }} {{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end
+  }} {{ range (where $pages "Section" "articles") | first 10 }}
   <li class="lihome">
     <span class="date">{{ .Date.Format "2006-01-02" }}</span>
     <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
-    
   </li>
   {{ end }}
 </ul>
-
+<p style="text-align: center">
+  <a href="archives/">>> Tous les articles (fr) >></a>
+</p>
 {{ partial "footer.html" . }}
- 
+

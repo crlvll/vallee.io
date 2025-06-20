@@ -31,7 +31,8 @@ Avec les métadonnées, on (!) peut savoir que vous avez reçu un message d’un
 En les laissant accessibles, il devient facile de dresser un portrait fidèle du comportement d’une personne, de ses relations sociales, des préférences privées et même de son identité.
 
 - https://ssd.eff.org/fr/module/voici-pourquoi-les-m%C3%A9tadonn%C3%A9es-sont-importantes
-  Ce que propose cette loi, c’est d’obliger les fournisseurs de moyens de communication suisses de collecter systématiquement ces données, sur tout le monde, en tout temps, et de les conserver _au cas où la justice en aurait besoin_.
+
+Ce que propose cette loi, c’est d’obliger les fournisseurs de moyens de communication suisses de collecter systématiquement ces données, sur tout le monde, en tout temps, et de les conserver _au cas où la justice en aurait besoin_.
 
 **Qu’est-ce qui pourrait mal se passer ?**
 
@@ -51,7 +52,8 @@ Il y a l’argument de la justice : les criminels utilisent aussi les communicat
 
 - https://www.franceinfo.fr/monde/terrorisme-djihadistes/video-surveillance-par-algorithme-sur-35-attentats-dejoues-en-france-depuis-2017-deux-l-ont-ete-grace-a-des-traces-numeriques-rapporte-gerald-darmanin_4602691.html
 - https://assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-en.asp?fileid=21583&lang=fr
-  La solution existe déjà : la surveillance ciblée sous contrôle judiciaire. Et le renseignement humain. Un travail de police, ciblé, mandaté par un juge, dans le cadre d’une enquête officielle.
+
+La solution existe déjà : la surveillance ciblée sous contrôle judiciaire. Et le renseignement humain. Un travail de police, ciblé, mandaté par un juge, dans le cadre d’une enquête officielle.
 
 Sorti de cet argument, la collecte de ces informations offre un autre danger : celui du piratage. Le simple fait que ces collections existent va agir comme un aimant à cyberattaques, qui si elles réussissent, vont mettre nos métadonnées (nos profils) à disposition du plus offrant. Un exemple simple : vous êtes réfugié politique, pensant avoir trouvé en Suisse la sécurité vous permettant de lutter contre la répression dans votre pays d’origine. Lequel pays va pouvoir racheter ces métadatas piratées, et, en gros, vous retrouver facilement. Sécurité ?
 
