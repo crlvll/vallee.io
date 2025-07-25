@@ -3,18 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-21T13:05:20+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/articles/</loc>
-    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/blog/</loc>
-    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-21T13:05:20+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/blog/</loc>
-    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-21T13:05:20+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
+    <lastmod>2025-07-21T13:05:20+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/articles/2025-07-21-passer-en-temps-evenement-pour-plus-de-creativite/</loc>
+    <lastmod>2025-07-21T13:05:20+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/blog/</loc>
     <lastmod>2025-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/articles/metadatas/</loc>
