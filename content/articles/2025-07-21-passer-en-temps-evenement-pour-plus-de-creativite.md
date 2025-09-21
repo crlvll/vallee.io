@@ -9,8 +9,6 @@ tags: [""]
 title: "Passer en Temps Evenement Pour Plus De Creativite"
 ---
 
-# Passer en temps-événement pour plus de créativité.
-
 Le psychologue et sociologue Robert Levine propose une appréhension intéressante du temps. Selon lui, il y a deux approches au temps: le « temps-horloge » et le « temps-événement ».
 
 Certaines cultures travaillent avec le _temps-horloge_: les gens font les choses qu'ils ont à faire en fonction de l'heure qu'il est. Le déjeuner est à telle heure, la prochaine réunion à telle autre heure.  
@@ -25,10 +23,8 @@ En plus, cette approche favorise la pensée positive, elle enlève ou élimine l
 La plupart des gens _switchent_ entre les deux modes en fonction de la tâche à accomplir, sans s'en rendre compte.  
 Quand vous êtes devant quelque chose qui demande de la qualité et de la créativité, il faut passer à cette approche temps-événement.
 
-
 ---
 
 Merci de me lire ! Pour réagir à cet article, poursuivons la discussion [sur Mastodon](https://tooting.ch/@arveed/).
 
 Si vous souhaitez me suivre sans dépendre des réseaux sociaux, vous pouvez vous abonner à [ma newsletter](https://www.cyrilvallee.com/#/portal/signup) (sur mon site cyrilvallee.com) ou simplement au [flux RSS](https://vallee.io/index.xml) de ce site.
-

@@ -1,7 +1,7 @@
 baseurl: "/"
 languageCode: "fr-FR"
-title: "Arveed"
-theme: ["arveed", "reveal-hugo"]
+title: "c11e"
+theme: ["c11e", "reveal-hugo"]
 defaultContentLanguage: "fr"
 defaultContentLang: "fr"
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
@@ -31,8 +31,8 @@ menu:
       url: "index.xml"
 
 params:
-  description: "Arveed est un blog de l'écrivain Cyril Vallée | Arveed is a blog of writer Cyril Vallée"
-  footer: "Arveed - {Year} | [Github](https://github.com/crlvll) | [Mastodon](https://tooting.ch/@arveed) | [Bluesky](https://bsky.app/profile/arveed.bsky.social) | [Archives](/archives/)"
+  description: "c11e est un blog de l'écrivain Cyril Vallée | c11e is a blog of writer Cyril Vallée"
+  footer: "[c11e](/)  - {Year} | [Github](https://github.com/crlvll) | [Mastodon](https://tooting.ch/@arveed) | [Bluesky](https://bsky.app/profile/arveed.bsky.social) | [Archives](/archives/)"
   assets:
     # disableHLJS: true # to disable highlight.js
     disableFingerprinting: true
@@ -43,8 +43,8 @@ params:
     safari_pinned_tab: "<link / abs url>"
   label:
     text: ""
-    icon: /apple-touch-icon.png
-    iconHeight: 35
+    icon: /images/C11Ew.png
+    iconHeight: 100
 
   ShowReadingTime: true
   ShowWordCount: true

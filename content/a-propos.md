@@ -1,5 +1,6 @@
 +++
 title = "À propos"
+layout = "page"
 +++
 
 _([English version here](/about/))_

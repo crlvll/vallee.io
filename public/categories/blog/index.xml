@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Arveed</title>
+    <title>Blog on c11e</title>
     <link>//localhost:1313/categories/blog/</link>
-    <description>Recent content in Blog on Arveed</description>
+    <description>Recent content in Blog on c11e</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 21 Jul 2025 13:05:20 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jul 2025 18:33:58 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rendre Nos Livres Accessibles</title>
+      <link>//localhost:1313/articles/2025-07-25-rendre-nos-livres-accessibles/</link>
+      <pubDate>Fri, 25 Jul 2025 18:33:58 +0200</pubDate>
+      <guid>//localhost:1313/articles/2025-07-25-rendre-nos-livres-accessibles/</guid>
+      <description>&lt;p&gt;Mars 2025. Le Salon du livre de Genève bat son plein, et je partage le stand du Gahelig (Groupe des Auteurs Helvétiques de Littérature de Genre) pour une heure et demie de dédicaces. Il y a beaucoup de monde et la fatigue commence à se faire ressentir en ce début du troisième après-midi.&lt;br&gt;&#xA;Une jeune femme s’approche, elle attire mon attention, car, de toute évidence, elle est malvoyante. Je ne me souviens plus vraiment ce qui se passe dans ma tête, mais une des questions les plus probables est de savoir comment elle peut apprécier un tel événement si elle ne peut pas avoir accès aux livres.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rendre Nos Livres Accessibles</title>
+      <link>//localhost:1313/articles/2025-07-24-rendre-nos-livres-accessibles/</link>
+      <pubDate>Thu, 24 Jul 2025 18:14:41 +0200</pubDate>
+      <guid>//localhost:1313/articles/2025-07-24-rendre-nos-livres-accessibles/</guid>
+      <description>&lt;p&gt;Mars 2025. Le Salon du livre de Genève bat son plein, et je partage le stand du Gahelig (Groupe des Auteurs Helvétiques de Littérature de Genre) pour une heure et demie de dédicaces. Il y a beaucoup de monde et la fatigue commence à se faire ressentir en ce début du troisième après-midi.&lt;br&gt;&#xA;Une jeune femme s’approche, elle attire mon attention, car, de toute évidence, elle est malvoyante. Je ne me souviens plus vraiment ce qui se passe dans ma tête, mais une des questions les plus probables est de savoir comment elle peut apprécier un tel événement si elle ne peut pas avoir accès aux livres.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Passer en Temps Evenement Pour Plus De Creativite</title>
       <link>//localhost:1313/articles/2025-07-21-passer-en-temps-evenement-pour-plus-de-creativite/</link>
-      <pubDate>Mon, 21 Jul 2025 13:05:20 +0200</pubDate>
+      <pubDate>Mon, 21 Jul 2025 13:27:14 +0200</pubDate>
       <guid>//localhost:1313/articles/2025-07-21-passer-en-temps-evenement-pour-plus-de-creativite/</guid>
-      <description>&lt;p&gt;CONTENT&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Merci de me lire ! Pour réagir à cet article, poursuivons la discussion &lt;a href=&#34;https://tooting.ch/@arveed/&#34;&gt;sur Mastodon&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Si vous souhaitez me suivre sans dépendre des réseaux sociaux, vous pouvez vous abonner à &lt;a href=&#34;https://www.cyrilvallee.com/#/portal/signup&#34;&gt;ma newsletter&lt;/a&gt; (sur mon site cyrilvallee.com) ou simplement au &lt;a href=&#34;https://arveed.com/index.xml&#34;&gt;flux RSS&lt;/a&gt; de ce site.&lt;/p&gt;&#xA;&lt;h1 id=&#34;passer-en-temps-événement-pour-plus-de-créativité&#34;&gt;Passer en temps-événement pour plus de créativité.&lt;/h1&gt;&#xA;&lt;p&gt;Le psychologue et sociologue Robert Levine propose une appréhension intéressante du temps. Selon lui, il y a deux approches au temps: le « temps-horloge » et le « temps-événement ».&lt;/p&gt;</description>
+      <description>&lt;p&gt;Le psychologue et sociologue Robert Levine propose une appréhension intéressante du temps. Selon lui, il y a deux approches au temps: le « temps-horloge » et le « temps-événement ».&lt;/p&gt;&#xA;&lt;p&gt;Certaines cultures travaillent avec le &lt;em&gt;temps-horloge&lt;/em&gt;: les gens font les choses qu&amp;rsquo;ils ont à faire en fonction de l&amp;rsquo;heure qu&amp;rsquo;il est. Le déjeuner est à telle heure, la prochaine réunion à telle autre heure.&lt;br&gt;&#xA;Les cultures qui ne fonctionnent pas sur une approche &lt;em&gt;temps-horloge&lt;/em&gt; ont tendance à fonctionner sur un rapport &lt;em&gt;temps-événement&lt;/em&gt;. Le déjeuner aura lieu quand on a faim, la réunion après le déjeuner. Elle durera jusqu&amp;rsquo;à ce que l&amp;rsquo;objectif soit atteint, et si on n&amp;rsquo;a pas faim d&amp;rsquo;ici là, on commencera alors la réunion suivante. De cette manière, les événements peuvent tout à fait être décalés dans le temps. C&amp;rsquo;est un modèle que les gens habitués à fonctionner avec l&amp;rsquo;autre approche (avec un rapport au temps - à l&amp;rsquo;heure - important) ont du mal à accepte.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Les métadonnées, un risque majeur pour la vie privée</title>

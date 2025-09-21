@@ -1,0 +1,50 @@
+{{ partial "header.html" . }}
+<main>
+<div class="flex">
+  <div class="w100">
+    <div class="meta article-meta w20">
+      {{ if (gt .Params.date 0) }}<span class="date">{{ .Date | time.Format ":date_medium" }}</span>{{ end }}
+      {{ with .Params.genre }}
+      <div class="genre">{{ . }}</div>
+      {{ end }}
+      <span class="data">
+          {{- partial "post_meta.html" . -}}</span>
+      {{ with .Params.author }}<span class="author">par {{ . }}</span>{{ end }}
+    </div>
+
+    <div class="entry w80">
+      <main>
+        <h1><span class="title">{{ .Title | markdownify }}</span></h1>  
+    </div>
+  </div>
+</div>
+<div class="post-content entry w80">
+    <div class="measure-wide">
+      {{ .Content }}
+    </div>
+</div>
+  <hr />
+  {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
+    <ul class="post-tags">
+    {{- range ($.GetTerms $tags) }}
+    <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+    {{- end }}
+    </ul>
+    {{ if (gt .Params.date 0) }}
+    <div class="date-single">{{ .Date.Format "2.01.2006" }}</div>
+    {{ end }}
+    <div
+      style="
+          font-size: small;
+          font-family: &quot;Montserrat&quot;, helvetica, arial, sans-serif;
+          margin-top: -1em;
+        "
+      >
+        Permalink:
+        <a href="{{ .RelPermalink }}"
+          >{{ site.Home.Permalink }}{{ .RelPermalink }}</a
+        >
+      </div>
+</div>
+</main>
+      {{ partial "footer.html" . }}

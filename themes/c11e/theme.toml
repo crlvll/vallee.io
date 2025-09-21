@@ -1,0 +1,13 @@
+name = "c11e"
+license = "MIT"
+licenselink = "https://github.com/yihui/hugo-xmin/blob/master/LICENSE.md"
+description = "Personal theme for vallee.io, heavily based on Xmin (https://xmin.yihui.org)."
+homepage = "https://vallee.io"
+demosite = "https://xmin.yihui.org"
+tags = ["minimal", "blog", "personal", "clean", "simple", "starter", "minimalist"]
+features = ["blog"]
+min_version = "0.3"
+
+[author]
+  name = "Cyril Vallée"
+  homepage = "https://vallee.io"

@@ -1,6 +1,7 @@
 ---
 title: "About this site"
 hiddenInHomeList: true
+layout: page
 ---
 
 **Arveed** is **Cyril Vallée**'s blog. (That's me.)  

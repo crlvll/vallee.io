@@ -8,6 +8,7 @@ slug: "metadatas"
 tags: "blog"
 title: "Les métadonnées, un risque majeur pour la vie privée"
 genre: "opinion"
+author: Cyril Vallée
 ---
 
 Le Conseil fédéral suisse propose de modifier la loi fédérale sur la surveillance de la correspondance par poste et télécommunication (LSCPT). La Suisse, réputée pour sa neutralité et son respect pour la vie privée, risque de devenir le mauvais exemple du continent européen.
